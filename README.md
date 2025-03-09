@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Reza!
 ### PhD Student with a focus on Medical AI at the University of Arizona
-![PhD Student with a focus on Medical AI](https://github.com/mrsaraei/mrsaraei/blob/9c1e5066eeaf2c222f8b21523d469ef40d756b90/figure/profile_banner.svg)
+![PhD Student with a focus on Medical AI](https://github.com/mrsaraei/mrsaraei/blob/bdfe0889a0f1344c3b849d9ef8fedf5c5c3f6acc/figure/intro.jpg)
 
 <p align='justify'>Aspiring to become a Medical AI Scientist focused on developing effective multimodal AI-driven diagnostic solutions for neurological diseases. I am passionate about gaining hands-on experience in healthcare and using AI to enhance early detection and improve patient outcomes.</p>
 
