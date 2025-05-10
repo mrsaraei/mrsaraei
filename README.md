@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Reza!
-### PhD Student with a focus on Biomedical AI at the University of Arizona
+### PhD Student in Biomedical Engineering with a focus on Machine Learning, Computational Neuroscience, and Personalized Medicine at the University of Arizona
 [Email](mailto:mrsaraei@arizona.edu) | [GitHub](https://github.com/mrsaraei) | [LinkedIn](https://www.linkedin.com/in/mrsaraei/) | [Google Scholar](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Mohammad-Saraei-3) | [YouTube](https://www.youtube.com/channel/@mrsaraei) | [Instagram](https://www.instagram.com/mrsaraei/) | [Twitter](https://twitter.com/mrsaraei) | [Facebook](https://www.facebook.com/mrsaraei/)
 
 ![PhD Student with a focus on Medical AI](https://github.com/mrsaraei/mrsaraei/blob/a414a673313b51dcb995e5e8af3e583adcd192a3/figure/intro.jpg)
