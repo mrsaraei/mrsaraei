@@ -4,7 +4,7 @@
 
 ![PhD Student with a focus on Medical AI](https://github.com/mrsaraei/mrsaraei/blob/a414a673313b51dcb995e5e8af3e583adcd192a3/figure/intro.jpg)
 
-<p align="justify">I aspire to be a <strong>Biomedical AI Scientist</strong> focusing on developing multimodal AI-driven diagnostic solutions for systemic diseases. My research interests are in <strong>computational medicine</strong> and <strong>computational neuroscience</strong>, especially their applications in <strong>personalized medicine</strong>, such as <strong>AI-driven biomarker discovery</strong> and <strong>precision early diagnostics</strong>. I am passionate about gaining hands-on experience in healthcare and using machine learning to enhance patient outcomes and improve quality of life.</p>
+<p align="justify">PhD student in Biomedical Engineering with interests in machine learning, computational neuroscience, and personalized medicine, aspiring to become a neuroscientist. I work at the intersection of AI and neuroscience to discover biomarkers and analyze neurophysiological signals to improve neuromodulation therapies. I’m driven to develop targeted treatment strategies and neurotechnologies for chronic pain and neurodegenerative conditions such as Alzheimer’s and Parkinson’s disease.</p>
 
 - 🌱 I’m currently learning how to learn more! 
 - 😄 Pronouns: He/Him/His 
