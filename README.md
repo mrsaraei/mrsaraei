@@ -13,7 +13,7 @@
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
-<p align="justify">PhD student in Biomedical Engineering with interests in machine learning, computational neuroscience, and personalized medicine, aspiring to become a neuroscientist. I work at the intersection of AI and neuroscience to discover biomarkers and analyze neurophysiological signals to improve neuromodulation therapies. I’m driven to develop targeted treatment strategies and neurotechnologies for chronic pain and neurodegenerative conditions such as Alzheimer’s and Parkinson’s disease.</p>
+<p align="justify">PhD student in Biomedical Engineering working at the intersection of AI and neuroscience to advance neuromodulation therapies. My research focuses on identifying chronic pain biomarkers and understanding spinal cord stimulation-induced pain relief using machine learning and computational neuroscience. I aim to develop personalized neurotechnologies and targeted treatment strategies for chronic pain and neurodegenerative disorders.</p>
 
 ## Technical Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
