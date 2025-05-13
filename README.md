@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Reza! 
-### PhD student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning, Computational Neuroscience, and Personalized Medicine 
+### PhD student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning, Computational Neuroscience, and Personalized Medicine at Telkes Lab
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsaraei)
