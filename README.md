@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Reza! 
-### PhD student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning, Clinical Neurophysiology, Computational Neuroscience, and Personalized Medicine at Telkes Lab
+### PhD student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning, Neuroinformatics, Computational Neuroscience, and Personalized Medicine at Telkes Lab
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsaraei)
@@ -13,7 +13,7 @@
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
-<p align="justify">PhD student in Biomedical Engineering exploring the intersection of machine learning, computational neuroscience, and clinical neurophysiology to enhance personalized neuromodulation therapies. My work focuses on identifying biomarkers for chronic pain and optimizing spinal cord stimulation in neurological disorders.</p>
+<p align="justify">PhD student in Biomedical Engineering exploring the intersection of machine learning, computational neuroscience, and neuroinformatics to improve personalized therapies. My research focuses on identifying biomarkers for chronic pain in neurological disorders.</p>
 
 ## Technical Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
