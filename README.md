@@ -13,7 +13,7 @@
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
-<p align="justify">PhD student in Biomedical Engineering exploring the intersection of machine learning, computational neuroscience, and neuroinformatics to improve personalized therapies. My research focuses on identifying biomarkers for chronic pain in neurological disorders.</p>
+<p align="justify">I am a Ph.D. student in Biomedical Engineering focused on leveraging machine learning, computational neuroscience, and neuroinformatics to advance personalized therapies and improve neurological health. My research integrates data-driven methods with clinical insights, particularly in two key areas: identifying neurophysiological biomarkers for chronic pain in neurological disorders, and developing efficient deep learning models for the early detection of neurodegenerative diseases such as Alzheimer’s. With a strong foundation in both theoretical modeling and practical implementation, I aim to bridge the gap between academic research and real-world healthcare solutions.</p>
 
 ## Technical Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
