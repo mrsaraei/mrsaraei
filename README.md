@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Reza! 
-### PhD student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning, Neuroinformatics, Computational Neuroscience, and Personalized Medicine at Telkes Lab
+### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on using machine learning in neuroscience to improve neurological health at Telkes Lab!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsaraei)
@@ -13,7 +13,32 @@
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
-<p align="justify">I am a Ph.D. student in Biomedical Engineering focused on leveraging machine learning, computational neuroscience, and neuroinformatics to advance personalized therapies and improve neurological health. My research integrates data-driven methods with clinical insights, particularly in two key areas: identifying neurophysiological biomarkers for chronic pain in neurological disorders, and developing efficient deep learning models for the early detection of neurodegenerative diseases such as Alzheimer’s. With a strong foundation in both theoretical modeling and practical implementation, I aim to bridge the gap between academic research and real-world healthcare solutions.</p>
+<p align="justify">I’m a Ph.D. student in Biomedical Engineering, working at the intersection of machine learning and neuroscience to drive innovation in personalized therapies and improve neurological health. My current research focuses on:
+
+- Identifying neurophysiological biomarkers of chronic pain in neurological disorders using machine learning.
+- Developing efficient deep learning models for the early detection of neurodegenerative diseases like Alzheimer’s.
+- Developing efficient medical diagnostic tools optimized for use in clinical settings.
+
+With a strong foundation in both theoretical modeling and practical implementation, I’m passionate about translating cutting-edge research into real-world healthcare solutions.</p>
+
+### Clinical Data Analysis: Skills and Tools
+
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
+![Spyder](https://img.shields.io/badge/-Spyder-1DC678?style=flat&logo=spyder&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E1E3B?style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![scikit-image](https://img.shields.io/badge/-scikit--image-092E20?style=flat)
+![PIL](https://img.shields.io/badge/-PIL-366A96?style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
+![EEGLAB](https://img.shields.io/badge/-EEGLAB-00369f?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## Research Portfolio
 
