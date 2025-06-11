@@ -15,7 +15,7 @@
 
 <p align="justify">I am a Ph.D. student in Biomedical Engineering focused on leveraging machine learning, computational neuroscience, and neuroinformatics to advance personalized therapies and improve neurological health. My research integrates data-driven methods with clinical insights, particularly in two key areas: identifying neurophysiological biomarkers for chronic pain in neurological disorders, and developing efficient deep learning models for the early detection of neurodegenerative diseases such as Alzheimer’s. With a strong foundation in both theoretical modeling and practical implementation, I aim to bridge the gap between academic research and real-world healthcare solutions.</p>
 
-## Portfolio
+## Research Portfolio
 
 <table>
   <tr>
