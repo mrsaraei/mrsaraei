@@ -26,7 +26,7 @@
       <br/>DL-MedOD (2025)
     </td>
     <td align="center">
-      <a href="https://github.com/mrsaraei/ViT-2SPN/blob/0de70d45ac6fad31788bd8e045719c42da744890/presentation/Presentation.pdf">
+      <a href="https://github.com/mrsaraei/ViT-2SPN/blob/5d47dedc1fe62e01480bb22806af96cff716757c/presentation/ViT-2SPN.pdf">
         <img src="https://github.com/mrsaraei/ViT-2SPN/blob/0e66f247a46d9e7cc35a399a0fc49477fbff021d/figures/Fig_10.png" width="250"/>
       </a>
       <br/>ViT-2SPN (2025)
