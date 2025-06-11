@@ -23,13 +23,13 @@
       <a href="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf">
         <img src="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/figure/Fig_3.png" width="250"/>
       </a>
-      <br/>DL-MedOD Presentation
+      <br/>DL-MedOD
     </td>
     <td align="center">
       <a href="https://github.com/mrsaraei/ViT-2SPN/blob/0de70d45ac6fad31788bd8e045719c42da744890/presentation/Presentation.pdf">
         <img src="https://github.com/mrsaraei/ViT-2SPN/blob/a8538c85887ad181197d7041b718402bcab31eb7/presentation/Fig_9.png" width="250"/>
       </a>
-      <br/>ViT-2SPN Presentation
+      <br/>ViT-2SPN
     </td>
   </tr>
 </table>
