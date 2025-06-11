@@ -15,6 +15,18 @@
 
 <p align="justify">I am a Ph.D. student in Biomedical Engineering focused on leveraging machine learning, computational neuroscience, and neuroinformatics to advance personalized therapies and improve neurological health. My research integrates data-driven methods with clinical insights, particularly in two key areas: identifying neurophysiological biomarkers for chronic pain in neurological disorders, and developing efficient deep learning models for the early detection of neurodegenerative diseases such as Alzheimer’s. With a strong foundation in both theoretical modeling and practical implementation, I aim to bridge the gap between academic research and real-world healthcare solutions.</p>
 
+## Portfolio
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf">
+        <img src="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/figure/Fig_3.png" width="300"/>
+      </a>
+      <br/>DL-MedOD
+    </td>
+</table>
+
 ## Technical Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
 
