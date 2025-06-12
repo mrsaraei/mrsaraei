@@ -23,36 +23,18 @@ With a strong foundation in both theoretical modeling and practical implementati
 
 ## Clinical Research Skills and Tools
 
-#### Documentation & Presentation:
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![EndNote](https://img.shields.io/badge/-EndNote-7030A0?style=flat&logo=endnote&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+| IDEs & Editors | Libraries & Packages | Analysis Tools | Docs & Presentations |
+|----------------|----------------------|----------------|-----------------------|
+| ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks) | ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) |
+| ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy) | ![EEGLAB](https://img.shields.io/badge/-EEGLAB-00369f?style=for-the-badge) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |
+| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) |
+| ![Spyder](https://img.shields.io/badge/-Spyder-1DC678?style=for-the-badge&logo=spyder&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas) | ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=for-the-badge&logo=spss&logoColor=white) | ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) |
+|  | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib) | ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![EndNote](https://img.shields.io/badge/-EndNote-7030A0?style=for-the-badge&logo=endnote&logoColor=white) |
+|  | ![Seaborn](https://img.shields.io/badge/-Seaborn-2E1E3B?style=for-the-badge) |  |  |
+|  | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |  |  |
+|  | ![scikit-image](https://img.shields.io/badge/-scikit--image-092E20?style=for-the-badge) |  |  |
+|  | ![PIL](https://img.shields.io/badge/-PIL-366A96?style=for-the-badge) |  |  |
 
-#### Statistics & Math:
-![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-#### IDEs and Editors: 
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
-![Spyder](https://img.shields.io/badge/-Spyder-1DC678?style=flat&logo=spyder&logoColor=white)
-
-#### Data Analysis:
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
-![EEGLAB](https://img.shields.io/badge/-EEGLAB-00369f?style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E1E3B?style=flat)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![scikit-image](https://img.shields.io/badge/-scikit--image-092E20?style=flat)
-![PIL](https://img.shields.io/badge/-PIL-366A96?style=flat)
 
 ## Research Portfolio
 
