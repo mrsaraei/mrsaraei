@@ -5,6 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Saraei-3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsaraei/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrsaraei/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@mrsaraei)
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
@@ -71,7 +74,5 @@ With a strong foundation in both theoretical modeling and practical implementati
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true)  
 
 ## Let’s Connect
-[![Email](https://img.shields.io/badge/Email-mrsaraei%40arizona.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsaraei/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrsaraei/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@mrsaraei)
+[![Email (UA)](https://img.shields.io/badge/Email-mrsaraei%40arizona.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
+[![Email (Personal)](https://img.shields.io/badge/Email-mrsaraei%40yahoo.com-720E9E?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:mrsaraei@yahoo.com)
