@@ -72,8 +72,8 @@ Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true)  
 
 ## Let’s Connect
-[![Email (UA)](https://img.shields.io/badge/Email-mrsaraei%40arizona.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
-[![Email (Personal)](https://img.shields.io/badge/Email-mrsaraei%40yahoo.com-720E9E?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:mrsaraei@yahoo.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsaraei/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrsaraei/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@mrsaraei)
+[![Email (UA)](https://img.shields.io/badge/Email-mrsaraei%40arizona.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
+[![Email (Personal)](https://img.shields.io/badge/Email-mrsaraei%40yahoo.com-720E9E?style=flat-square&logo=yahoo&logoColor=white)](mailto:mrsaraei@yahoo.com)
+[![Instagram](https://img.shields.io/badge/Instagram-008080?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mrsaraei/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrsaraei/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@mrsaraei)
