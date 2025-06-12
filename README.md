@@ -43,6 +43,7 @@ With a strong foundation in both theoretical modeling and practical implementati
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2E1E3B?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/-scikit--image-092E20?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![PIL](https://img.shields.io/badge/-PIL-366A96?style=flat)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
 ![EEGLAB](https://img.shields.io/badge/-EEGLAB-00369f?style=flat)
@@ -73,4 +74,6 @@ With a strong foundation in both theoretical modeling and practical implementati
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true)  
 
 ## Let’s Connect
-Feel free to explore my repositories or reach out to collaborate!
+[![Email](https://img.shields.io/badge/Email-mrsaraei%40arizona.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
+
+Feel free to explore my repositories or reach out to collaborate! 
