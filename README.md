@@ -1,23 +1,11 @@
 ### Hi there 👋, I'm Reza! 
 ### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on using Machine Learning in Neuroscience to improve Neurological Health at Telkes Lab!
 
-<div align="center">
-  <a href="https://mrsaraei.github.io/">
-    <img src="https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/mrsaraei/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="https://www.researchgate.net/profile/Mohammad-Saraei-3">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
-  </a>
-  <a href="https://orcid.org/0000-0003-4726-9261">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-  </a>
-</div>
+[![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrsaraei.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Saraei-3)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4726-9261)
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
