@@ -38,10 +38,10 @@ Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E1E3B?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/-scikit--image-092E20?style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PIL](https://img.shields.io/badge/-PIL-366A96?style=flat)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
 ![EEGLAB](https://img.shields.io/badge/-EEGLAB-00369f?style=flat)
 
