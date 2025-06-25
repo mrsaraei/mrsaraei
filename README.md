@@ -11,11 +11,9 @@
 
 <p align="justify">I’m a Ph.D. student in Biomedical Engineering, working at the intersection of machine learning and neuroscience to drive innovation in personalized therapies. My current research focuses on:
 
-1️⃣ Discovering neurophysiological biomarkers of chronic pain using EEG, EMG, and ECG with machine learning to enable personalized neuromodulation.
-
-2️⃣ Developing efficient deep learning models (e.g., ViTs, LLMs) for early detection of neurodegenerative and oncological diseases.
-
-3️⃣ Developing lightweight, real-time diagnostic tools tailored for clinical settings.
+- 1️⃣ Discovering neurophysiological biomarkers of chronic pain using EEG, EMG, and ECG with machine learning to enable personalized neuromodulation.
+- 2️⃣ Developing efficient deep learning models (e.g., ViTs, LLMs) for early detection of neurodegenerative and oncological diseases.
+- 3️⃣ Developing lightweight, real-time diagnostic tools tailored for clinical settings.
 
 With a strong foundation in both theoretical modeling and practical implementation, I’m passionate about translating cutting-edge research into real-world healthcare solutions.
 
