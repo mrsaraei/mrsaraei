@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Reza! 
-### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on using Machine Learning in Neuroscience to improve Neurological Health at Telkes Lab!
+### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning & Neuroscience for Personalized Medicine at Dr. Telkes Lab!
 
 [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrsaraei.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
@@ -9,13 +9,13 @@
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
-<p align="justify">I’m a Ph.D. student in Biomedical Engineering, working at the intersection of machine learning and neuroscience to drive innovation in personalized therapies and improve neurological health. My current research focuses on:
+<p align="justify">I’m a Ph.D. student in Biomedical Engineering, working at the intersection of machine learning and neuroscience to drive innovation in personalized therapies. My current research focuses on:
 
-- 1️⃣ Identifying neurophysiological biomarkers of chronic pain in neurological disorders using machine learning.  
-- 2️⃣ Developing efficient deep learning models for the early detection of neurodegenerative diseases like Alzheimer’s.  
-- 3️⃣ Developing lightweight and real-time medical diagnostic tools optimized for use in clinical settings.
+1️⃣ Discovering neurophysiological biomarkers of chronic pain using EEG, EMG, and ECG with machine learning to enable personalized neuromodulation.
+2️⃣ Developing efficient deep learning models (e.g., ViTs, LLMs) for early detection of neurodegenerative and oncological diseases.
+3️⃣ Developing lightweight, real-time diagnostic tools tailored for clinical settings.
 
-With a strong foundation in both theoretical modeling and practical implementation, I’m passionate about translating cutting-edge research into real-world healthcare solutions.</p>
+With a strong foundation in both theoretical modeling and practical implementation, I’m passionate about translating cutting-edge research into real-world healthcare solutions.
 
 ## My Clinical Research Skills and Tools
 
