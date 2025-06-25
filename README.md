@@ -13,7 +13,7 @@
 
 - 1️⃣ Discovering neurophysiological biomarkers of chronic pain using EEG, EMG, and ECG with machine learning to enable personalized neuromodulation.
 - 2️⃣ Developing efficient deep learning models (e.g., ViTs, LLMs) for early detection of neurodegenerative and oncological diseases.
-- 3️⃣ Developing lightweight, real-time diagnostic tools tailored for clinical settings.
+- 3️⃣ Developing lightweight and real-time diagnostic tools tailored for clinical settings.
 
 With a strong foundation in both theoretical modeling and practical implementation, I’m passionate about translating cutting-edge research into real-world healthcare solutions.
 
