@@ -63,6 +63,12 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
       </a>
       <br/>ViT-2SPN (2025)
     </td>
+    <td align="center">
+      <a href="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf">
+        <img src="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/figure/Fig_6.png" width="250"/>
+      </a>
+      <br/>AttnDL-BrainTumor (2023)
+    </td>
   </tr>
 </table>
 
