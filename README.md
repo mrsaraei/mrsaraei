@@ -53,7 +53,7 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
   <tr>
     <td align="center">
       <a href="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf">
-        <img src="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/figure/Fig_3.png" width="250"/>
+        <img src="https://github.com/mrsaraei/DL-MedOD/blob/85cb70b491147a4e8a431c4b1222baf8221c9226/figure/Fig_10.png" width="250"/>
       </a>
       <br/>DL-MedOD (2025)
     </td>
