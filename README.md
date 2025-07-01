@@ -9,13 +9,9 @@
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
 
-<p align="justify">I’m a Ph.D. student in Biomedical Engineering, working at the intersection of machine learning and neuroscience to drive innovation in personalized therapies. My current research focuses on:
+<p align="justify">Biomedical Engineering Ph.D. candidate researching at the nexus of neuroscience, electrophysiology, and machine learning to develop personalized neuromodulation therapies for chronic pain. My work focuses on identifying neurophysiological biomarkers using EEG, EMG, ECG, wearable sensors, and signal processing to enable quantitative pain assessment, phenotype-driven neuromodulation for neurodegenerative diseases, and innovative neurotechnologies like real-time brain and spinal mapping, smart wearable integration, and biomarker-guided stimulation. Passionate about translating cutting-edge research into clinical solutions to enhance patient outcomes and pioneer next-generation therapeutics.
 
-- 1️⃣ Discovering neurophysiological biomarkers of chronic pain using EEG, EMG, and ECG with machine learning to enable personalized neuromodulation.
-- 2️⃣ Developing efficient deep learning models (e.g., ViTs, LLMs) for early detection of neurodegenerative and oncological diseases.
-- 3️⃣ Developing lightweight and real-time diagnostic tools tailored for clinical settings.
-
-With a strong foundation in both theoretical modeling and practical implementation, I’m passionate about translating cutting-edge research into real-world healthcare solutions.
+As a complement, I focus on developing efficient AI-based models, including ViTs and LLMs, for early detection of neurodegenerative and oncological diseases, designing lightweight, real-time diagnostic tools optimized for clinical deployment.</p>
 
 ## My Clinical Research Skills and Tools
 
