@@ -57,13 +57,20 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 
 **Peer Reviewer:** *IEEE Access: The Multidisciplinary Open Access Journal* | January 2025 – Present 🔗 [Journal](https://ieeeaccess.ieee.org/) | 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
 
-## Honours & Awards
+## 🏅 Honour & Award
 
 **[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 **[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
 **[Appreciation Award]:** Honoured for contributions as Executive Assistant during the ICERP, *WHO* | 2020 – 2021  
 **[Student Recognition Award]:** For scientific and executive contributions to the BMES Association, *IAUT* | 2011 – 2014  
-  
+
+## Language Proficiency
+
+- **Azerbaijani (Azeri)** – Native / Mother Tongue  
+- **Persian (Farsi)** – Native / National Language  
+- **Turkish** – Professional Proficiency  
+- **English** – Professional Proficiency
+
 ## 📚 My Publication
 
 **Journal Paper:**
