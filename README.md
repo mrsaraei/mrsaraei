@@ -48,6 +48,13 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
 
 ## My Publication
 
+**Journal Paper:**
+
+- 🔗 [DOI](https://doi.org/10.1109/ACCESS.2025.3553087) | 📄 [PDF](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf) **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038.
+- 🔗 [DOI](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016) | 📄 [PDF](https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf) **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Frontiers in Health Informatics, 12, 164.
+
+
+<!--
 <table>
   <tr>
     <td align="center">
@@ -70,6 +77,7 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
     </td>
   </tr>
 </table>
+-->
 
 ## Technical Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
