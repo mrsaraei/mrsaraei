@@ -15,6 +15,18 @@
 
 As a complement, I focus on developing efficient AI-based models, including ViTs and LLMs, for early detection of neurodegenerative and oncological diseases, designing lightweight, real-time diagnostic tools optimized for clinical deployment.</p>
 
+## 🎓 My Education
+
+**M.Sc., Biomedical Engineering**  
+*Seraj University*, Tabriz, East Azerbaijan, Iran |  2020 – 2022  
+**Thesis:** *Multimodal Data Fusion for Medical Image Analysis Using Machine Learning*  
+**Advisor:** Dr. Saman Rajebi  
+**GPA:** 17.98 / 20 (≈ 3.54 / 4.0)
+
+**B.Sc., Biomedical Engineering**  
+*Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
+**GPA:** 16.27 / 20 (≈ 3.32 / 4.0)
+
 <!--
 ## My Skills
 Statistics & Math: ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
@@ -46,7 +58,7 @@ Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&
 Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 -->
 
-## My Publication
+## 📚 My Publication
 
 **Journal Paper:**
 
