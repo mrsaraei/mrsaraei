@@ -15,8 +15,8 @@
 
 As a complement, I focus on developing efficient AI-based models, including ViTs and LLMs, for early detection of neurodegenerative and oncological diseases, designing lightweight, real-time diagnostic tools optimized for clinical deployment.</p>
 
+<!--
 ## My Skills
-
 Statistics & Math: ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
@@ -44,6 +44,7 @@ Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&
 ![EEGLAB](https://img.shields.io/badge/-EEGLAB-00369f?style=flat)
 
 Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+-->
 
 ## My Publication
 
