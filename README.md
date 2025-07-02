@@ -49,7 +49,7 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 
 ## 🤝 Research Collaboration
 
-**[On-Site]** VSI, ECE, *The University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
+**[On-Site]** VSI, ECE, *University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
 **[Remote]** CHI, AIHI, *Macquarie University*, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
 **[Remote]** CEDP, *Brunel University London*, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
 
@@ -59,10 +59,10 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 
 ## Honours & Awards
 
-**Herbold Fellowship** – Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
-**Excellence Award, Clinical Engineer** – Recognized for outstanding performance in hospital-related affairs, *Tabriz University of Medical Sciences* | 2015 – 2024  
-**Appreciation Award** – Honoured for contributions as Executive Assistant during the Iran COVID-19 Emergency Response Project (ICERP), *World Health Organization* | 2020 – 2021  
-**Student Recognition Award** – For scientific and executive contributions to the Biomedical Engineering Scientific Association, *Islamic Azad University of Tabriz* | 2011 – 2014  
+**[Herbold Fellowship]:** – Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
+**[Excellence Award, CE]:** – Recognized for outstanding performance in hospital-related affairs, *Tabriz University of Medical Sciences* | 2015 – 2024  
+**[Appreciation Award]:** – Honoured for contributions as Executive Assistant during the Iran COVID-19 Emergency Response Project, *World Health Organization* | 2020 – 2021  
+**[Student Recognition Award]:** – For scientific and executive contributions to the Biomedical Engineering Scientific Association, *Islamic Azad University of Tabriz* | 2011 – 2014  
   
 ## 📚 My Publication
 
