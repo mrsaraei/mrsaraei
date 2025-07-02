@@ -17,15 +17,27 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 
 ## 🎓 My Education
 
-**M.Sc., Biomedical Engineering**  
-*Seraj University*, Tabriz, East Azerbaijan, Iran |  2020 – 2022  
+**Ph.D. in Biomedical Engineering**  
+*The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
+**Advisor:** Dr. Ilknur Telkes
+
+**M.Sc. in Biomedical Engineering**  
+*Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **Thesis:** *Multimodal Data Fusion for Medical Image Analysis Using Machine Learning*  
 **Advisor:** Dr. Saman Rajebi  
 **GPA:** 17.98 / 20 (≈ 3.54 / 4.0)
 
-**B.Sc., Biomedical Engineering**  
+**B.Sc. in Biomedical Engineering**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 **GPA:** 16.27 / 20 (≈ 3.32 / 4.0)
+
+## 🏥 My Experience
+
+**Supervisor, Clinical Engineer**  
+*Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2024  
+**Industry:** Hospitals & Health Care  
+**Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
+**Responsibilities:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
 
 <!--
 ## My Skills
