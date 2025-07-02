@@ -71,14 +71,30 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
   </tr>
 </table>
 
-## Technical Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true)  
-
 ## Let’s Connect
-[![Email (UA)](https://img.shields.io/badge/Email-mrsaraei%40arizona.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrsaraei@arizona.edu)
-[![Email (Personal)](https://img.shields.io/badge/Email-mrsaraei%40yahoo.com-720E9E?style=flat-square&logo=yahoo&logoColor=white)](mailto:mrsaraei@yahoo.com)
-[![Instagram](https://img.shields.io/badge/Instagram-008080?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mrsaraei/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrsaraei/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@mrsaraei)
+<img align="left" src="https://github.com/mrsaraei/mrsaraei/blob/bc36ccb0718c2acb79549dc4eea6e68d974cd6c9/figure/u-of-arizona-logo.png" width="350" height="340" alt="University of Arizona Logo">
+
+**Mohammadreza Saraei**  
+Ph.D. Student, Biomedical Engineering  
+Graduate Research Assistant, Telkes Lab  
+
+Department of Biomedical Engineering  
+Department of Neurosurgery  
+The University of Arizona  
+
+Arizona Health Sciences Center  
+Bldg. 201, Research Lab. 7328  
+Tucson, AZ 85724 | USA  
+
+📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu)  
+📧 [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)  
+
+[![Instagram](https://img.shields.io/badge/Instagram-mrsaraei-008080?style=flat-square)](https://www.instagram.com/mrsaraei/)
+[![Facebook](https://img.shields.io/badge/Facebook-mrsaraei-1877F2?style=flat-square)](https://www.facebook.com/mrsaraei/)
+[![YouTube](https://img.shields.io/badge/YouTube-mrsaraei-FF0000?style=flat-square)](https://www.youtube.com/channel/@mrsaraei)
+
+## Technical Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
+
+--- 
+© 2025 Mohammadreza Saraei. All rights reserved.
