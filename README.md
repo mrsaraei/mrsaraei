@@ -47,7 +47,7 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 **UGTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 **UGTA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-### 🤝 Research Co-Operation
+## 🤝 Research Collaboration
 
 **[On-Site]** VSI, ECE, *The University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
 **[Remote]** CHI, AIHI, *Macquarie University*, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
@@ -56,7 +56,6 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 ## 📚 My Publication
 
 **Journal Paper:**
-
 - 🔗 [DOI](https://doi.org/10.1109/ACCESS.2025.3553087) | 📄 [PDF](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf) | **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038.
 - 🔗 [Preprint]() | 📄 [Slide](https://github.com/mrsaraei/ViT-2SPN/blob/5d47dedc1fe62e01480bb22806af96cff716757c/presentation/ViT-2SPN.pdf) | **Saraei, M.**, Kozak, I., & Lee, E.J. (2025). *ViT-2SPN: Vision Transformer-Based Dual-Stream Self-Supervised Pretraining for Retinal OCT Classification*. arXiv preprint arXiv:2501.17260.
 - 🔗 [DOI](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016) | 📄 [PDF](https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf) | **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Frontiers in Health Informatics, 12, 164.
