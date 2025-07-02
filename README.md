@@ -17,27 +17,27 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 
 ## 🎓 Education Background
 
-**Ph.D. in Biomedical Engineering**  
+**Ph.D. in Biomedical Engineering (BME)**  
 *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
 **Advisor:** Dr. Ilknur Telkes
 
-**M.Sc. in Biomedical Engineering**  
+**M.Sc. in Biomedical Engineering (BME)**  
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **Thesis:** *Multimodal Data Fusion for Medical Image Analysis Using Machine Learning*  
 **Advisor:** Dr. Saman Rajebi  
 **GPA:** 17.98 / 20 (≈ 3.54 / 4.0)
 
-**B.Sc. in Biomedical Engineering**  
+**B.Sc. in Biomedical Engineering (BME)**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 **GPA:** 16.27 / 20 (≈ 3.32 / 4.0)
 
 ## 🏥 Work Experience
 
-**Supervisor, Clinical Engineer**  
+**Supervisor, Clinical Engineer (SCE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2024  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibilities:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
+**Responsibility:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
 
 ## 👨‍🔬 Academic & Professional Assistances
 
@@ -52,6 +52,10 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 **[On-Site]** VSI, ECE, *The University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
 **[Remote]** CHI, AIHI, *Macquarie University*, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
 **[Remote]** CEDP, *Brunel University London*, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
+
+## 📋 Peer-Review
+
+**Peer Reviewer:** *IEEE Access: The Multidisciplinary Open Access Journal* | January 2025 – Present 🔗 [Journal](https://ieeeaccess.ieee.org/) | 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
 
 ## 📚 My Publication
 
