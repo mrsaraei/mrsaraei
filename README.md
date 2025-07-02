@@ -41,9 +41,9 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 
 ## 👨‍🔬 Academic & Professional Assistances
 
-**GRA:** *Telkes Lab, Biomedical Engineering, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
+**GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
 
-**Executive:** *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
+**Executive:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
 
 **TA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
 
