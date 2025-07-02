@@ -72,7 +72,7 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
 </table>
 
 ## Let’s Connect
-<img align="left" src="https://github.com/mrsaraei/mrsaraei/blob/bc36ccb0718c2acb79549dc4eea6e68d974cd6c9/figure/u-of-arizona-logo.png" width="350" height="340" alt="University of Arizona Logo">
+<img align="center" src="https://github.com/mrsaraei/mrsaraei/blob/bc36ccb0718c2acb79549dc4eea6e68d974cd6c9/figure/u-of-arizona-logo.png" width="120" height="120" alt="University of Arizona Logo">
 
 **Mohammadreza Saraei**  
 Ph.D. Student, Biomedical Engineering  
