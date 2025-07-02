@@ -39,7 +39,7 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
 **Responsibilities:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
 
-## Academic & Professional Assistances
+## 👨‍🔬 Academic & Professional Assistances
 
 **GRA:** *Telkes Lab, Biomedical Engineering, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
 
@@ -49,7 +49,7 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 
 **TA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 
-**TA:** [BME006, BME008] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
+**TA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## 📚 My Publication
 
