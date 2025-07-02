@@ -45,7 +45,7 @@ Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&
 
 Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## My Biomedical Research 
+## My Publication
 
 <table>
   <tr>
