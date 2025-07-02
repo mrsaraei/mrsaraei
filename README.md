@@ -7,7 +7,6 @@
 
 <!-- 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Saraei-3)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4726-9261)
 -->
 
 ![Slideshow](https://github.com/mrsaraei/mrsaraei/blob/f737402b3c72bacba0ad31b3dc1af9209a34a7ec/figure/Fig_1.gif)
@@ -16,7 +15,7 @@
 
 As a complement, I focus on developing efficient AI-based models, including ViTs and LLMs, for early detection of neurodegenerative and oncological diseases, designing lightweight, real-time diagnostic tools optimized for clinical deployment.</p>
 
-## My Clinical Research Skills and Tools
+## My Skills
 
 Statistics & Math: ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -46,7 +45,7 @@ Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&
 
 Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## My Biomedical Research Portfolio
+## My Biomedical Research 
 
 <table>
   <tr>
@@ -71,30 +70,9 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
   </tr>
 </table>
 
-## Let’s Connect
-<img align="center" src="https://github.com/mrsaraei/mrsaraei/blob/bc36ccb0718c2acb79549dc4eea6e68d974cd6c9/figure/u-of-arizona-logo.png" width="120" height="120" alt="University of Arizona Logo">
-
-**Mohammadreza Saraei**  
-Ph.D. Student, Biomedical Engineering  
-Graduate Research Assistant, Telkes Lab  
-
-Department of Biomedical Engineering  
-Department of Neurosurgery  
-The University of Arizona  
-
-Arizona Health Sciences Center  
-Bldg. 201, Research Lab. 7328  
-Tucson, AZ 85724 | USA  
-
-📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu)  
-📧 [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)  
-
-[![Instagram](https://img.shields.io/badge/Instagram-mrsaraei-008080?style=flat-square)](https://www.instagram.com/mrsaraei/)
-[![Facebook](https://img.shields.io/badge/Facebook-mrsaraei-1877F2?style=flat-square)](https://www.facebook.com/mrsaraei/)
-[![YouTube](https://img.shields.io/badge/YouTube-mrsaraei-FF0000?style=flat-square)](https://www.youtube.com/channel/@mrsaraei)
-
 ## Technical Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
 
---- 
-© 2025 Mohammadreza Saraei. All rights reserved.
+---
+© 2025 **Mohammadreza Saraei** · All rights reserved!  
+📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
