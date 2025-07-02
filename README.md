@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Reza! 
 ### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning and Neuroscience for Personalized Neuromodulation at Dr. Telkes' Lab!
 
-[![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=githubpages&logoColor=white)](https://mrsaraei.github.io/)
+[![Research Lab](https://img.shields.io/badge/Research%20Lab-008080?style=for-the-badge)](https://telkeslab.com/people/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Saraei-3)
