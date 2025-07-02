@@ -42,14 +42,16 @@ As a complement, I focus on developing efficient AI-based models, including ViTs
 ## 👨‍🔬 Academic & Professional Assistances
 
 **GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
-
 **Executive:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
+**UGTA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
+**UGTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
+**UGTA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-**TA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
+### 🤝 Research Co-Operation
 
-**TA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
-
-**TA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
+**[On-Site]** VSI, ECE, *The University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
+**[Remote]** CHI, AIHI, *Macquarie University*, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
+**[Remote]** CEDP, *Brunel University London*, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
 
 ## 📚 My Publication
 
