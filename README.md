@@ -140,7 +140,7 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<img align="left" src="https://github.com/mrsaraei/mrsaraei/blob/8fc8485a68c166c91f3dfabba5e843d1c1ff09f3/figure/vcard_qrcode.png" alt="vCard" width="85"/>  
+<img align="left" src="https://github.com/mrsaraei/mrsaraei/blob/8fc8485a68c166c91f3dfabba5e843d1c1ff09f3/figure/vcard_qrcode.png" alt="vCard" width="75"/>  
 
 **Stay Connected.** [Scan QR-Code]   
 © 2025 **Mohammadreza Saraei** · All rights reserved!  
