@@ -5,11 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
 [![Google Scholar](https://img.shields.io/badge/View%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 
-<img align="left" src="https://github.com/mrsaraei/mrsaraei/blob/e80c562eeb9b33d596117eb2bf5b1992ad3f01a6/figure/intro.gif" alt="Neuroscience" width="350" style="padding-left:15px;">
+<!--
+<img align="left" src="https://github.com/mrsaraei/mrsaraei/blob/e80c562eeb9b33d596117eb2bf5b1992ad3f01a6/figure/intro.gif" alt="Neuroscience" width="400">
 
-<p align="justify">Biomedical Engineering Ph.D. student researching at the intersection of neuroscience, electrophysiology, and machine learning to develop personalized neuromodulation therapies for chronic pain. My work focuses on identifying neurophysiological biomarkers using EEG, EMG, ECG, wearable sensors, and signal processing to enable quantitative pain assessment, phenotype-driven neuromodulation for neurodegenerative diseases, and innovative neurotechnologies such as real-time brain and spinal mapping, smart wearable integration, and biomarker-guided stimulation. Passionate about translating cutting-edge research into clinical solutions to improve patient outcomes and pioneer next-generation therapeutics.
+<p align="justify">Biomedical Engineering Ph.D. student researching at the intersection of neuroscience, electrophysiology, and machine learning to develop personalized neuromodulation therapies for chronic pain. My work focuses on identifying neurophysiological biomarkers using EEG, EMG, ECG, wearable sensors, and signal processing to enable quantitative pain assessment, phenotype-driven neuromodulation for neurodegenerative diseases, and innovative neurotechnologies such as real-time brain and spinal mapping, smart wearable integration, and biomarker-guided stimulation. Passionate about translating cutting-edge research into clinical solutions to improve patient outcomes and pioneer next-generation therapeutics. 
 
 As a complement, I focus on developing efficient AI-based models, including ViTs and LLMs, for early detection of neurodegenerative and oncological diseases, designing lightweight, real-time diagnostic tools optimized for clinical deployment.</p>
+-->
 
 <table border="0">
   <tr>
