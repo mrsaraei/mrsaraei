@@ -9,7 +9,7 @@
 
 As a complement, I focus on developing efficient artificial intelligence-based models, including ViTs and LLMs, for early detection of neurodegenerative and oncological diseases, designing real-time diagnostic tools optimized for clinical deployment.</p>
 
-## 🎓 Education Background
+## Education Background
 
 **Ph.D. in Biomedical Engineering (BME)**  
 *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
@@ -25,7 +25,7 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 **GPA:** 16.27 / 20 (≈ 3.32 / 4.0)
 
-## 🏥 Job Background
+## Job Background
 
 **Supervisor, Clinical Engineer (SCE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2024  
@@ -33,7 +33,7 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
 **Responsibility:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
 
-## 👨‍🔬 Academic & Professional Assistances
+## Academic & Professional Assistances
 
 **GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
 **Executive:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
