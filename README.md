@@ -58,7 +58,7 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 **[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 **[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
 **[Appreciation Award]:** Honoured for contributions as technical project coordinator during the ICERP, *WHO* | 2020 – 2021  
-**[Student Recognition Award]:** For scientific and executive contributions to the BMES Association, *IAUT* | 2011 – 2014  
+**[Student Recognition Award]:** For scientific and technical coordination contributions to the BMES Association, *IAUT* | 2011 – 2014  
 
 ## Language Proficiency
 
