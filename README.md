@@ -38,7 +38,7 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 ## Academic & Professional Assistances
 
 **GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
-**Executive:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
+**TPC:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
 **UGTA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
 **UGTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 **UGTA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
@@ -57,7 +57,7 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 
 **[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 **[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
-**[Appreciation Award]:** Honoured for contributions as Executive Assistant during the ICERP, *WHO* | 2020 – 2021  
+**[Appreciation Award]:** Honoured for contributions as technical project coordinator during the ICERP, *WHO* | 2020 – 2021  
 **[Student Recognition Award]:** For scientific and executive contributions to the BMES Association, *IAUT* | 2011 – 2014  
 
 ## Language Proficiency
