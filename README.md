@@ -56,7 +56,7 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 
 ## Honour & Award
 
-**[Research Assistantship]:** Supported by the Telkes Lab, BIomedical Engineering Department, University of Arizona ($71,158) | 2025 - 2028  
+**[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2028  
 **[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 **[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
 **[Appreciation Award]:** Honoured for contributions as technical project coordinator during the ICERP, *WHO* | 2020 – 2021  
