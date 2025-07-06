@@ -37,6 +37,7 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 
 ## Academic & Professional Assistances
 
+**DA:** [BME Lab] *Biomedical Engineering Department, University of Arizona* – Mr. Brandon Derrow | Summer 2025
 **GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
 **TPC:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
 **UGTA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
