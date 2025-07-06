@@ -31,28 +31,28 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 
 **Supervisor, Clinical Engineer (SCE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2024  
-**Industry:** Hospitals & Health Care  
-**Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
+- **Industry:** Hospitals & Health Care  
+- **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
+- **Responsibility:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
 
 ## Academic & Professional Assistances
 
-**Department Assistant:**   
+- **Department Assistant:**   
 [BME Lab] *Biomedical Engineering Department, University of Arizona* – Mr. Brandon Derrow | Summer 2025  
 
-**Graduate Research Assistant:**   
+- **Graduate Research Assistant:**   
 [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
 
-**Technical Project Coordinator:**   
+- **Technical Project Coordinator:**   
 [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
 
-**Undergraduate Teaching Assistant:**   
+- **Undergraduate Teaching Assistant:**   
 [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
 
-**Undergraduate Teaching Assistant:**   
+- **Undergraduate Teaching Assistant:**   
 [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 
-**Undergraduate Teaching Assistant:**   
+- **Undergraduate Teaching Assistant:**   
 [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Research Collaboration
