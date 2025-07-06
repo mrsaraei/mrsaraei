@@ -37,12 +37,18 @@ As a complement, I focus on developing efficient artificial intelligence-based m
 
 ## Academic & Professional Assistances
 
-**Department Assistant:** [BME Lab] *Biomedical Engineering Department, University of Arizona* – Mr. Brandon Derrow | Summer 2025  
-**Research Assistant:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
-**Technical Project Coordinator:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
-**Teaching Assistant:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
-**Teaching Assistant:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
-**Teaching Assistant:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
+**Department Assistant:** 
+[BME Lab] *Biomedical Engineering Department, University of Arizona* – Mr. Brandon Derrow | Summer 2025  
+**Research Assistant:** 
+[Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
+**Technical Project Coordinator:** 
+[ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
+**Teaching Assistant:** 
+[BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
+**Teaching Assistant:** 
+[BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
+**Teaching Assistant:** 
+[BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Research Collaboration
 
