@@ -1,3 +1,5 @@
+<img src="https://github.com/mrsaraei/mrsaraei/blob/ae206ef710be16935c00cfaf2fe89aa575d7b48c/figure/BME.svg" alt="arizona" width="400">  
+
 ### Hi there 👋, I'm Reza! 
 ### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning and Neuroscience for Personalized Neuromodulation at Dr. Telkes' Lab!
 
