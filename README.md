@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
 [![Google Scholar](https://img.shields.io/badge/View%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 
-<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="375">
+<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="350">
 
 <p align="justify">Biomedical Engineering Ph.D. student focusing on neural signal processing and personalized neuromodulation for chronic pain. I analyze EEG, EMG, ECG, and wearable sensor data to identify neurophysiological biomarkers and evaluate the effects of spinal cord stimulation. My research supports data-driven pain assessment, targeted neuromodulation, and the development of real-time brain and spinal cord mapping, as well as smart therapeutic technologies. Additionally, I work on developing efficient ViTs and LLMs for the early detection of neurodegenerative and oncological diseases, creating lightweight, real-time diagnostic tools optimized for clinical use.</p>
 
