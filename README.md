@@ -9,9 +9,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="400">
 
-<p align="justify">Biomedical Engineering Ph.D. student focused on neural signal processing and personalized neuromodulation for chronic pain. I analyze EEG, EMG, ECG, and wearable sensor data to identify neurophysiological biomarkers and assess the effects of spinal cord stimulation. My research supports data-driven pain assessment, targeted neuromodulation, and the development of real-time brain/spinal mapping and smart therapeutic technologies. 
-
-As a complement, I focus on developing efficient artificial intelligence-based models, including ViTs and LLMs, for the early detection of neurodegenerative and oncological diseases, designing real-time diagnostic tools optimized for clinical deployment.</p>
+<p align="justify">Biomedical Engineering Ph.D. student focused on neural signal processing and personalized neuromodulation for chronic pain. I analyze EEG, EMG, ECG, and wearable sensor data to identify neurophysiological biomarkers and assess the effects of spinal cord stimulation. My research supports data-driven pain assessment, targeted neuromodulation, and the development of real-time brain/spinal mapping and smart therapeutic technologies. As a complement, I focus on developing efficient artificial intelligence-based models, including ViTs and LLMs, for the early detection of neurodegenerative and oncological diseases, designing real-time diagnostic tools optimized for clinical deployment.</p>
 
 ## Education Background
 
