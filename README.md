@@ -41,7 +41,7 @@
 
 ## Academic & Professional Assistances
 
-**Department Assistant:** [BME Lab] *Biomedical Engineering Department, University of Arizona* – Mr. Brandon Derrow | Summer 2025  
+**Department Assistant:** [BME Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
 **GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
 **Project Assistant:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
 **UTA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
