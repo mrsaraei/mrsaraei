@@ -31,7 +31,7 @@
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 **GPA:** 16.27 / 20 (≈ 3.32 / 4.0)
 
-## Job Background
+## Work Experience
 
 **Supervisor, Clinical Engineer (SCE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2024  
