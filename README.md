@@ -1,6 +1,5 @@
-<img src="https://github.com/mrsaraei/mrsaraei/blob/ae206ef710be16935c00cfaf2fe89aa575d7b48c/figure/BME.svg" alt="arizona" width="400">  
+<img src="https://github.com/mrsaraei/mrsaraei/blob/f03572791d39996707758cb8a1de9438d674e9ab/figure/Header.png" alt="arizona">  
 
-### Hi there 👋, I'm Reza! 
 ### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning and Neuroscience for Personalized Neuromodulation at Dr. Telkes' Lab!
 
 [![Research Lab](https://img.shields.io/badge/Research%20Lab-Telkes%20Lab-008080?style=for-the-badge&logo=academia&logoColor=white)](https://telkeslab.com/people/)
@@ -31,9 +30,9 @@
 
 **Supervisor, Clinical Engineer (SCE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2024  
-- **Industry:** Hospitals & Health Care  
-- **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-- **Responsibility:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
+**Industry:** Hospitals & Health Care  
+**Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
+**Responsibility:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
 
 ## Academic & Professional Assistances
 
@@ -149,8 +148,5 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<img align="left" src="https://github.com/mrsaraei/mrsaraei/blob/8fc8485a68c166c91f3dfabba5e843d1c1ff09f3/figure/vcard_qrcode.png" alt="vCard" width="75"/>  
-
-**Stay Connected.** [Scan QR-Code]   
 © 2025 **Mohammadreza Saraei** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
