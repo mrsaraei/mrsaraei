@@ -25,11 +25,11 @@
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **Thesis:** *Multimodal Data Fusion for Medical Image Analysis Using Machine Learning*  
 **Advisor:** Dr. Saman Rajebi  
-**GPA:** 17.98 / 20 (≈ 3.54 / 4.0)
+**GPA:** 17.98/20 (≈ 3.54/4.0)
 
 **B.Sc. in Biomedical Engineering (BME)**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
-**GPA:** 16.27 / 20 (≈ 3.32 / 4.0)
+**GPA:** 16.27/20 (≈ 3.32/4.0)
 
 ## Work Experience
 
