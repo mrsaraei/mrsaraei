@@ -1,0 +1,19 @@
+name: Update Google Scholar Citation Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs every Sunday at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate badge
+        uses: weiwei11/scholar-badge@v1
+        with:
+          user_id: 'IwY5S7kAAAAJ'  # Your Scholar ID
+          file_path: 'README.md'  # Path to insert/update badge
