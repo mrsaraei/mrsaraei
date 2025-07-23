@@ -143,7 +143,8 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
 
 ---
 
-<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="120">
+<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="150">
 
+The Pain Originates in the Brain!  
 © 2025 **Mohammadreza Saraei** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
