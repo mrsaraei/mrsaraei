@@ -1,11 +1,4 @@
-<img src="https://github.com/mrsaraei/mrsaraei/blob/a54fc2b0976152951b44684bd46099fc07e4b6cd/figure/Github.png" alt="arizona">  
-
-<!--
-<img src="https://github.com/mrsaraei/mrsaraei/blob/ae206ef710be16935c00cfaf2fe89aa575d7b48c/figure/BME.svg" alt="arizona" width="400">  
-
-### Hi there 👋, I'm Reza! 
-### Ph.D. student in Biomedical Engineering at the University of Arizona, focusing on Machine Learning and Neuroscience for Personalized Neuromodulation at Dr. Telkes' Lab!
--->
+<img src="https://github.com/mrsaraei/mrsaraei/blob/98ad0efbba16bcbee03cafb1d8adcf7d26998422/figure/LinkedIn.png" alt="pain">  
 
 [![Research Lab](https://img.shields.io/badge/Research%20Lab-Telkes%20Lab-008080?style=for-the-badge&logo=academia&logoColor=white)](https://telkeslab.com/people/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
