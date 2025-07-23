@@ -8,10 +8,6 @@
 
 </div>
 
-<!--
-<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="375">
--->
-
 <p align="justify">Ph.D. student in Biomedical Engineering interested in Machine Learning and Neuroscience for early diagnosis and personalized therapy. I am currently focusing on neural signal processing and personalized neuromodulation for chronic pain and neurodegenerative diseases. I am analyzing EEG, EMG, ECG, and wearable sensor data to identify neurophysiological biomarkers and assess the impact of spinal cord stimulation. I'm also interested in developing efficient ViTs, LLMs, and multimodal learning frameworks aimed at the early detection of diseases, with a focus on real-time diagnostic tools optimized for clinical deployment.</p>
 
 ## Education Background
@@ -146,5 +142,8 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="120">
+
 © 2025 **Mohammadreza Saraei** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
