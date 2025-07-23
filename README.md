@@ -31,10 +31,16 @@
 ## Work Experience
 
 **Supervisor, Clinical Engineer (SCE)**  
-*Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2024  
+*Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2017 – 2024  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  Overseeing and leading biomedical engineering teams in hospitals to ensure safe and effective medical devices and healthcare systems for optimal patient care.
+**Responsibility:**  I've led clinical engineering teams (biomedical engineers) in hospitals to ensure the safe and effective use of medical devices. My responsibilities have encompassed overseeing medical device management, training end-users, and supervising the delivery and installation of capital equipment. I have also collaborated with the WHO on the Iran COVID-19 Emergency Response Project and conducted data analysis to support patient care improvements. Additionally, I've been involved in licensing advanced medical imaging systems and establishing newly equipped therapeutic wards. Throughout, I've identified opportunities to optimize device utilization and reduce costs across healthcare facilities.
+
+**Clinical Engineer (CE)**  
+*Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
+**Industry:** Hospitals & Health Care  
+**Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
+**Responsibility:**  I've evaluated and overseen the procurement of capital medical devices, ensuring alignment with hospital needs and full regulatory compliance. My responsibilities have also included conducting safety inspections, audits, and quality control, as well as implementing preventive maintenance protocols to ensure optimal medical equipment reliability. Additionally, I've developed clear and concise technical documentation, such as checklists and quick-reference guides, to support clinical staff and enhance operational efficiency.
 
 ## Academic & Professional Assistance
 
