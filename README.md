@@ -1,10 +1,10 @@
 <img src="https://github.com/mrsaraei/mrsaraei/blob/98ad0efbba16bcbee03cafb1d8adcf7d26998422/figure/LinkedIn.png" alt="pain">  
 
 <div align="left">
-  
-[![Research Lab](https://img.shields.io/badge/Research%20Lab-Telkes%20Lab-008080?style=for-the-badge&logo=academia&logoColor=white)](https://telkeslab.com/people/)
-[![LinkedIn](https://img.shields.io/badge/Professional%20Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
-[![Google Scholar](https://img.shields.io/badge/Research%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
+
+[![Research Lab](https://img.shields.io/badge/Research%20Lab-Dr.%20Telkes%20Lab-008080?style=for-the-badge&logo=academia&logoColor=white)](https://telkeslab.com/people/)
+[![Professional Profile](https://img.shields.io/badge/Professional%20Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/mrsaraei/)
+[![Research Profile](https://img.shields.io/badge/Research%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 
 </div>
 
