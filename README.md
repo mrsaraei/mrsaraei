@@ -8,7 +8,9 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering interested in Machine Learning and Neuroscience for early diagnosis and personalized therapy. I am currently focusing on neural signal processing and personalized neuromodulation for chronic pain and neurodegenerative diseases. I am analyzing EEG, EMG, ECG, and wearable sensor data to identify neurophysiological biomarkers and assess the impact of spinal cord stimulation. I'm also interested in developing efficient ViTs, LLMs, and multimodal learning frameworks aimed at the early detection of diseases, with a focus on real-time diagnostic tools optimized for clinical deployment.</p>
+<p align="justify">Chronic pain affects over 1.5 to 2.4 billion people globally, making it one of the most urgent and costly public health crises of our time. In the U.S. alone, more than 50 million people live with chronic pain, generating an annual economic burden of over $560 billion. Europe reports over 100 million affected adults, while in Iran, 21 to 25.5 million—especially women and older adults—are impacted. As opioid dependence and healthcare costs continue to rise, the need for innovative, personalized, and non-pharmacological solutions has never been more critical.
+
+In response to this vital challenge, my work as a Ph.D. student in Biomedical Engineering is driven by a passion to explore machine learning and neuroscience to understand pain mechanisms. My current research focuses on neural signal processing and personalized neuromodulation for chronic pain and neurodegenerative disorders. I analyze EEG, EMG, ECG, and wearable sensor data to identify neurophysiological biomarkers and evaluate the therapeutic effects of spinal cord stimulation.</p>
 
 ## Education Background
 
