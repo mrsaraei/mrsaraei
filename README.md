@@ -3,8 +3,8 @@
 <div align="center">
   
 [![Research Lab](https://img.shields.io/badge/Research%20Lab-Telkes%20Lab-008080?style=for-the-badge&logo=academia&logoColor=white)](https://telkeslab.com/people/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
-[![Google Scholar](https://img.shields.io/badge/View%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/View%20Professional%20Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrsaraei/)
+[![Google Scholar](https://img.shields.io/badge/View%20Research%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 
 </div>
 
