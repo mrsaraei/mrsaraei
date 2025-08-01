@@ -34,13 +34,13 @@
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2017 – 2024  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  I've led clinical engineering teams (biomedical engineers) in hospitals to ensure the safe and effective use of medical devices. My responsibilities have encompassed overseeing medical device management, training end-users, and supervising the delivery and installation of capital equipment. I have also collaborated with the WHO on the Iran COVID-19 Emergency Response Project and conducted data analysis to support patient care improvements. Additionally, I've been involved in licensing advanced medical imaging systems and establishing newly equipped therapeutic wards. Throughout, I've identified opportunities to optimize device utilization and reduce costs across healthcare facilities.
+**Responsibility:**  I led clinical engineering teams, consisting of biomedical engineers, in hospitals to ensure the safe and effective use of medical devices. My responsibilities included managing medical devices, training end-users, and supervising the delivery and installation of capital equipment. I also worked with the WHO on the Iran COVID-19 Emergency Response Project and conducted data analysis to improve patient care. Additionally, I was involved in licensing advanced medical imaging systems and establishing newly equipped therapeutic wards. Throughout my career, I have found opportunities to optimize device use and reduce costs across healthcare facilities.
 
 **Clinical Engineer (CE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  I've evaluated and overseen the procurement of capital medical devices, ensuring alignment with hospital needs and full regulatory compliance. My responsibilities have also included conducting safety inspections, audits, and quality control, as well as implementing preventive maintenance protocols to ensure optimal medical equipment reliability. Additionally, I've developed clear and concise technical documentation, such as checklists and quick-reference guides, to support clinical staff and enhance operational efficiency.
+**Responsibility:**  I evaluated and supervised the procurement of capital medical devices, ensuring they met hospital needs and fully complied with regulations. My responsibilities also included conducting safety inspections, audits, and quality control, as well as implementing preventive maintenance protocols to maximize medical equipment reliability. Additionally, I created clear and concise technical documents, such as checklists and quick-reference guides, to support clinical staff and improve operational efficiency.
 
 ## Academic & Professional Assistance
 
