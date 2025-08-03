@@ -40,12 +40,13 @@
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  I evaluated and supervised the procurement of capital medical devices, ensuring they met hospital needs and fully complied with regulations. My responsibilities also included conducting safety inspections, audits, and quality control, as well as implementing preventive maintenance protocols to maximize medical equipment reliability. Additionally, I created clear and concise technical documents, such as checklists and quick-reference guides, to support clinical staff and improve operational efficiency.
+**Responsibility:**  I evaluated and supervised the procurement of capital medical devices, ensuring they met hospital needs and fully complied with regulations. My responsibilities also included conducting safety inspections, audits, and quality control, as well as implementing preventive maintenance protocols to maximize medical equipment reliability. Additionally, I created clear and concise technical documents, including checklists and quick-reference guides, to support clinical staff and enhance operational efficiency.
 
 ## Academic & Professional Assistance
 
 **GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
-**Department Assistant:** [BME Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
+**Department Assistant:** [BME Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025 
+**GRA:** [VSI Lab] *Electrical & Computer Engineering Department, University of Arizona* – Dr. Eung-Joo Lee | 2024 – 2025  
 **Project Assistant:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
 **UTA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
 **UTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
@@ -64,7 +65,7 @@
 ## Honour & Award
 
 **[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2028  
-**[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
+**[Herbold Fellowship]:** Awarded by the College of Engineering, ECE Department, University of Arizona ($58,470) | 2024 - 2025  
 **[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
 **[Appreciation Award]:** Honoured for contributions as technical project coordinator during the ICERP, *WHO* | 2020 – 2021  
 **[Student Recognition Award]:** For scientific and technical coordination contributions to the BMES Association, *IAUT* | 2011 – 2014  
