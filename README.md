@@ -8,9 +8,7 @@
 
 </div>
 
-<img src="https://github.com/mrsaraei/mrsaraei/blob/fbe6f1e421cb17f3c2c7bad71486321f26b84561/figure/Chronic_Pain.png" alt="chronicpain">  
-
-<p align="justify">As a Ph.D. student in Biomedical Engineering, I am passionate about applying machine learning and neuroscience to understand pain mechanisms for personalized medicine. I explore the spine-brain neural axis to enhance neuromodulation therapies, such as spinal cord and deep brain stimulation. My current research focuses on finding neural biomarkers, enhancing treatment effectiveness, and customizing therapies for chronic pain and neurological conditions by using biomedical signal processing, clinical neurophysiology, and machine learning.</p>
+<p align="justify">As a Ph.D. student in Biomedical Engineering, I am passionate about applying machine learning and neuroscience to understand pain mechanisms for personalized medicine. I explore the spine-brain neural axis to enhance neuromodulation therapies, such as spinal cord and deep brain stimulation. My current research focuses on identifying neural biomarkers, enhancing treatment effectiveness, and tailoring therapies for chronic pain and neurological conditions through the integration of biomedical signal processing, clinical neurophysiology, and machine learning.</p>
 
 ## Education Background
 
@@ -46,7 +44,7 @@
 
 **GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
 **Department Assistant:** [BME Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
-**GRA:** [VSI Lab] *Electrical & Computer Engineering Department, University of Arizona* – Dr. Eung-Joo Lee | 2024 – 2025  
+**GRA:** [VSI Lab] *Electrical and Computer Engineering Department, University of Arizona* – Dr. Eung-Joo Lee | 2024 – 2025  
 **Project Assistant:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
 **UTA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
 **UTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
@@ -91,7 +89,19 @@
 - **Saraei, M.**, et al. (2020). *Biomedical Engineering in Healthcare Engineering* [In Persian]. Tehran, Iran: Miaad-e-Andisheh. ISBN: 978-622-231442-2, p. 254. 📄 [Full Text (PDF)](https://www.researchgate.net/publication/348137289_Biomedical_Engineering_in_Healthcare_Engineering_Persian_Farsi)  
 - **Saraei, M.**, et al. (2018). *Hospital Equipping and Development Standards* [In Persian]. Tabriz, Iran: Tabriz University of Medical Science (Pezhvak Alborz). ISBN: 978-622-6021-01-2, p. 227. 📄 [Full Text (PDF)](https://www.researchgate.net/publication/392562783_Hospital_Equipping_and_Development_Standards_Persian_Farsi)  
 
+## Technical Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="140">
+
+The Pain Originates in the Brain!  
+© 2025 **Mohammadreza Saraei** · All rights reserved!  
+📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
+
 <!--
+<img src="https://github.com/mrsaraei/mrsaraei/blob/fbe6f1e421cb17f3c2c7bad71486321f26b84561/figure/Chronic_Pain.png" alt="chronicpain">  
 ## My Skills
 Statistics & Math: ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -146,14 +156,3 @@ Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo
   </tr>
 </table>
 -->
-
-## Technical Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="140">
-
-The Pain Originates in the Brain!  
-© 2025 **Mohammadreza Saraei** · All rights reserved!  
-📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
