@@ -86,8 +86,17 @@
 
 **Book:** 
 
-- **Saraei, M.**, et al. (2020). *Biomedical Engineering in Healthcare Engineering* [In Persian]. Tehran, Iran: Miaad-e-Andisheh. ISBN: 978-622-231442-2, p. 254. 📄 [Full Text (PDF)](https://www.researchgate.net/publication/348137289_Biomedical_Engineering_in_Healthcare_Engineering_Persian_Farsi)  
-- **Saraei, M.**, et al. (2018). *Hospital Equipping and Development Standards* [In Persian]. Tabriz, Iran: Tabriz University of Medical Science (Pezhvak Alborz). ISBN: 978-622-6021-01-2, p. 227. 📄 [Full Text (PDF)](https://www.researchgate.net/publication/392562783_Hospital_Equipping_and_Development_Standards_Persian_Farsi)  
+- **Saraei, M.**, et al. (2020). *Biomedical Engineering in Healthcare Engineering* [In Persian (Farsi): رویکرد مهندسی پزشکی در مهندسی بیمارستان]. Tehran, Iran: Miaad-e-Andisheh. ISBN: 978-622-231442-2, p. 254. 📄 [Full Text (PDF)](https://www.researchgate.net/publication/348137289_Biomedical_Engineering_in_Healthcare_Engineering_Persian_Farsi)  
+- **Saraei, M.**, et al. (2018). *Hospital Equipping and Development Standards* [In Persian (Farsi): استاندارد تجهیز و توسعه بیمارستان]. Tabriz, Iran: Tabriz University of Medical Science (Pezhvak Alborz). ISBN: 978-622-6021-01-2, p. 227. 📄 [Full Text (PDF)](https://www.researchgate.net/publication/392562783_Hospital_Equipping_and_Development_Standards_Persian_Farsi)
+- **Saraei, M.**, et al. (2016). *Fundamentals of Computers and Networks in Biomedical Engineering* [Persian (Farsi): اصول و مبانی رایانه و شبکه در مهندسی پزشکی]. Tehran, Iran: Miaad-e-Andisheh. ISBN: ‫‬‭‭978-600-8540-08-3‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬. p. 304.
+
+**Conference:**
+
+- **Saraei, M.**, et al. (2022). *Quality Improvement of Medical Device Management by Modeling of Hospital Clinical Engineering Department* [In Persian (Farsi):ارتقای کیفیت مدیریت تجهیزات پزشکی با استفاده از مدل سازی بخش مهندسی بالینی بیمارستان]. The 3rd International Conference on Management and E-Commerce. Tehran: Tehran University. 📄 [Full Text (PDF)](https://civilica.com/doc/1518153/)  
+- **Saraei, M.**, et al. (2022). *Quality Improvement of Hospital Clinical Engineering Department Management by Mathematical Modeling of Medical Device Layout* [In Persian (Farsi):بهبود کیفیت مدیریت بخش مهندسی بالینی بیمارستان با استفاده از مدل سازی ریاضی چیدمان تجهیزات پزشکی]. The 5th International Conference of Interdisciplinary Studies in Management & Engineering, Tehran: Tehran University. 📄 [Full Text (PDF)](https://civilica.com/doc/1507406/)  
+- **Saraei, M.**, et al. (2019). *Organizing Plan to Arrange Medical Equipment in the High-Risk Wards of the Hospital* [In Persian (Farsi): طرح ساماندهی چیدمان تجهیزات پزشکی در بخش های حیاتی بیمارستان]. The 1st National Conference on New Technologies in Computer & Medical Engineering, Isfahan: Sheykh-Bahaei University. 📄 [Full Text (PDF)](https://civilica.com/doc/860537/)  
+- **Saraei, M.**, et al. (2018). *Organizing Plan to Manage the Supply, Maintenance, and After-Sales Service of Medical Equipment in Hospitals* [In Persian (Farsi):طرح ساماندهی مدیریت تامین، نگهداشت و خدمات پس از فروش تجهیزات پزشکی بیمارستان]. The 2nd International Conference on Management & Business, Tabriz: Tabriz University. 📄 [Full Text (PDF)](https://civilica.com/doc/828462/)
+
 
 ## Technical Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
