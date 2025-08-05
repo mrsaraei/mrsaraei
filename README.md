@@ -52,14 +52,14 @@
 
 ## Soft & Technical Skills
 
-**Pain Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)
-**Biomedical Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG | qEEG     
-**Medical Image Analysis:** Efficient Vision Transformer | Variational Encoder  
-**Clinical Data Analysis:** Python | Machine Learning (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV, PIL) | LLMs  
-**Clinical Data Management:** SQL | EHR | HIS  
-**Biostatistics:** SPSS | Excel    
-**Documentation:** Overleaf | LaTeX | Word | PowerPoint | EndNote  
-**IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)  
+**Pain Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
+**Biomedical Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG | qEEG       
+**Medical Image Analysis:** Efficient Vision Transformer | Variational Encoder    
+**Clinical Data Analysis:** Python | Machine Learning (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV) | LLMs    
+**Clinical Data Management:** SQL | EHR | HIS    
+**Biostatistics:** SPSS | Excel      
+**Documentation:** Overleaf | LaTeX | Word | PowerPoint | EndNote    
+**IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)    
 
 ## Research Collaboration
 
