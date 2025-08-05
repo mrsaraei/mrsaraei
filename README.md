@@ -52,18 +52,14 @@
 
 ## Soft & Technical Skills
 
-Statistics: ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-Documentation: ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
-![EndNote](https://img.shields.io/badge/-EndNote-7030A0?style=flat&logo=endnote&logoColor=white)
-
-IDEs: ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
-![Spyder](https://img.shields.io/badge/-Spyder-1DC678?style=flat&logo=spyder&logoColor=white)
+**Pain Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)
+**Biomedical Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG | qEEG     
+**Medical Image Analysis:** Efficient Vision Transformer | Variational Encoder  
+**Clinical Data Analysis:** Python | Machine Learning (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV, PIL) | LLMs  
+**Clinical Data Management:** SQL | EHR | HIS  
+**Biostatistics:** SPSS | Excel    
+**Documentation:** Overleaf | LaTeX | Word | PowerPoint | EndNote  
+**IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)  
 
 ## Research Collaboration
 
@@ -127,23 +123,9 @@ The Pain Originates in the Brain!
 <!--
 <img src="https://github.com/mrsaraei/mrsaraei/blob/fbe6f1e421cb17f3c2c7bad71486321f26b84561/figure/Chronic_Pain.png" alt="chronicpain">  
 
-
-Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![scikit-image](https://img.shields.io/badge/-scikit--image-092E20?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PIL](https://img.shields.io/badge/-PIL-366A96?style=flat)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
+MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
 ![EEGLAB](https://img.shields.io/badge/-EEGLAB-00369f?style=flat)
 
-Data Management: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
--->
-
-<!--
 <table>
   <tr>
     <td align="center">
