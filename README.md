@@ -62,6 +62,9 @@
 - **Documentation:** Overleaf | LaTeX | Word | PowerPoint | EndNote    
 - **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)    
 
+**Soft:**
+- Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
+
 ## Research Collaboration
 
 **[On-Site]** VSI, ECE, *University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
