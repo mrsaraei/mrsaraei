@@ -50,9 +50,8 @@
 **UTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 **UTA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-## Professional Skills
+## Academic & Professional Skills
 
-**Technical:**
 - **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
 - **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG | qEEG       
 - **Medical Image Analysis:** Efficient ViT | VAE    
@@ -61,9 +60,7 @@
 - **Biostatistics:** SPSS | Excel      
 - **Documentation:** Overleaf | LaTeX | Word | PowerPoint | EndNote    
 - **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)    
-
-**Soft:**
-- Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
+- **Soft:** Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
 
 ## Research Collaboration
 
