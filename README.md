@@ -50,6 +50,21 @@
 **UTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 **UTA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
+## Soft & Technical Skills
+
+Statistics: ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+Documentation: ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![EndNote](https://img.shields.io/badge/-EndNote-7030A0?style=flat&logo=endnote&logoColor=white)
+
+IDEs: ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
+![Spyder](https://img.shields.io/badge/-Spyder-1DC678?style=flat&logo=spyder&logoColor=white)
+
 ## Research Collaboration
 
 **[On-Site]** VSI, ECE, *University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
@@ -111,20 +126,7 @@ The Pain Originates in the Brain!
 
 <!--
 <img src="https://github.com/mrsaraei/mrsaraei/blob/fbe6f1e421cb17f3c2c7bad71486321f26b84561/figure/Chronic_Pain.png" alt="chronicpain">  
-## My Skills
-Statistics & Math: ![SPSS](https://img.shields.io/badge/-SPSS-6DB33F?style=flat&logo=spss&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-Documentation & Presentation: ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
-![EndNote](https://img.shields.io/badge/-EndNote-7030A0?style=flat&logo=endnote&logoColor=white)
-
-IDEs & Editors: ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
-![Spyder](https://img.shields.io/badge/-Spyder-1DC678?style=flat&logo=spyder&logoColor=white)
 
 Data Analysis: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
