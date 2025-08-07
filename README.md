@@ -54,7 +54,8 @@
 
 - **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
 - **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG | qEEG       
-- **Medical Image Analysis:** Efficient ViT | VAE    
+- **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Ultrasound
+- **Deep Learning:** Efficient ViT | VAE  
 - **Clinical Data Analysis:** Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV) | ML | LLMs    
 - **Clinical Data Management:** SQL | EHR | HIS    
 - **Biostatistics:** SPSS | Excel      
