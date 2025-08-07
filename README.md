@@ -36,6 +36,7 @@
 
 **Clinical Engineer (CE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
+**Industry:** Hospitals & Health Care  
 **Responsibility:**  I evaluated and supervised the procurement of capital medical devices, ensuring they met hospital needs and fully complied with regulations. My responsibilities also included conducting safety inspections, audits, and quality control, as well as implementing preventive maintenance protocols to maximize medical equipment reliability. Additionally, I created clear and concise technical documents, including checklists and quick-reference guides, to support clinical staff and enhance operational efficiency.
 
 ## Academic & Professional Assistance
