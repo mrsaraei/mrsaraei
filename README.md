@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">As a Ph.D. student in Biomedical Engineering, I am passionate about applying machine learning and neuroscience to understand pain mechanisms for personalized medicine. I explore the spine-brain neural axis to enhance neuromodulation therapies, such as spinal cord and deep brain stimulation. My current research focuses on identifying neural biomarkers, enhancing treatment effectiveness, and tailoring therapies for chronic pain and neurological conditions through the integration of biomedical signal processing, clinical neurophysiology, and machine learning.</p>
+<p align="justify">As a Ph.D. student in Biomedical Engineering, I am passionate about leveraging machine learning and neuroscience to advance personalized digital health solutions. I currently investigate the spine-brain neural axis to improve neuromodulation therapies, such as spinal cord and deep brain stimulation. My current research focuses on identifying neural biomarkers, enhancing treatment effectiveness, and tailoring therapies for chronic pain and neurological conditions through the integration of biomedical signal processing, clinical neurophysiology, and machine learning.</p>
 
 ## Education Background
 
