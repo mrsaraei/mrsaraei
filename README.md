@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">As a Ph.D. student in Biomedical Engineering, I'm passionate about using machine learning and neuroscience to enhance personalized digital health solutions. I collect and analyze EEG and wearable data using signal processing and machine learning techniques to develop automated systems for detecting pain-related biomarkers. My current research focuses on the spine–brain neural axis and the neural dynamics before and after surgery, to improve and personalize neuromodulation therapies, such as spinal cord stimulation, for chronic pain and neurological conditions.</p>
+<p align="justify">As a Ph.D. student in Biomedical Engineering, I'm passionate about using machine learning and neuroscience to enhance personalized digital health solutions. I collect and analyze EEG and wearable data using signal processing and machine learning techniques to develop automated systems for detecting pain-related biomarkers. My current research focuses on the spine–brain neural axis and the neural dynamics pre-/postoperative to improve and personalize neuromodulation therapies, such as spinal cord stimulation, for chronic pain and neurological conditions.</p>
 
 ## Education Background
 
@@ -52,14 +52,18 @@
 
 ## Academic & Professional Skills
 
+**Core:**
+- **Clinical Research:** Human and Animal Studies
 - **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
-- **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG | qEEG       
-- **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Ultrasound
-- **Deep Learning:** Efficient ViT | VAE  
-- **Clinical Data Analysis:** Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV) | ML | LLMs    
-- **Clinical Data Management:** SQL | EHR | HIS    
+- **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG
+- **Clinical Data Analysis:** Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV) | Machine Learning
+- **Clinical Data Management:** SQL | EHR | HIS
+
+**Peripheral:**  
 - **Biostatistics:** SPSS | Excel      
 - **Documentation:** Overleaf | LaTeX | Word | PowerPoint | EndNote    
+- **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Histopathology
+- **Deep Learning:** Efficient ViT | LLMs
 - **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)    
 - **Soft:** Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
 
