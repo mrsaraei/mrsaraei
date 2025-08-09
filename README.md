@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">As a Ph.D. student in Biomedical Engineering, I'm passionate about using machine learning and neuroscience to enhance personalized digital health solutions. I collect and analyze EEG and wearable data using signal processing and machine learning techniques to develop automated systems for detecting pain-related biomarkers. My current research focuses on the spine–brain neural axis and the neural dynamics pre-/postoperative to improve and personalize neuromodulation therapies, such as spinal cord stimulation, for chronic pain and neurological conditions.</p>
+<p align="justify">As a Ph.D. student in Biomedical Engineering, I am passionate about applying machine learning and neuroscience to advance personalized digital health solutions. I gather and analyze EEG and wearable data using signal processing and machine learning techniques to create automated systems that detect pain-related biomarkers. My current research centers on the spine–brain neural axis and neural dynamics before and after surgery, aiming to improve and tailor neuromodulation therapies, such as spinal cord stimulation, for chronic pain and neurological disorders.</p>
 
 ## Education Background
 
