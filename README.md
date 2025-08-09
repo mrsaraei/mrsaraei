@@ -53,10 +53,10 @@
 ## Academic & Professional Skills
 
 **Core:**
-- **Clinical Research:** Human and Animal Studies
+- **Clinical Research:** Human & Animal Studies
 - **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
 - **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG
-- **Clinical Data Analysis:** Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV) | Machine Learning
+- **Clinical Data Analysis:** ML | MATLAB | Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV)  
 - **Clinical Data Management:** SQL | EHR | HIS
 
 **Peripheral:**  
