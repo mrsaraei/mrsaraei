@@ -60,7 +60,7 @@
 - **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
 
 **Peripheral:**  
-- **Biostatistics:** SPSS | Excel      
+- **Biostatistics:** R | SPSS | Excel      
 - **Documentation:** Medical Writing | Overleaf | LaTeX | Word | PowerPoint | EndNote    
 - **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Histopathology
 - **Deep Learning:** EfficientViT | Multimodal Learning | CNNs | LLMs
