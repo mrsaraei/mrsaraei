@@ -32,7 +32,7 @@
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2017 – 2024  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  I led clinical engineering teams, consisting of biomedical engineers, in hospitals to ensure the safe and effective use of medical devices. My responsibilities included managing medical devices, training end-users, and supervising the delivery and installation of capital equipment. I also worked with the WHO on the Iran COVID-19 Emergency Response Project and conducted data analysis to improve patient care. Additionally, I was involved in licensing advanced medical imaging systems and establishing newly equipped therapeutic wards. Throughout my career, I have found opportunities to optimize device use and reduce costs across healthcare facilities.
+**Responsibility:**  I led clinical engineering teams, consisting of biomedical engineers, in hospitals to ensure the safe and effective use of medical devices. My responsibilities included managing medical devices, training end-users, and supervising the delivery and installation of capital equipment. I also collaborated with the WHO on the Iran COVID-19 Emergency Response Project, conducting data analysis to enhance patient care. Additionally, I was involved in licensing advanced medical imaging systems and establishing newly equipped therapeutic wards. Throughout my career, I have found opportunities to optimize device use and reduce costs across healthcare facilities.
 
 **Clinical Engineer (CE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
@@ -61,11 +61,11 @@
 
 **Peripheral:**  
 - **Biostatistics:** R | SPSS | Excel      
-- **Documentation:** Medical Writing | Overleaf | LaTeX | Word | PowerPoint | EndNote    
+- **Documentation:** Medical Writing | Overleaf | LaTeX | Word | PowerPoint | EndNote
+- - **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance  
 - **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Histopathology
 - **Deep Learning:** EfficientViT | Multimodal Learning | CNNs | LLMs
 - **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)
-- **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance 
 - **Soft:** Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
 
 ## Research Collaboration
