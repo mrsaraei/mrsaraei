@@ -62,7 +62,7 @@
 **Peripheral:**  
 - **Biostatistics:** R | SPSS | Excel      
 - **Documentation:** Medical Writing | Overleaf | LaTeX | Word | PowerPoint | EndNote
-- - **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance  
+- **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance  
 - **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Histopathology
 - **Deep Learning:** EfficientViT | Multimodal Learning | CNNs | LLMs
 - **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)
