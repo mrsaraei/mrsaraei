@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">I'm committed to advancing my career as a <strong>Lead Biomedical Scientist</strong>. Currently pursuing a Ph.D. in Biomedical Engineering, I analyze the wearable EEG and physiological data using advanced electrophysiology, signal processing, and machine learning methodologies. My current research focuses on developing automated systems for the identification of pain-related biomarkers. Specifically, I investigate the spine–brain neural axis and the neural dynamics surrounding preoperative and postoperative phases to optimize and personalize neuromodulation therapies, including spinal cord stimulation, aimed at treating chronic pain and neurological disorders.</p>
+<p align="justify">I'm committed to advancing my career as a Lead Biomedical Scientist. Currently pursuing a Ph.D. in Biomedical Engineering, I analyze the wearable EEG and physiological data using advanced electrophysiology, signal processing, and machine learning methodologies. My current research focuses on developing automated systems for identifying pain-related biomarkers. Specifically, I investigate the spine–brain neural axis and the neural dynamics surrounding preoperative and postoperative phases to optimize and personalize neuromodulation therapies, including spinal cord stimulation, aimed at treating chronic pain and neurological disorders.</p>
 
 ## Education Background
 
@@ -54,17 +54,18 @@
 
 **Core:**
 - **Clinical Research:** Human & Animal Studies
-- **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
 - **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG
 - **Clinical Data Analysis:** ML | MATLAB | Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV)  
 - **Clinical Data Management:** SQL | EHR | HIS
+- **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
 
 **Peripheral:**  
 - **Biostatistics:** SPSS | Excel      
-- **Documentation:** Overleaf | LaTeX | Word | PowerPoint | EndNote    
+- **Documentation:** Medical Writing | Overleaf | LaTeX | Word | PowerPoint | EndNote    
 - **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Histopathology
-- **Deep Learning:** Efficient ViT | LLMs
-- **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)    
+- **Deep Learning:** EfficientViT | Multimodal Learning | CNNs | LLMs
+- **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)
+- **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance 
 - **Soft:** Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
 
 ## Research Collaboration
