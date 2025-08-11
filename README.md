@@ -115,10 +115,6 @@
 - **Saraei, M.**, et al. (2019). *Organizing Plan to Arrange Medical Equipment in the High-Risk Wards of the Hospital* [In Persian (Farsi): طرح ساماندهی چیدمان تجهیزات پزشکی در بخش های حیاتی بیمارستان]. The 1st National Conference on New Technologies in Computer & Medical Engineering, Isfahan: Sheykh-Bahaei University. 🔗 [PDF](https://civilica.com/doc/860537/)  
 - **Saraei, M.**, et al. (2018). *Organizing Plan to Manage the Supply, Maintenance, and After-Sales Service of Medical Equipment in Hospitals* [In Persian (Farsi):طرح ساماندهی مدیریت تامین، نگهداشت و خدمات پس از فروش تجهیزات پزشکی بیمارستان]. The 2nd International Conference on Management & Business, Tabriz: Tabriz University. 🔗 [PDF](https://civilica.com/doc/828462/)
 
-
-## Technical Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="140">
@@ -128,6 +124,10 @@ The Pain Originates in the Brain!
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
 
 <!--
+
+## Technical Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github.com/mrsaraei/mrsaraei/blob/fbe6f1e421cb17f3c2c7bad71486321f26b84561/figure/Chronic_Pain.png" alt="chronicpain">  
 
 MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
