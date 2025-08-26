@@ -57,7 +57,7 @@
 - **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG
 - **Clinical Data Analysis:** ML | MATLAB | Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV)  
 - **Clinical Data Management:** SQL | EHR | HIS
-- **Neuroscience:** Pain (Neurobiology, Neuropathology, Neuropsychology, Neurophysiology)    
+- **Pain Neuroscience:** Neurobiology, Neuropathology, Neuropsychology, Neurophysiology    
 
 **Peripheral:**  
 - **Biostatistics:** R | SPSS | Excel      
