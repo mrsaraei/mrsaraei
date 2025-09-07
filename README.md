@@ -12,17 +12,17 @@
 
 ## Education Background
 
-**Ph.D. in Biomedical Engineering (BME)**  
+**Ph.D., Biomedical Engineering (BME)**  
 *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
 **Advisor:** Dr. Ilknur Telkes
 
-**M.Sc. in Biomedical Engineering (BME)**  
+**M.Sc., Biomedical Engineering (BME)**  
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **Thesis:** *Multimodal Data Fusion for Medical Image Analysis Using Machine Learning*  
 **Advisor:** Dr. Saman Rajebi  
 **CGPA:** 17.98/20 (≈ 3.54/4.0)
 
-**B.Sc. in Biomedical Engineering (BME)**  
+**B.Sc., Biomedical Engineering (BME)**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 **CGPA:** 16.27/20 (≈ 3.32/4.0)
 
