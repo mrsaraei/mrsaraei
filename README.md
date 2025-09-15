@@ -88,10 +88,10 @@
 
 ## Language Proficiency
 
+- **English** – Professional Proficiency   
+- **Turkish** – Professional Proficiency  
 - **Azerbaijani (Azeri)** – Native / Mother Tongue  
 - **Persian (Farsi)** – Native / National Language  
-- **Turkish** – Professional Proficiency  
-- **English** – Professional Proficiency
 
 ## Publication
 
