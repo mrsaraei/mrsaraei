@@ -57,14 +57,12 @@
 - **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG
 - **Clinical Data Analysis:** ML | MATLAB | Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV)  
 - **Clinical Data Management:** SQL | EHR | HIS
-- **Pain Neuroscience:** Neurobiology, Neuropathology, Neuropsychology, Neurophysiology    
 
 **Peripheral:**  
 - **Biostatistics:** R | SPSS | Excel      
 - **Documentation:** Medical Writing | Overleaf | LaTeX | Word | PowerPoint | EndNote
 - **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance  
 - **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Histopathology
-- **Deep Learning:** EfficientViT | Multimodal Learning | CNNs | LLMs
 - **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)
 - **Soft:** Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
 
