@@ -18,7 +18,7 @@
 
 **M.Sc., Biomedical Engineering (BME)**  
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
-**Thesis:** *Multimodal Data Fusion for Medical Image Analysis Using Machine Learning*  
+**Thesis:** Multimodal Data Fusion for Medical Image Analysis Using Machine Learning  
 **Advisor:** Dr. Saman Rajebi  
 **CGPA:** 17.98/20 (≈ 3.54/4.0)
 
