@@ -106,7 +106,7 @@
 - **Saraei, M.**, et al. (2018). *Hospital Equipping and Development Standards* [Persian (Farsi): استاندارد تجهیز و توسعه بیمارستان]. Tabriz, Iran: Tabriz University of Medical Science (Pezhvak Alborz). ISBN: 978-622-6021-01-2, p. 227. 🔗 [PDF](https://www.researchgate.net/publication/392562783_Hospital_Equipping_and_Development_Standards_Persian_Farsi)
 - **Saraei, M.**, et al. (2016). *Fundamentals of Computers and Networks in Biomedical Engineering* [Persian (Farsi): اصول و مبانی رایانه و شبکه در مهندسی پزشکی]. Tehran, Iran: Miaad-e-Andisheh. ISBN: ‫‬‭‭978-600-8540-08-3‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬. p. 304.
 
-**Conference:**
+**Conference Paper:**
 
 - **Saraei, M.**, et al. (2022). *Quality Improvement of Medical Device Management by Modeling of Hospital Clinical Engineering Department* [Persian (Farsi):ارتقای کیفیت مدیریت تجهیزات پزشکی با استفاده از مدل سازی بخش مهندسی بالینی بیمارستان]. The 3rd International Conference on Management and E-Commerce. Tehran: Tehran University. 🔗 [PDF](https://civilica.com/doc/1518153/)  
 - **Saraei, M.**, et al. (2022). *Quality Improvement of Hospital Clinical Engineering Department Management by Mathematical Modeling of Medical Device Layout* [Persian (Farsi):بهبود کیفیت مدیریت بخش مهندسی بالینی بیمارستان با استفاده از مدل سازی ریاضی چیدمان تجهیزات پزشکی]. The 5th International Conference of Interdisciplinary Studies in Management & Engineering, Tehran: Tehran University. 🔗 [PDF](https://civilica.com/doc/1507406/)  
