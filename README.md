@@ -14,7 +14,7 @@
 
 **Ph.D., Biomedical Engineering (BME)**  
 *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
-**Advisor:** [Dr. Ilknur Telkes](https://telkeslab.com/principal-investigator/)
+**Advisor:** Dr. Ilknur Telkes
 
 **M.Sc., Biomedical Engineering (BME)**  
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
