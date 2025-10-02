@@ -14,7 +14,8 @@
 
 **Ph.D., Biomedical Engineering (BME)**  
 *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
-**Advisor:** Dr. Ilknur Telkes
+**Advisor:** Dr. Ilknur Telkes  
+*I started my PhD in ECE (minor) in August 2024, but after the first year, I switched to BME (major) because it aligns more closely with my background and research interests!*
 
 **M.Sc., Biomedical Engineering (BME)**  
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
