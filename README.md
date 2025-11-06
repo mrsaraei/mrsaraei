@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">I'm committed to advancing my career as a <strong>Lead Biomedical Scientist</strong>. Currently pursuing a Ph.D. in Biomedical Engineering, I specialize in analyzing EEG and wearable data using advanced electrophysiology, signal processing, and machine learning. My research aims to develop automated systems for identifying biomarkers of chronic pain, focusing on the spine-brain neural axis and the neural dynamics during pre- and postoperative phases. Ultimately, my goal is to enhance and personalize neuromodulation therapies, such as spinal cord stimulation, for treating chronic pain in patients with neurological disorders.</p>
+<p align="justify">I'm committed to advancing my career as a Lead Biomedical Scientist. Currently pursuing a Ph.D. in Biomedical Engineering, I advance multimodal analysis of EEG, ECG, EMG, and wearable biosensor data (ActiGraph, fNIRS) using electrophysiology, signal processing, and machine learning to identify biomarkers of chronic pain. Focusing on the spine–brain neural axis, I investigate frequency dynamics, pulse patterns, electrode interactions, and neural network connectivity across pre- and post-operative phases. My goal is to translate these insights into personalized neuromodulation therapies, such as spinal cord stimulation, to optimize outcomes for patients with neurological disorders.</p>
 
 ## Education Background
 
