@@ -54,8 +54,8 @@
 
 **Core:**
 - **Clinical Research:** Human & Animal Studies
-- **Biological Signal Processing:** EEG | ECG | EMG | ECoG | EOG | ERG | PPG
-- **Clinical Data Analysis:** ML | MATLAB | Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV)  
+- **Biological Signal Processing:** Spectral Analysis, Coherence and Connectivity Analysis, Statistical Group Analysis
+- **Clinical Data Analysis:** MATLAB | ML | Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV)  
 - **Clinical Data Management:** SQL | EHR | HIS
 
 **Peripheral:**  
