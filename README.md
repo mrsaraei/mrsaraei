@@ -43,27 +43,35 @@
 
 ## Academic & Professional Assistance
 
-**GRA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
+**Graduate Research Assistant:**  
+**RA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
+Lead signal processing and machine learning pipelines to develop EEG-based biomarkers for chronic pain. Analyze multimodal biosignals (EEG, ECG, EMG, ActiGraph, fNIRS) for real-time and offline experiments. Conduct electrophysiology experiments using g.tech products and create analysis frameworks using MATLAB. Research motor-sensory functions related to decoding the brain-spine pathways to better manage chronic pain.
+
+**RA:** [VSI Lab] *Electrical & Computer Engineering Department, University of Arizona* – Dr. Eungjoo Lee | 2024 – 2025  
+Develop CNNs and ViTs models for medical object detection and sensor data fusion. Implement deep learning models in Python using TensorFlow and Keras to analyze multimodal data.
+
+**Executive Assistant:**   
 **Department Assistant:** [BME Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
+Manage the reorganization of Biomedical Engineering alumni records, update the core faculty and staff directory with visually appealing layouts using Canva, assist with BME orientation events, and respond to student inquiries regarding the BME program, research opportunities, and departmental events.
+
 **Project Assistant:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
-**UTA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Danishvar | 2016 – 2017  
-**UTA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
-**UTA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
+I assisted the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East Azerbaijan Province. I also analyzed EHRs of confirmed, suspected, and non-infected cases to support data-driven decision-making during the pandemic.
+
+**Undergraduate Teaching Assistant:**   
+**TA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
+**TA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
+**TA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Academic & Professional Skills
 
-**Core:**
-- **Clinical Research:** Human & Animal Studies
+- **Clinical Research:** Human and Animal Studies
 - **Biological Signal Processing:** Spectral Analysis, Coherence and Connectivity Analysis, Statistical Group Analysis
 - **Clinical Data Analysis:** MATLAB | ML | Python (NumPy, SciPy, Pandas, Matplotlib, Scikit-learn, scikit-image, OpenCV)  
 - **Clinical Data Management:** SQL | EHR | HIS
-
-**Peripheral:**  
 - **Biostatistics:** R | SPSS | Excel      
 - **Documentation:** Medical Writing | Overleaf | LaTeX | Word | PowerPoint | EndNote
-- **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance  
-- **Medical Image Analysis:** MRI | CT | OCT | X-Ray | Histopathology
 - **IDEs:** Jupyter Notebook | Visual Studio Code | Anaconda (Spyder)
+- **Medical Devices:** Procurement | Maintenance | Safety | User Training | Regulatory Compliance  
 - **Soft:** Organization Skills | Time Management | Google Workspace | Interpersonal Communication | Administrative Support
 
 ## Research Collaboration
@@ -72,7 +80,7 @@
 **[Remote]** CHI, AIHI, *Macquarie University*, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
 **[Remote]** CEDP, *Brunel University London*, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
 
-## Peer-Review
+## Peer-Reviewer
 
 **Peer-Reviewer:** *IEEE Access: The Multidisciplinary Open Access Journal* | January 2025 – Present 🔗 [Journal](https://ieeeaccess.ieee.org/) | 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
 
