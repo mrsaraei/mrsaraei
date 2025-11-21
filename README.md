@@ -14,18 +14,17 @@
 
 **Ph.D., Biomedical Engineering (BME)**  
 *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
-**Advisor:** Dr. Ilknur Telkes  
-*I started my PhD in ECE (minor) in August 2024, but after the first year, I switched to BME (major) because it aligns more closely with my background and research interests!*
+**Advisor:** Dr. Ilknur Telkes (Neurosurgery) 
 
 **M.Sc., Biomedical Engineering (BME)**  
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **Thesis:** Multimodal Data Fusion for Medical Image Analysis Using Machine Learning  
 **Advisor:** Dr. Saman Rajebi  
-**CGPA:** 17.98/20 (≈ 3.54/4.0)
+**CGPA:** 17.98/20 (3.54/4.0)
 
 **B.Sc., Biomedical Engineering (BME)**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
-**CGPA:** 16.27/20 (≈ 3.32/4.0)
+**CGPA:** 16.27/20 (3.32/4.0)
 
 ## Work Experience
 
@@ -45,17 +44,17 @@
 
 **Graduate Research Assistant:**  
 **RA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
-Lead signal processing and machine learning pipelines to develop EEG-based biomarkers for chronic pain. Analyze multimodal biosignals (EEG, ECG, EMG, ActiGraph, fNIRS) for real-time and offline experiments. Conduct electrophysiology experiments using g.tech products and create analysis frameworks using MATLAB. Research motor-sensory functions related to decoding the brain-spine pathways to better manage chronic pain.
+**Responsibility:** Lead signal processing and machine learning pipelines to develop EEG-based biomarkers for chronic pain. Analyze multimodal biosignals (EEG, ECG, EMG, ActiGraph, fNIRS) for real-time and offline experiments. Conduct electrophysiology experiments using g.tech products and create analysis frameworks using MATLAB. Research motor-sensory functions related to decoding the brain-spine pathways to better manage chronic pain.
 
 **RA:** [VSI Lab] *Electrical & Computer Engineering Department, University of Arizona* – Dr. Eungjoo Lee | 2024 – 2025  
-Develop CNNs and ViTs models for medical object detection and sensor data fusion. Implement deep learning models in Python using TensorFlow and Keras to analyze multimodal data.
+**Responsibility:** Develop CNNs and ViTs models for medical object detection and sensor data fusion. Implement deep learning models in Python using TensorFlow and Keras to analyze multimodal data.
 
 **Executive Assistant:**   
-**Department Assistant:** [BME Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
-Manage the reorganization of Biomedical Engineering alumni records, update the core faculty and staff directory with visually appealing layouts using Canva, assist with BME orientation events, and respond to student inquiries regarding the BME program, research opportunities, and departmental events.
+**Department Assistant:** [Dean's Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
+**Responsibility:**  Manage the reorganization of Biomedical Engineering alumni records, update the core faculty and staff directory with visually appealing layouts using Canva, assist with BME orientation events, and respond to student inquiries regarding the BME program, research opportunities, and departmental events.
 
 **Project Assistant:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
-I assisted the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East Azerbaijan Province. I also analyzed EHRs of confirmed, suspected, and non-infected cases to support data-driven decision-making during the pandemic.
+**Responsibility:** Assist the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East-Azerbaijan Province. Analyze EHRs of confirmed, suspected, and non-infected cases to support data-driven decision-making during the pandemic.
 
 **Undergraduate Teaching Assistant:**   
 **TA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
