@@ -26,7 +26,7 @@
 
 ## Technical Expertise
 
-**Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), Biomedical Engineering Department, University of Arizona, USA | 2025 – Present  
+**Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), BME Department, University of Arizona, Tucson, USA | 2025 – Present  
 - Led EEG signal processing and machine learning pipelines using Python and MATLAB to quantify oscillatory biomarkers of chronic pain, including waveform-specific cortical dynamics during spinal cord stimulation
 - Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) using analytical pipelines to characterize how sensory and attentional networks reorganized across SCS OFF and SCS ON states, supporting investigations of supraspinal pain modulation
 - Conducted neuroelectrophysiology recordings with g.tech high-density EEG systems and developed custom MATLAB analysis frameworks to extract spectral power, peak frequencies, and coherence metrics, ensuring precise measurement of cortical network changes
@@ -34,17 +34,17 @@
 - Performed functional connectivity analysis using spectral coherence across full channel pairs to map large-scale cortical integration during SCS, demonstrating that therapeutic stimulation strengthened alpha-band synchronization across somatosensory and frontal networks
 - Conducted group-level statistical comparisons of oscillatory and connectivity features to evaluate responders versus non-responders, providing preliminary evidence that effective SCS may restore supraspinal network balance rather than solely modulating spinal pathways
 
-**Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, USA | 2025 – Present  
+**Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
 - Reviewed manuscripts in Artificial Intelligence and Machine Learning and assessed their alignment with journal standards and the broader research landscape-
 - Evaluated methodological rigor, model design, experimental validity, and reproducibility
 - Provided constructive, detailed feedback to improve clarity, technical soundness, and overall contribution
 
-**Department Assistant:** [Dean's Office](https://bme.engineering.arizona.edu/faculty-staff/faculty/mario-romero-ortega), Biomedical Engineering Department, University of Arizona, USA | Summer 2025  
+**Department Assistant:** [Dean's Office](https://bme.engineering.arizona.edu/faculty-staff/faculty/mario-romero-ortega), BME Department, University of Arizona, Tucson, USA | Summer 2025  
 - Managed the reorganization of biomedical engineering alumni records, ensuring accurate and accessible archival of program history and achievements
 - Assisted with biomedical engineering orientation events, supporting students’ onboarding and facilitating engagement with program resources
 - Responded to student inquiries regarding the biomedical engineering program, research opportunities, and departmental events, providing timely guidance and promoting academic involvement
 
-**Graduate Research Assistant:** [VSI Lab](https://sites.google.com/view/eungjoolee/), Electrical & Computer Engineering Department, University of Arizona, USA | 2024 – 2025  
+**Graduate Research Assistant:** [VSI Lab](https://sites.google.com/view/eungjoolee/), ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
 - Designed and implemented deep learning models, including CNNs and ViTs using the Triple Adaptive mechanism, for medical object detection, retinal OCT classification, and multimodal sensor-fusion pipelines
 - Developed a dual-stream self-supervised pretraining framework leveraging contrastive learning, adaptive layer weighting, and token-level attention to overcome data scarcity and annotation limitations in retinal disease diagnosis
 - Surveyed and benchmarked SOTA medical object detection architectures, integrating hybrid attention mechanisms, Cross-Stage Partial networks, Spatial Pyramid Pooling, and BiFPN to enhance feature extraction and detection efficiency across diverse imaging modalities.
@@ -67,9 +67,9 @@
 - Analyzed electronic health records of confirmed, suspected, and non-infected cases to support data-driven decision-making and optimize patient care during the pandemic
 
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
-[BME090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
-[BME020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
-[BME006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
+- [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
+- [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
+- [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Skills
 
