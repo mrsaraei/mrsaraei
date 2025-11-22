@@ -26,7 +26,7 @@
 
 ## Technical Expertise
 
-**Graduate Research Assistant:** [Telkes Lab], Biomedical Engineering Department, University of Arizona – Dr. ilknur Telkes | 2025 – Present  
+**Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), Biomedical Engineering Department, University of Arizona, USA | 2025 – Present  
 - Led EEG signal processing and machine learning pipelines using Python and MATLAB to quantify oscillatory biomarkers of chronic pain, including waveform-specific cortical dynamics during spinal cord stimulation
 - Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) using analytical pipelines to characterize how sensory and attentional networks reorganized across SCS OFF and SCS ON states, supporting investigations of supraspinal pain modulation
 - Conducted neuroelectrophysiology recordings with g.tech high-density EEG systems and developed custom MATLAB analysis frameworks to extract spectral power, peak frequencies, and coherence metrics, ensuring precise measurement of cortical network changes
@@ -34,41 +34,42 @@
 - Performed functional connectivity analysis using spectral coherence across full channel pairs to map large-scale cortical integration during SCS, demonstrating that therapeutic stimulation strengthened alpha-band synchronization across somatosensory and frontal networks
 - Conducted group-level statistical comparisons of oscillatory and connectivity features to evaluate responders versus non-responders, providing preliminary evidence that effective SCS may restore supraspinal network balance rather than solely modulating spinal pathways
 
-**Peer-Reviewer:** IEEE Access | 2025 – Present 🔗 [Journal](https://ieeeaccess.ieee.org/) | 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
+**Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/) | 2025 – Present| 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
 - Reviewed manuscripts in Artificial Intelligence and Machine Learning and assessed their alignment with journal standards and the broader research landscape-
 - Evaluated methodological rigor, model design, experimental validity, and reproducibility
 - Provided constructive, detailed feedback to improve clarity, technical soundness, and overall contribution
 
-**Department Assistant:** [Dean's Office], Biomedical Engineering Department, University of Arizona – Mr. Derrow | Summer 2025  
+**Department Assistant:** [Dean's Office](https://bme.engineering.arizona.edu/faculty-staff/faculty/mario-romero-ortega), Biomedical Engineering Department, University of Arizona, USA | Summer 2025  
 - Managed the reorganization of biomedical engineering alumni records, ensuring accurate and accessible archival of program history and achievements
 - Assisted with biomedical engineering orientation events, supporting students’ onboarding and facilitating engagement with program resources
 - Responded to student inquiries regarding the biomedical engineering program, research opportunities, and departmental events, providing timely guidance and promoting academic involvement
 
-**Graduate Research Assistant:** [VSI Lab], Electrical & Computer Engineering Department, University of Arizona – Dr. Eungjoo Lee | 2024 – 2025  
+**Graduate Research Assistant:** [VSI Lab](https://sites.google.com/view/eungjoolee/), Electrical & Computer Engineering Department, University of Arizona, USA | 2024 – 2025  
 - Designed and implemented deep learning models, including CNNs and ViTs using the Triple Adaptive mechanism, for medical object detection, retinal OCT classification, and multimodal sensor-fusion pipelines
 - Developed a dual-stream self-supervised pretraining framework leveraging contrastive learning, adaptive layer weighting, and token-level attention to overcome data scarcity and annotation limitations in retinal disease diagnosis
 - Surveyed and benchmarked SOTA medical object detection architectures, integrating hybrid attention mechanisms, Cross-Stage Partial networks, Spatial Pyramid Pooling, and BiFPN to enhance feature extraction and detection efficiency across diverse imaging modalities.
 - Implemented deep learning pipelines in Python using TensorFlow and Keras, enabling predictive modeling, automated feature extraction, and resource-efficient deployment for clinical imaging and wearable sensing systems
 
-**Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2017 – 2024  
+**Supervisor, Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Iran | 2017 – 2024  
 - Led clinical engineering teams of biomedical engineers across hospitals to ensure the safe, effective, and compliant use of medical devices, optimizing patient care and operational efficiency
 - Managed medical device inventories, coordinated end-user training, and supervised the delivery, installation, and commissioning of capital equipment to meet clinical and regulatory standards
 - Collaborated with the World Health Organization on the Iran COVID-19 Emergency Response Project, performing data analysis to inform strategies that improved patient care and resource allocation
 - Licensed advanced medical imaging systems and oversaw the setup of newly equipped therapeutic wards, ensuring clinical readiness and adherence to safety protocols.
 - Identified opportunities to optimize device utilization and reduce costs across multiple healthcare facilities, implementing best practices in biomedical engineering operations
 
-**Clinical Engineer:** Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
+**Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Iran | 2014 – 2017  
 - Evaluated and supervised the procurement of capital medical devices, ensuring alignment with hospital requirements and full regulatory compliance
 - Conducted safety inspections, audits, and quality control assessments, implementing preventive maintenance protocols to maximize equipment reliability and minimize downtime
 - Developed clear, concise technical documentation, including checklists and quick manuals to support clinical staff and enhance operational efficiency
 
-**Project Assistant:** [ICERP21-22], Iran COVID-19 Emergency Response Project, WHO – Dr. Jaffar Hussain | 2020 – 2021  
+**Project Assistant:** [Iran COVID-19 Emergency Response Project](https://www.emro.who.int/iran/information-resources/progress-reports.html#:~:text=As%20a%20result%2C%20a%20US,saving%20medical%20and%20laboratory%20equipment.), World Health Organization | 2020 – 2021  
 - Assisted the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East Azerbaijan Province
 - Analyzed electronic health records of confirmed, suspected, and non-infected cases to support data-driven decision-making and optimize patient care during the pandemic
 
-**Undergraduate Teaching Assistant:** [BME090], Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
-**Undergraduate Teaching Assistant:** [BME020], Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
-**Undergraduate Teaching Assistant:** [BME006-8], Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
+**Undergraduate Teaching Assistant:** Tabriz, Iran
+[BME090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
+[BME020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
+[BME006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Skills
 
