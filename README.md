@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">PhD student in Biomedical Engineering specializing in neuroengineering and multimodal physiological signal analysis. Experienced in processing EEG, ECG, EMG, wearable biosensor data (ActiGraph), and fNIRS with a focus on electrophysiology and biosignal analytics. Research centers on the spinal–brain neural axis, examining frequency dynamics, pulse patterns, electrode interactions, and neural connectivity across pre- and post-operative phases to advance personalized neuromodulation therapies, including spinal cord stimulation. Skilled in real-time signal processing, machine learning, and experimental data pipelines. Proficient in MATLAB (EEGLAB, FieldTrip) and Python for AI/ML development and deployment.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in neuroengineering and multimodal physiological signal analysis, with expertise in electrophysiology and biosignal processing involving EEG, ECG, EMG, wearable biosensors, and fNIRS. Skilled in advanced EEG/ECG/EMG analytics, wearable sensing, real-time signal processing, and machine learning. Research focuses on the spinal–brain neural axis, including frequency dynamics, pulse pattern analysis, electrode–tissue interactions, and neural connectivity in pre- and post-operative settings, supporting the development of personalized neuromodulation therapies like spinal cord stimulation. Proficient in MATLAB (EEGLAB, FieldTrip) and Python for developing signal processing pipelines and machine learning algorithms in experimental research. Aiming to leverage expertise in EEG-based brain-computer interfaces, real-time neural signal processing, and machine learning to enhance non-invasive BCI systems in applied research.</p>
 
 ## Education Background
 
@@ -20,11 +20,9 @@
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **Thesis:** Multimodal Data Fusion for Medical Image Analysis Using Machine Learning  
 **Advisor:** Dr. Saman Rajebi  
-**CGPA:** 17.98/20 (3.54/4.0)
 
 **B.Sc., Biomedical Engineering (BME)**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
-**CGPA:** 16.27/20 (3.32/4.0)
 
 ## Work Experience
 
