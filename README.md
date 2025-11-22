@@ -24,38 +24,53 @@
 **B.Sc., Biomedical Engineering (BME)**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 
-## Work Experience
+## Technical Expertise
 
-**Supervisor, Clinical Engineer (SCE)**  
-*Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2017 – 2024  
-**Industry:** Hospitals & Health Care  
-**Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
+**Graduate Research Assistant:** [Telkes Lab], Biomedical Engineering Department, University of Arizona – Dr. ilknur Telkes | 2025 – Present  
+- Led EEG signal processing and machine learning pipelines using Python and MATLAB to quantify oscillatory biomarkers of chronic pain, including waveform-specific cortical dynamics during spinal cord stimulation
+- Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) using analytical pipelines to characterize how sensory and attentional networks reorganized across SCS OFF and SCS ON states, supporting investigations of supraspinal pain modulation
+- Conducted neuroelectrophysiology recordings with g.tech high-density EEG systems and developed custom MATLAB analysis frameworks to extract spectral power, peak frequencies, and coherence metrics, ensuring precise measurement of cortical network changes
+- Researched motor–sensory interactions and modeled brain–spine dynamics to identify connectivity patterns linked to stimulation efficacy, revealing waveform-specific signatures such as enhanced alpha synchrony and targeted network modulation in responders
+- Performed functional connectivity analysis using spectral coherence across full channel pairs to map large-scale cortical integration during SCS, demonstrating that therapeutic stimulation strengthened alpha-band synchronization across somatosensory and frontal networks
+- Conducted group-level statistical comparisons of oscillatory and connectivity features to evaluate responders versus non-responders, providing preliminary evidence that effective SCS may restore supraspinal network balance rather than solely modulating spinal pathways
 
+**Peer-Reviewer:** IEEE Access | 2025 – Present 🔗 [Journal](https://ieeeaccess.ieee.org/) | 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
+- Reviewed manuscripts in Artificial Intelligence and Machine Learning and assessed their alignment with journal standards and the broader research landscape-
+- Evaluated methodological rigor, model design, experimental validity, and reproducibility
+- Provided constructive, detailed feedback to improve clarity, technical soundness, and overall contribution
 
-**Clinical Engineer (CE)**  
-*Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
-**Industry:** Hospitals & Health Care  
-**Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
+**Department Assistant:** [Dean's Office], Biomedical Engineering Department, University of Arizona – Mr. Derrow | Summer 2025  
+- Managed the reorganization of biomedical engineering alumni records, ensuring accurate and accessible archival of program history and achievements
+- Assisted with biomedical engineering orientation events, supporting students’ onboarding and facilitating engagement with program resources
+- Responded to student inquiries regarding the biomedical engineering program, research opportunities, and departmental events, providing timely guidance and promoting academic involvement
 
-## Academic & Professional Assistance
+**Graduate Research Assistant:** [VSI Lab], Electrical & Computer Engineering Department, University of Arizona – Dr. Eungjoo Lee | 2024 – 2025  
+- Designed and implemented deep learning models, including CNNs and ViTs using the Triple Adaptive mechanism, for medical object detection, retinal OCT classification, and multimodal sensor-fusion pipelines
+- Developed a dual-stream self-supervised pretraining framework leveraging contrastive learning, adaptive layer weighting, and token-level attention to overcome data scarcity and annotation limitations in retinal disease diagnosis
+- Surveyed and benchmarked SOTA medical object detection architectures, integrating hybrid attention mechanisms, Cross-Stage Partial networks, Spatial Pyramid Pooling, and BiFPN to enhance feature extraction and detection efficiency across diverse imaging modalities.
+- Implemented deep learning pipelines in Python using TensorFlow and Keras, enabling predictive modeling, automated feature extraction, and resource-efficient deployment for clinical imaging and wearable sensing systems
 
-**Graduate Research Assistant:**  
-**RA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
+**Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2017 – 2024  
+- Led clinical engineering teams of biomedical engineers across hospitals to ensure the safe, effective, and compliant use of medical devices, optimizing patient care and operational efficiency
+- Managed medical device inventories, coordinated end-user training, and supervised the delivery, installation, and commissioning of capital equipment to meet clinical and regulatory standards
+- Collaborated with the World Health Organization on the Iran COVID-19 Emergency Response Project, performing data analysis to inform strategies that improved patient care and resource allocation
+- Licensed advanced medical imaging systems and oversaw the setup of newly equipped therapeutic wards, ensuring clinical readiness and adherence to safety protocols.
+- Identified opportunities to optimize device utilization and reduce costs across multiple healthcare facilities, implementing best practices in biomedical engineering operations
 
+**Clinical Engineer:** Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
+- Evaluated and supervised the procurement of capital medical devices, ensuring alignment with hospital requirements and full regulatory compliance
+- Conducted safety inspections, audits, and quality control assessments, implementing preventive maintenance protocols to maximize equipment reliability and minimize downtime
+- Developed clear, concise technical documentation, including checklists and quick manuals to support clinical staff and enhance operational efficiency
 
-**RA:** [VSI Lab] *Electrical & Computer Engineering Department, University of Arizona* – Dr. Eungjoo Lee | 2024 – 2025  
+**Project Assistant:** [ICERP21-22], Iran COVID-19 Emergency Response Project, WHO – Dr. Jaffar Hussain | 2020 – 2021  
+- Assisted the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East Azerbaijan Province
+- Analyzed electronic health records of confirmed, suspected, and non-infected cases to support data-driven decision-making and optimize patient care during the pandemic
 
-**Executive Assistant:**   
-**Department Assistant:** [Dean's Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
+**Undergraduate Teaching Assistant:** [BME090], Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
+**Undergraduate Teaching Assistant:** [BME020], Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
+**Undergraduate Teaching Assistant:** [BME006-8], Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-**Project Assistant:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
-
-**Undergraduate Teaching Assistant:**   
-**TA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
-**TA:** [BME020] *Equipment of Hospitals & Medical Centers*, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
-**TA:** [BME006-8] *Computer Programming & Algorithm Calculus*, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
-
-## Academic & Professional Skills
+## Skills
 
 - **Clinical Research:** Human and Animal Studies
 - **Biological Signal Processing:** Spectral Analysis, Coherence and Connectivity Analysis, Statistical Group Analysis
@@ -73,10 +88,6 @@
 **[Remote]** CHI, AIHI, *Macquarie University*, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
 **[Remote]** CEDP, *Brunel University London*, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
 
-## Peer-Reviewer
-
-**Peer-Reviewer:** *IEEE Access: The Multidisciplinary Open Access Journal* | January 2025 – Present 🔗 [Journal](https://ieeeaccess.ieee.org/) | 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
-
 ## Honour & Award
 
 **[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2028  
@@ -84,28 +95,22 @@
 **[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
 **[Student Recognition Award]:** For scientific and technical coordination contributions to the BMES Association, *IAUT* | 2011 – 2014  
 
-## Language Proficiency
+## Language
 
 - **English** – Professional Proficiency   
 - **Turkish** – Professional Proficiency  
 - **Azerbaijani (Azeri)** – Native / Mother Tongue  
 - **Persian (Farsi)** – Native / National Language  
 
-## Publication
-
-**Journal Paper:** 
+## Selected Publication
 
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 [DOI](https://doi.org/10.1109/ACCESS.2025.3553087) | [PDF](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf)  
 - **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Frontiers in Health Informatics, 12, 164. 🔗 [DOI](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016) | [PDF](https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf)  
 - **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality COVID-19 Severity Recognition*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 [DOI](https://doi.org/10.59615/ijie.3.1.1) | [PDF](https://github.com/mrsaraei/CovDataML/blob/a29d15cefa9aa4cd6746fe5dc2f15e58dfde4938/A_Different_Traditional_Approach_for_Automatic_Comparative_Machine_Learning_in_Multimodality_Covid-19_Severity_Recognition.pdf)  
 
-**Book:** 
-
 - **Saraei, M.**, et al. (2020). *Biomedical Engineering in Healthcare Engineering* [Persian (Farsi): رویکرد مهندسی پزشکی در مهندسی بیمارستان]. Tehran, Iran: Miaad-e-Andisheh. ISBN: 978-622-231442-2, p. 254. 🔗 [PDF](https://www.researchgate.net/publication/348137289_Biomedical_Engineering_in_Healthcare_Engineering_Persian_Farsi)  
 - **Saraei, M.**, et al. (2018). *Hospital Equipping and Development Standards* [Persian (Farsi): استاندارد تجهیز و توسعه بیمارستان]. Tabriz, Iran: Tabriz University of Medical Science (Pezhvak Alborz). ISBN: 978-622-6021-01-2, p. 227. 🔗 [PDF](https://www.researchgate.net/publication/392562783_Hospital_Equipping_and_Development_Standards_Persian_Farsi)
 - **Saraei, M.**, et al. (2016). *Fundamentals of Computers and Networks in Biomedical Engineering* [Persian (Farsi): اصول و مبانی رایانه و شبکه در مهندسی پزشکی]. Tehran, Iran: Miaad-e-Andisheh. ISBN: ‫‬‭‭978-600-8540-08-3‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬. p. 304.
-
-**Conference Paper:**
 
 - **Saraei, M.**, et al. (2022). *Quality Improvement of Medical Device Management by Modeling of Hospital Clinical Engineering Department* [Persian (Farsi):ارتقای کیفیت مدیریت تجهیزات پزشکی با استفاده از مدل سازی بخش مهندسی بالینی بیمارستان]. The 3rd International Conference on Management and E-Commerce. Tehran: Tehran University. 🔗 [PDF](https://civilica.com/doc/1518153/)  
 - **Saraei, M.**, et al. (2022). *Quality Improvement of Hospital Clinical Engineering Department Management by Mathematical Modeling of Medical Device Layout* [Persian (Farsi):بهبود کیفیت مدیریت بخش مهندسی بالینی بیمارستان با استفاده از مدل سازی ریاضی چیدمان تجهیزات پزشکی]. The 5th International Conference of Interdisciplinary Studies in Management & Engineering, Tehran: Tehran University. 🔗 [PDF](https://civilica.com/doc/1507406/)  
