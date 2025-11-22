@@ -85,9 +85,9 @@
 
 ## Research Collaboration
 
-**[On-Site]** VSI, ECE, *University of Arizona*, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
-**[Remote]** CHI, AIHI, *Macquarie University*, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
-**[Remote]** CEDP, *Brunel University London*, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
+**[On-Site]** VSI, ECE, University of Arizona, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
+**[Remote]** CHI, AIHI, Macquarie University, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
+**[Remote]** CEDP, Brunel University London, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
 
 ## Honour & Award
 
@@ -98,10 +98,10 @@
 
 ## Language
 
-- **English** – Professional Proficiency   
-- **Turkish** – Professional Proficiency  
-- **Azerbaijani (Azeri)** – Native / Mother Tongue  
-- **Persian (Farsi)** – Native / National Language  
+- **English** – C1 (Proficient)   
+- **Turkish** – B2 (Proficient)  
+- **Azerbaijani (Azeri)** – C1 (Proficient) 
+- **Persian (Farsi)** – C2 (Native)
 
 ## Selected Publication
 
