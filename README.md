@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in neuroengineering and multimodal physiological signal analysis, with expertise in electrophysiology and biosignal processing involving EEG, ECG, EMG, wearable biosensors, and fNIRS. Skilled in advanced EEG/ECG/EMG analytics, wearable sensing, real-time signal processing, and machine learning. Research focuses on the spinal–brain neural axis, including frequency dynamics, pulse pattern analysis, electrode–tissue interactions, and neural connectivity in pre- and post-operative settings, supporting the development of personalized neuromodulation therapies like spinal cord stimulation. Proficient in MATLAB (EEGLAB, FieldTrip) and Python for developing signal processing pipelines and machine learning algorithms in experimental research. Aiming to leverage expertise in EEG-based brain-computer interfaces, real-time neural signal processing, and machine learning to enhance non-invasive BCI systems in applied research.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in neuroengineering and multimodal physiological signal analysis, with expertise in neuroelectrophysiology and biosignal processing involving EEG, ECG, EMG, wearable biosensors, and fNIRS. Skilled in advanced EEG/ECG/EMG analytics, wearable sensing, real-time signal processing, and machine learning. Research focuses on the spinal–brain neural axis, including frequency dynamics, pulse pattern analysis, electrode–tissue interactions, and neural connectivity in pre- and post-operative settings, supporting the development of personalized neuromodulation therapies like spinal cord stimulation. Proficient in MATLAB (EEGLAB, FieldTrip) and Python for developing signal processing pipelines and machine learning algorithms in experimental research. Aiming to leverage expertise in EEG-based brain-computer interfaces, neuromodulation, real-time neural signal processing, and machine learning to enhance non-invasive systems in applied research.</p>
 
 ## Education Background
 
@@ -30,29 +30,25 @@
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2017 – 2024  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  I led clinical engineering teams, consisting of biomedical engineers, in hospitals to ensure the safe and effective use of medical devices. My responsibilities included managing medical devices, training end-users, and supervising the delivery and installation of capital equipment. I also collaborated with the WHO on the Iran COVID-19 Emergency Response Project, conducting data analysis to enhance patient care. Additionally, I was involved in licensing advanced medical imaging systems and establishing newly equipped therapeutic wards. Throughout my career, I have found opportunities to optimize device use and reduce costs across healthcare facilities.
+
 
 **Clinical Engineer (CE)**  
 *Tabriz University of Medical Sciences*, East Azerbaijan, Iran | 2014 – 2017  
 **Industry:** Hospitals & Health Care  
 **Office:** CED 311, V.C. Treatment Affairs Building, Tabriz University of Medical Sciences, University Main Street, Tabriz, East Azerbaijan, Iran.  
-**Responsibility:**  I evaluated and supervised the procurement of capital medical devices, ensuring they met hospital needs and fully complied with regulations. My responsibilities also included conducting safety inspections, audits, and quality control, as well as implementing preventive maintenance protocols to maximize medical equipment reliability. Additionally, I created clear and concise technical documents, including checklists and quick-reference guides, to support clinical staff and enhance operational efficiency.
 
 ## Academic & Professional Assistance
 
 **Graduate Research Assistant:**  
 **RA:** [Telkes Lab] *Biomedical Engineering Department, University of Arizona* – Dr. ilknur Telkes | 2025 – Present  
-**Responsibility:** Lead signal processing and machine learning pipelines to develop EEG-based biomarkers for chronic pain. Analyze multimodal biosignals (EEG, ECG, EMG, ActiGraph, fNIRS) for real-time and offline experiments. Conduct electrophysiology experiments using g.tech products and create analysis frameworks using MATLAB. Research motor-sensory functions related to decoding the brain-spine pathways to better manage chronic pain.
+
 
 **RA:** [VSI Lab] *Electrical & Computer Engineering Department, University of Arizona* – Dr. Eungjoo Lee | 2024 – 2025  
-**Responsibility:** Develop CNNs and ViTs models for medical object detection and sensor data fusion. Implement deep learning models in Python using TensorFlow and Keras to analyze multimodal data.
 
 **Executive Assistant:**   
 **Department Assistant:** [Dean's Office] *Biomedical Engineering Department, University of Arizona* – Mr. Derrow | Summer 2025  
-**Responsibility:**  Manage the reorganization of Biomedical Engineering alumni records, update the core faculty and staff directory with visually appealing layouts using Canva, assist with BME orientation events, and respond to student inquiries regarding the BME program, research opportunities, and departmental events.
 
 **Project Assistant:** [ICERP21-22] *Iran COVID-19 Emergency Response Project, WHO* – Dr. Jaffar Hussain | 2020 – 2021  
-**Responsibility:** Assist the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East-Azerbaijan Province. Analyze EHRs of confirmed, suspected, and non-infected cases to support data-driven decision-making during the pandemic.
 
 **Undergraduate Teaching Assistant:**   
 **TA:** [BME090] *Introduction to Clinical Engineering*, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
@@ -86,7 +82,6 @@
 **[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2028  
 **[Herbold Fellowship]:** Awarded by the College of Engineering, ECE Department, University of Arizona ($58,470) | 2024 - 2025  
 **[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
-**[Appreciation Award]:** Honoured for contributions as technical project coordinator during the ICERP, *WHO* | 2020 – 2021  
 **[Student Recognition Award]:** For scientific and technical coordination contributions to the BMES Association, *IAUT* | 2011 – 2014  
 
 ## Language Proficiency
@@ -121,7 +116,6 @@
 
 <img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="140">
 
-The Pain Originates in the Brain!  
 © 2025 **Mohammadreza Saraei** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
 
