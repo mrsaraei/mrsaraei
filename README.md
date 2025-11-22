@@ -34,7 +34,7 @@
 - Performed functional connectivity analysis using spectral coherence across full channel pairs to map large-scale cortical integration during SCS, demonstrating that therapeutic stimulation strengthened alpha-band synchronization across somatosensory and frontal networks
 - Conducted group-level statistical comparisons of oscillatory and connectivity features to evaluate responders versus non-responders, providing preliminary evidence that effective SCS may restore supraspinal network balance rather than solely modulating spinal pathways
 
-**Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/) | 2025 – Present| 🔗 [Web of Science](https://www.webofscience.com/wos/author/record/LZH-1900-2025?state=%7B%7D)  
+**Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, USA | 2025 – Present  
 - Reviewed manuscripts in Artificial Intelligence and Machine Learning and assessed their alignment with journal standards and the broader research landscape-
 - Evaluated methodological rigor, model design, experimental validity, and reproducibility
 - Provided constructive, detailed feedback to improve clarity, technical soundness, and overall contribution
@@ -50,14 +50,14 @@
 - Surveyed and benchmarked SOTA medical object detection architectures, integrating hybrid attention mechanisms, Cross-Stage Partial networks, Spatial Pyramid Pooling, and BiFPN to enhance feature extraction and detection efficiency across diverse imaging modalities.
 - Implemented deep learning pipelines in Python using TensorFlow and Keras, enabling predictive modeling, automated feature extraction, and resource-efficient deployment for clinical imaging and wearable sensing systems
 
-**Supervisor, Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Iran | 2017 – 2024  
+**Supervisor, Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Tabriz, Iran | 2017 – 2024  
 - Led clinical engineering teams of biomedical engineers across hospitals to ensure the safe, effective, and compliant use of medical devices, optimizing patient care and operational efficiency
 - Managed medical device inventories, coordinated end-user training, and supervised the delivery, installation, and commissioning of capital equipment to meet clinical and regulatory standards
 - Collaborated with the World Health Organization on the Iran COVID-19 Emergency Response Project, performing data analysis to inform strategies that improved patient care and resource allocation
 - Licensed advanced medical imaging systems and oversaw the setup of newly equipped therapeutic wards, ensuring clinical readiness and adherence to safety protocols.
 - Identified opportunities to optimize device utilization and reduce costs across multiple healthcare facilities, implementing best practices in biomedical engineering operations
 
-**Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Iran | 2014 – 2017  
+**Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Tabriz, Iran | 2014 – 2017  
 - Evaluated and supervised the procurement of capital medical devices, ensuring alignment with hospital requirements and full regulatory compliance
 - Conducted safety inspections, audits, and quality control assessments, implementing preventive maintenance protocols to maximize equipment reliability and minimize downtime
 - Developed clear, concise technical documentation, including checklists and quick manuals to support clinical staff and enhance operational efficiency
@@ -66,7 +66,7 @@
 - Assisted the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East Azerbaijan Province
 - Analyzed electronic health records of confirmed, suspected, and non-infected cases to support data-driven decision-making and optimize patient care during the pandemic
 
-**Undergraduate Teaching Assistant:** Tabriz, Iran  
+**Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 [BME090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
 [BME020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 [BME006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
