@@ -100,7 +100,7 @@
 
 - **English** – C1 (Proficient)   
 - **Turkish** – B2 (Proficient)  
-- **Azerbaijani** – C1 (Proficient) 
+- **Azerbaijani** – C1 (Fluent) 
 - **Persian (Farsi)** – C2 (Native)
 
 ## Selected Publication
