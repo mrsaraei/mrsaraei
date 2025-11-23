@@ -85,8 +85,6 @@
 
 **[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2028  
 **[Herbold Fellowship]:** Awarded by the College of Engineering, ECE Department, University of Arizona ($58,470) | 2024 - 2025  
-**[Excellence Award, CE]:** Recognized for outstanding performance in hospital-related affairs, *TUoMS* | 2015 – 2024  
-**[Student Recognition Award]:** For scientific and technical coordination contributions to the BMES Association, *IAUT* | 2011 – 2014  
 
 ## Selected Publications
 
