@@ -40,14 +40,10 @@
 - Led clinical engineering teams and collaborated with WHO on COVID-19 response, managing medical devices, training, maintenance, data analysis, and clinical readiness to ensure safe and efficient operations.
 
 **Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
-- Reviewed manuscripts in Artificial Intelligence and Machine Learning and assessed their alignment with journal standards and the broader research landscape-
-- Evaluated methodological rigor, model design, experimental validity, and reproducibility
-- Provided constructive, detailed feedback to improve clarity, technical soundness, and overall contribution
+- Reviewed AI/ML manuscripts for methodological rigor, model design, and reproducibility, providing constructive feedback to improve clarity and overall impact.
 
 **Department Assistant:** [Dean's Office](https://bme.engineering.arizona.edu/faculty-staff/faculty/mario-romero-ortega), BME Department, University of Arizona, Tucson, USA | Summer 2025  
-- Managed the reorganization of biomedical engineering alumni records, ensuring accurate and accessible archival of program history and achievements
-- Assisted with biomedical engineering orientation events, supporting students’ onboarding and facilitating engagement with program resources
-- Responded to student inquiries regarding the biomedical engineering program, research opportunities, and departmental events, providing timely guidance and promoting academic involvement
+- Managed alumni records, supported student orientation events, and provided guidance on program resources, research opportunities, and departmental activities.
 
 **Project Assistant:** [Iran COVID-19 Emergency Response Project](https://www.emro.who.int/iran/information-resources/progress-reports.html#:~:text=As%20a%20result%2C%20a%20US,saving%20medical%20and%20laboratory%20equipment.), World Health Organization | 2020 – 2021  
 - Assisted the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East Azerbaijan Province
