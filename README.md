@@ -43,11 +43,10 @@
 - Reviewed AI/ML manuscripts for methodological rigor, model design, and reproducibility, providing constructive feedback to improve clarity and overall impact.
 
 **Department Assistant:** [Dean's Office](https://bme.engineering.arizona.edu/faculty-staff/faculty/mario-romero-ortega), BME Department, University of Arizona, Tucson, USA | Summer 2025  
-- Managed alumni records, supported student orientation events, and provided guidance on program resources, research opportunities, and departmental activities.
+- Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities.
 
 **Project Assistant:** [Iran COVID-19 Emergency Response Project](https://www.emro.who.int/iran/information-resources/progress-reports.html#:~:text=As%20a%20result%2C%20a%20US,saving%20medical%20and%20laboratory%20equipment.), World Health Organization | 2020 – 2021  
-- Assisted the WHO on the ICERP by coordinating and managing newly allocated capital and disposable medical devices, including CT, MRI, real-time PCR systems, oxygen supply units, and diagnostic laboratory kits across hospitals in East Azerbaijan Province
-- Analyzed electronic health records of confirmed, suspected, and non-infected cases to support data-driven decision-making and optimize patient care during the pandemic
+- Supported the WHO ICERP by managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic.
 
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
