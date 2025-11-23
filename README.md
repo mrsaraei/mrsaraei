@@ -76,11 +76,6 @@
 **[Remote]** CHI, AIHI, Macquarie University, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
 **[Remote]** CEDP, Brunel University London, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
 
-## Honours & Awards
-
-**[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2028  
-**[Herbold Fellowship]:** Awarded by the College of Engineering, ECE Department, University of Arizona ($58,470) | 2024 - 2025  
-
 ## Selected Publications
 
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 [DOI](https://doi.org/10.1109/ACCESS.2025.3553087) | [PDF](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf)  
@@ -89,6 +84,11 @@
 - **Saraei, M.**, et al. (2020). *Biomedical Engineering in Healthcare Engineering* [Persian (Farsi): رویکرد مهندسی پزشکی در مهندسی بیمارستان]. Tehran, Iran: Miaad-e-Andisheh. ISBN: 978-622-231442-2, p. 254. 🔗 [PDF](https://www.researchgate.net/publication/348137289_Biomedical_Engineering_in_Healthcare_Engineering_Persian_Farsi)  
 - **Saraei, M.**, et al. (2018). *Hospital Equipping and Development Standards* [Persian (Farsi): استاندارد تجهیز و توسعه بیمارستان]. Tabriz, Iran: Tabriz University of Medical Science (Pezhvak Alborz). ISBN: 978-622-6021-01-2, p. 227. 🔗 [PDF](https://www.researchgate.net/publication/392562783_Hospital_Equipping_and_Development_Standards_Persian_Farsi)
 - **Saraei, M.**, et al. (2016). *Fundamentals of Computers and Networks in Biomedical Engineering* [Persian (Farsi): اصول و مبانی رایانه و شبکه در مهندسی پزشکی]. Tehran, Iran: Miaad-e-Andisheh. ISBN: ‫‬‭‭978-600-8540-08-3‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬. p. 304.
+
+## Honours & Awards
+
+**[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2028  
+**[Herbold Fellowship]:** Awarded by the College of Engineering, ECE Department, University of Arizona ($58,470) | 2024 - 2025  
 
 ---
 
