@@ -84,8 +84,8 @@
 
 ## Honours & Awards
 
-**[Research Assistantship]:** Supported by the Telkes Lab, BME Department, University of Arizona ($71,158) | 2025 - 2029  
-**[Herbold Fellowship]:** Awarded by the College of Engineering, ECE Department, University of Arizona ($58,470) | 2024 - 2025  
+**[Research Assistantship]:** Supported by the Telkes Lab, University of Arizona ($71,158) | 2025 - 2029  
+**[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 
 ---
 
