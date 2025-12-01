@@ -23,7 +23,7 @@
 
 ## Technical Expertise
 
-**Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), BME Department, University of Arizona, Tucson, USA | 2025 – Present  
+**Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 - Led EEG signal processing and ML pipelines in Python and MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS).
 - Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) and conducted high-density EEG recordings, developing custom MATLAB frameworks to extract spectral, coherence, and functional connectivity metrics.
 - Investigated motor–sensory interactions and brain–spine dynamics, performing group-level analyses to identify connectivity patterns linked to SCS efficacy.
