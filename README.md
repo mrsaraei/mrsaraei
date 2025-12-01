@@ -19,7 +19,7 @@
 **M.Sc., Biomedical Engineering**  
 *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **Thesis:** Multimodal Data Fusion for Medical Image Analysis Using Machine Learning  
-**Advisor:** Dr. [Saman Rajebi](https://sites.google.com/view/samanrajebi/home)  
+**Co-Advisor:** Dr. [Saman Rajebi](https://sites.google.com/view/samanrajebi/home)  
 
 **B.Sc., Biomedical Engineering**  
 *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
