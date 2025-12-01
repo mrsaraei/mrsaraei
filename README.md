@@ -26,7 +26,7 @@
 **Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), BME Department, University of Arizona, Tucson, USA | 2025 – Present  
 - Led EEG signal processing and ML pipelines in Python and MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS).
 - Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) and conducted high-density EEG recordings, developing custom MATLAB frameworks to extract spectral, coherence, and functional connectivity metrics.
-- Investigated motor–sensory interactions and brain–spine dynamics, performing group-level analyses to identify connectivity patterns linked to SCS efficacy and showing strengthened alpha-band synchronization across somatosensory and frontal networks.
+- Investigated motor–sensory interactions and brain–spine dynamics, performing group-level analyses to identify connectivity patterns linked to SCS efficacy.
 
 **Graduate Research Assistant:** [VSI Lab](https://sites.google.com/view/eungjoolee/), ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
 - Designed and implemented deep learning models (CNNs, ViTs) with triple adaptive mechanisms for medical object detection and multimodal sensor-fusion pipelines.
