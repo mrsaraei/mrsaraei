@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering with expertise in neuroengineering and multimodal physiological signal analysis, including EEG, ECG, EMG, wearable biosensors, and fNIRS. Skilled in biosignal analytics, wearable sensing, and machine learning (ML), with hands-on experience integrating algorithms into experimental and real-time neural recording systems. Current Research rigorously investigates the brain–spine neural axis, examining frequency dynamics, pulse patterns, electrode–tissue interactions, sensory-motor control, and neural connectivity to advance personalized neuromodulation therapies. Proficient in MATLAB and Python for developing signal processing pipelines, ML algorithms in experimental research, and aiming to leverage this expertise in EEG-based BCI, personalized neuromodulation, interactive neural signal processing, and ML to enhance non-invasive systems in applied research.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering with specialization in multimodal physiological data analysis, including medical imaging, biosignals, and wearable sensor data. Experienced in image and signal processing, as well as machine learning techniques, with a track record of integrating analytical algorithms into experimental biomedical systems. Proficient in Python and MATLAB for developing end-to-end image and signal processing pipelines and implementing machine learning methods for experimental research applications.</p>
 
 ## Education
 
