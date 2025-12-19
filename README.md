@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal physiological data analysis, including biosignals, medical imaging, and wearable sensor data. Experienced in signal and image processing, as well as machine learning techniques, with a track record of integrating analytical algorithms into experimental biomedical systems. Proficient in Python and MATLAB for developing end-to-end image and signal processing pipelines and implementing machine learning methods for experimental clinical research applications.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal physiological data analysis, including biosignals, medical imaging, and wearable sensor data. Experienced in biomedical signal and image processing and machine learning, with a strong track record of integrating analytical algorithms into experimental systems. Proficient in Python and MATLAB for developing end-to-end image and signal processing pipelines and implementing machine learning methods for clinical and experimental research applications.</p>
 
 ## Education
 
