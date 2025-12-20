@@ -1,4 +1,4 @@
-<img src="https://github.com/mrsaraei/mrsaraei/blob/24f5137ef9a3fa24565dc31dc1ef681f0f226221/figure/GitHub.png" alt="pain">  
+<!-- <img src="https://github.com/mrsaraei/mrsaraei/blob/24f5137ef9a3fa24565dc31dc1ef681f0f226221/figure/GitHub.png" alt="pain">  -->
 
 <div align="left">
 
@@ -49,23 +49,6 @@
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
-
-## Professional Skills
-
-| EEG/Bio Signals (Hands-On)                     | Programming & ML                                 |
-|------------------------------------------------|-------------------------------------------------|
-| EEG, ECG, EMG, fNIRS, Wearable Biosensors     | MATLAB (EEGLAB, Simulink, FieldTrip)          |
-| Neural Signal Processing Pipelines            | Python (NumPy, Pandas, Matplotlib, Scikit-learn) |
-| Spectral/Time/Frequency Analysis, Connectivity, ERP | AI/ML: Classical ML, CNN, ViT, TensorFlow, Keras |
-
-| Neuroengineering                               | Tools & Documentation                           |
-|------------------------------------------------|-------------------------------------------------|
-| Brain–Spine Dynamics, Motor-Sensory Interactions | LaTeX/Overleaf, Statistics, MS Office, EndNote, SQL |
-| Experimental Design, Electrode–Tissue Interaction | Jupyter, VS Code, Anaconda (Spyder)           |
-
-| Languages Proficiency                           | Personal & Social                               |
-|------------------------------------------------|-------------------------------------------------|
-| English: C1, Turkish: B2, Azerbaijani: C2, Persian: C2 | Organization, Time Management, Communication |
 
 ## Research Collaborations
 
