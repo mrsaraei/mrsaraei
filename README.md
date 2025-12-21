@@ -19,26 +19,26 @@
 ## Technical Expertise
 
 **Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
-- Led EEG signal processing and ML pipelines in Python and MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS).
-- Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) and conducted high-density EEG recordings, developing custom MATLAB frameworks to extract spectral, coherence, and functional connectivity metrics.
-- Investigated motor–sensory interactions and brain–spine dynamics, performing group-level analyses to identify connectivity patterns linked to SCS efficacy.
+- Led EEG signal processing and ML pipelines in Python and MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS)
+- Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) and conducted high-density EEG recordings, developing custom MATLAB frameworks to extract spectral, coherence, and functional connectivity metrics
+- Investigated motor–sensory interactions and brain–spine dynamics, performing group-level analyses to identify connectivity patterns linked to SCS efficacy
 
 **Graduate Research Assistant:** [VSI Lab](https://sites.google.com/view/eungjoolee/), ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
-- Designed and implemented deep learning models (CNNs, ViTs) with triple adaptive mechanisms for medical object detection and multimodal sensor-fusion pipelines.
-- Developed a self-supervised pretraining framework using contrastive learning, adaptive layer weighting, and token-level attention; surveyed and integrated SOTA architectures with hybrid attention, CSP networks, Spatial Pyramid Pooling, and BiFPN in efficient Python/TensorFlow/Keras pipelines.
+- Designed and implemented AI/ML models with triple adaptive mechanisms for medical object detection and multimodal sensor-fusion pipelines
+- Developed a self-supervised pretraining framework using contrastive learning, adaptive layer weighting, and token-level attention; surveyed and integrated SOTA architectures with hybrid attention, CSP networks, Spatial Pyramid Pooling, and BiFPN in efficient Python/TensorFlow/Keras pipelines
 
 **Supervisor, Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Tabriz, Iran | 2014 – 2024  
-- Developed ML frameworks (AutoCML, AutoIFSCML) with feature engineering and ensemble methods for multimodal clinical data analysis.
-- Led clinical engineering teams and collaborated with WHO on COVID-19 response, managing medical devices, training, maintenance, data analysis, and clinical readiness to ensure safe and efficient operations.
+- Developed AI/ML frameworks with feature engineering and ensemble methods for multimodal clinical data analysis
+- Led clinical engineering teams and collaborated with WHO on COVID-19 response, managing medical devices, training, maintenance, data analysis, and clinical readiness to ensure safe and efficient operations
 
 **Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
-- Reviewed AI/ML manuscripts for methodological rigor, model design, and reproducibility, providing constructive feedback to improve clarity and overall impact.
+- Reviewed AI/ML manuscripts for methodological rigor, model design, and reproducibility, providing constructive feedback to improve clarity and overall impact
 
 **Department Assistant:** [Dean's Office](https://bme.engineering.arizona.edu/faculty-staff/faculty/mario-romero-ortega), BME Department, University of Arizona, Tucson, USA | Summer 2025  
-- Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities.
+- Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities
 
 **Project Assistant:** [Iran COVID-19 Emergency Response Project](https://www.emro.who.int/iran/information-resources/progress-reports.html#:~:text=As%20a%20result%2C%20a%20US,saving%20medical%20and%20laboratory%20equipment.), World Health Organization | 2020 – 2021  
-- Supported the WHO ICERP by managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic.
+- Supported the WHO ICERP by managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic
 
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
