@@ -39,7 +39,7 @@
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Journal Peer-Reviewer
-- **[IEEE Access](https://ieeeaccess.ieee.org/):** Reviewed AI/ML-based Medical Manuscripts, New York, NY, USA | 2025 – Present  
+- **[IEEE Access](https://ieeeaccess.ieee.org/):** Reviewed AI/ML-Based Medical Manuscripts, New York, NY, USA | 2025 – Present  
 
 ## Research Collaborations
 
@@ -49,9 +49,13 @@
 
 ## Selected Publications
 
-- **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 [DOI](https://doi.org/10.1109/ACCESS.2025.3553087) | [PDF](https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf)  
-- **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Frontiers in Health Informatics, 12, 164. 🔗 [DOI](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016) | [PDF](https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf)  
-- **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality COVID-19 Severity Recognition*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 [DOI](https://doi.org/10.59615/ijie.3.1.1) | [PDF](https://github.com/mrsaraei/CovDataML/blob/a29d15cefa9aa4cd6746fe5dc2f15e58dfde4938/A_Different_Traditional_Approach_for_Automatic_Comparative_Machine_Learning_in_Multimodality_Covid-19_Severity_Recognition.pdf)  
+<div style="text-align: justify;">
+  
+- <strong>Saraei, M.</strong>, Lee, E.J., & Lalinia, M. (2025). <em>Deep Learning-Based Medical Object Detection: A Survey</em>. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a> | <a href="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf">PDF</a>  
+- <strong>Saraei, M.</strong>, & Liu, S. (2023). <em>Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review</em>. Frontiers in Health Informatics, 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> | <a href="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf">PDF</a>  
+- <strong>Saraei, M.</strong>, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). <em>A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality COVID-19 Severity Recognition</em>. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a> | <a href="https://github.com/mrsaraei/CovDataML/blob/a29d15cefa9aa4cd6746fe5dc2f15e58dfde4938/A_Different_Traditional_Approach_for_Automatic_Comparative_Machine_Learning_in_Multimodality_Covid-19_Severity_Recognition.pdf">PDF</a>
+
+</div>
 
 ## Awards
 
