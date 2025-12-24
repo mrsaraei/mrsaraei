@@ -19,28 +19,27 @@
 ## Technical Expertise
 
 **Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
-[2nd Year of PhD]: Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.
+<p align="justify">[2nd Year of PhD]: Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.</p>
 
 **Graduate Research Assistant:** [VSI Lab](https://sites.google.com/view/eungjoolee/), ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
-[1st Year of PhD]: Designed and implemented advanced AI/ML pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention, integrated into efficient Python/TensorFlow/Keras workflows.
+<p align="justify">[1st Year of PhD]: Designed and implemented advanced deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
 
 **Supervisor, Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Tabriz, Iran | 2014 – 2024  
-- Developed AI/ML frameworks with feature engineering and ensemble methods for multimodal clinical data analysis
-- Led clinical engineering teams and collaborated with WHO on COVID-19 response, managing medical devices, training, maintenance, data analysis, and clinical readiness to ensure safe and efficient operations
-
-**Journal Peer-Reviewer:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
-- Reviewed AI/ML manuscripts for methodological rigor, model design, and reproducibility, providing constructive feedback to improve clarity and overall impact
+<p align="justify">[Implemented machine learning frameworks incorporating feature engineering and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
 
 **Department Assistant:** [Dean's Office](https://bme.engineering.arizona.edu/faculty-staff/faculty/mario-romero-ortega), BME Department, University of Arizona, Tucson, USA | Summer 2025  
-- Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities
+<p align="justify">Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities.</p>
 
 **Project Assistant:** [Iran COVID-19 Emergency Response Project](https://www.emro.who.int/iran/information-resources/progress-reports.html#:~:text=As%20a%20result%2C%20a%20US,saving%20medical%20and%20laboratory%20equipment.), World Health Organization | 2020 – 2021  
-- Supported the WHO ICERP by managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic
+<p align="justify">Supported the WHO ICERP by managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic. </p>
 
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
+
+## Journal Peer-Reviewer
+- **[IEEE Access](https://ieeeaccess.ieee.org/):** Reviewed AI/ML-based Medical Manuscripts, New York, NY, USA | 2025 – Present  
 
 ## Research Collaborations
 
