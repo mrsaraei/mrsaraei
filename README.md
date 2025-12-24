@@ -19,13 +19,10 @@
 ## Technical Expertise
 
 **Graduate Research Assistant:** [Telkes Lab](https://telkeslab.com/), BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
-- Led EEG signal processing and ML pipelines in Python and MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS)
-- Analyzed multimodal physiological data (EEG, ECG, EMG, ActiGraph, fNIRS) and conducted high-density EEG recordings, developing custom MATLAB frameworks to extract spectral, coherence, and functional connectivity metrics
-- Investigated motor–sensory interactions and brain–spine dynamics, performing group-level analyses to identify connectivity patterns linked to SCS efficacy
+[2nd Year of PhD]: Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.
 
 **Graduate Research Assistant:** [VSI Lab](https://sites.google.com/view/eungjoolee/), ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
-- Designed and implemented AI/ML models with triple adaptive mechanisms for medical object detection and multimodal sensor-fusion pipelines
-- Developed a self-supervised pretraining framework using contrastive learning, adaptive layer weighting, and token-level attention; surveyed and integrated SOTA architectures with hybrid attention, CSP networks, Spatial Pyramid Pooling, and BiFPN in efficient Python/TensorFlow/Keras pipelines
+[1st Year of PhD]: Designed and implemented advanced AI/ML pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention, integrated into efficient Python/TensorFlow/Keras workflows.
 
 **Supervisor, Clinical Engineer:** [Tabriz University of Medical Sciences](https://en.tbzmed.ac.ir/), East Azerbaijan, Tabriz, Iran | 2014 – 2024  
 - Developed AI/ML frameworks with feature engineering and ensemble methods for multimodal clinical data analysis
