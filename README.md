@@ -38,16 +38,16 @@
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-## Journal Peer-Reviewer
+## Peer-Reviewer
 - **[IEEE Access](https://ieeeaccess.ieee.org/):** Reviewed AI/ML-Based Medical Manuscripts, New York, NY, USA | 2025 – Present  
 
-## Research Collaborations
+## Collaborations
 
 **[On-Site]** VSI, ECE, University of Arizona, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
 **[Remote]** CHI, AIHI, Macquarie University, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
 **[Remote]** CEDP, Brunel University London, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
 
-## Selected Publications
+## Publications
 
 <div style="text-align: justify;">
   
