@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal physiological data analysis (e.g., biosignal, medical image, and wearable sensor data) leveraging efficient machine learning with hands-on experience in experimental trials.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal biomedical data analysis (e.g., biosignal, medical image, and wearable sensor data) leveraging efficient machine/deep learning with hands-on experience in experimental trials.</p>
 
 ## Education
 
@@ -20,6 +20,9 @@
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 <p align="justify">[2nd Year of PhD]: Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB (EEGLAB) to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.</p>
+
+**Research Intern:** Roche, Pathology Lab Research and Early Development (RED), Tucson, USA | Summer 2026  
+<p align="justify</p>
 
 **Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
 <p align="justify">[1st Year of PhD]: Designed and implemented advanced deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
