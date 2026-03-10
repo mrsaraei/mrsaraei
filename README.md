@@ -19,12 +19,12 @@
 ## Technical Expertise
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
-<p align="justify">[2nd Year of PhD]: Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB (EEGLAB) to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.</p>
+<p align="justify">Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.</p>
 
 **Research Intern:** Roche, Pathology Lab Research and Early Development (RED), Tucson, USA | Summer 2026 
 
 **Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
-<p align="justify">[1st Year of PhD]: Designed and implemented advanced deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
+<p align="justify">Designed and implemented deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
 
 **Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024  
 <p align="justify">Implemented machine learning frameworks incorporating feature engineering and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
@@ -33,7 +33,7 @@
 <p align="justify">Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities.</p>
 
 **Project Assistant:** Iran COVID-19 Emergency Response Project, World Health Organization | 2020 – 2021  
-<p align="justify">Supported the WHO ICERP by managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic. </p>
+<p align="justify">Managed medical equipment across hospitals and analyzed electronic health records to inform data-driven decisions and optimize patient care during the pandemic. </p>
 
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
