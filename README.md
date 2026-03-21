@@ -10,13 +10,13 @@
 
 <p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal biomedical data analysis leveraging efficient machine/deep learning with hands-on experience in experimental trials.</p>
 
-## Education
+## Academic Education
 
 **Ph.D., Biomedical Engineering**, *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
 **M.Sc., Biomedical Engineering**, *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **B.Sc., Biomedical Engineering**, *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 
-## Expertise
+## Technical Expertise
 
 **Research Intern:** Roche, Pathology Lab Research and Early Development (RED), Tucson, USA | Summer 2026 [**Soon**]
 
@@ -69,7 +69,6 @@
 **[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 
 ---
-
 © 2024-2026 **Reza** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
 
