@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal biomedical data analysis (e.g., biosignal, medical image, and wearable sensor data) leveraging efficient machine/deep learning with hands-on experience in experimental trials.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal biomedical data analysis leveraging efficient machine/deep learning with hands-on experience in experimental trials.</p>
 
 ## Education
 
@@ -18,16 +18,16 @@
 
 ## Technical Expertise
 
+**Research Intern:** Roche, Pathology Lab Research and Early Development (RED), Tucson, USA | Summer 2026 [**Soon**]
+
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 <p align="justify">Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.</p>
-
-**Research Intern:** Roche, Pathology Lab Research and Early Development (RED), Tucson, USA | Summer 2026 
 
 **Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
 <p align="justify">Designed and implemented deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
 
 **Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024  
-<p align="justify">Implemented machine learning frameworks incorporating feature engineering and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
+<p align="justify">Implemented machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
 
 **Department Assistant:** Dean's Office, BME Department, University of Arizona, Tucson, USA | Summer 2025  
 <p align="justify">Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities.</p>
@@ -41,7 +41,7 @@
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Peer-Reviewer
-- **[IEEE Access](https://ieeeaccess.ieee.org/):** Reviewed AI/ML-Based Medical Manuscripts, New York, NY, USA | 2025 – Present  
+- **[IEEE Access](https://ieeeaccess.ieee.org/):** Reviewed AI/ML-Based Medical studies, New York, NY, USA | 2025 – Present  
 
 ## Collaborations
 
@@ -53,6 +53,8 @@
 
 <div style="text-align: justify;">
   
+- <strong>Saraei, M.</strong>, & Telkes, I. (2026). <em>EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain</em>. NYC Neuromodulation Conference (Neuromodec).
+- <strong>Saraei, M.</strong>, Pousseu, L., DiMarzio, M., Pilitsis, J. G., & Telkes, I. (2026). <em>Altered Alpha-Theta Network Connectivity During Spinal Cord Stimulation in Chronic Pain</em>. 17th World Congress of the International Neuromodulation Society (INS).
 - <strong>Saraei, M.</strong>, Lee, E.J., & Lalinia, M. (2025). <em>Deep Learning-Based Medical Object Detection: A Survey</em>. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a> | <a href="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf">PDF</a>  
 - <strong>Saraei, M.</strong>, & Liu, S. (2023). <em>Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review</em>. Front. Health Inform., 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> | <a href="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf">PDF</a>  
 - <strong>Saraei, M.</strong>, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). <em>A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality COVID-19 Severity Recognition</em>. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a> | <a href="https://github.com/mrsaraei/CovDataML/blob/a29d15cefa9aa4cd6746fe5dc2f15e58dfde4938/A_Different_Traditional_Approach_for_Automatic_Comparative_Machine_Learning_in_Multimodality_Covid-19_Severity_Recognition.pdf">PDF</a>
