@@ -16,7 +16,7 @@
 **M.Sc., Biomedical Engineering**, *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
 **B.Sc., Biomedical Engineering**, *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 
-## Technical Expertise
+## Expertise
 
 **Research Intern:** Roche, Pathology Lab Research and Early Development (RED), Tucson, USA | Summer 2026 [**Soon**]
 
@@ -40,24 +40,26 @@
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-## Peer-Reviewer
-- **[IEEE Access](https://ieeeaccess.ieee.org/):** Reviewed AI/ML-Based Medical studies, New York, NY, USA | 2025 – Present  
+## Activities
 
-## Collaborations
+**[Peer-Reviewer]:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
 
-**[On-Site]** VSI, ECE, University of Arizona, AZ, USA – Dr. Eungjoo Lee | 2024 - 2025 🔗 [Paper](https://doi.org/10.1109/ACCESS.2025.3553087)  
-**[Remote]** CHI, AIHI, Macquarie University, NSW, Australia – Dr. Sidong Liu | 2023 – 2024 🔗 [Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016)  
-**[Remote]** CEDP, Brunel University London, London, UK – Dr. Sebelan Danishvar | 2022 – 2023 🔗 [Paper](https://doi.org/10.59615/ijie.3.1.1)
+## Presentations
+
+<div style="text-align: justify;">
+
+- **Saraei, M.**, & Telkes, I. (2026). *EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA.  
+- **Saraei, M.**, Pousseu, L., DiMarzio, M., Pilitsis, J. G., & Telkes, I. (2026). *Altered Alpha–Theta Network Connectivity During Spinal Cord Stimulation in Chronic Pain*. 17th World Congress of the International Neuromodulation Society (INS), Lisbon, Portugal.
+
+</div>
 
 ## Publications
 
 <div style="text-align: justify;">
   
-- <strong>Saraei, M.</strong>, & Telkes, I. (2026). <em>EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain</em>. NYC Neuromodulation Conference (Neuromodec).
-- <strong>Saraei, M.</strong>, Pousseu, L., DiMarzio, M., Pilitsis, J. G., & Telkes, I. (2026). <em>Altered Alpha-Theta Network Connectivity During Spinal Cord Stimulation in Chronic Pain</em>. 17th World Congress of the International Neuromodulation Society (INS).
-- <strong>Saraei, M.</strong>, Lee, E.J., & Lalinia, M. (2025). <em>Deep Learning-Based Medical Object Detection: A Survey</em>. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a> | <a href="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf">PDF</a>  
-- <strong>Saraei, M.</strong>, & Liu, S. (2023). <em>Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review</em>. Front. Health Inform., 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> | <a href="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf">PDF</a>  
-- <strong>Saraei, M.</strong>, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). <em>A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodality COVID-19 Severity Recognition</em>. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a> | <a href="https://github.com/mrsaraei/CovDataML/blob/a29d15cefa9aa4cd6746fe5dc2f15e58dfde4938/A_Different_Traditional_Approach_for_Automatic_Comparative_Machine_Learning_in_Multimodality_Covid-19_Severity_Recognition.pdf">PDF</a>
+- **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a> | <a href="https://github.com/mrsaraei/DL-MedOD/blob/3f8812c6d6ad0aa808716960d506c9fd9603417a/Deep_Learning-Based_Medical_Object_Detection_A_Survey.pdf">PDF</a>  
+- **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Front. Health Inform., 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> | <a href="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/23f678b9b74a08341a989361e0ba0cf5a1a75d7f/Attention-based_Deep_Learning_Approaches_in_Brain_Tumor_Image_Analysis_A_Mini_Review.pdf">PDF</a>  
+- **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodal COVID-19 Severity Recognition<*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a> | <a href="https://github.com/mrsaraei/CovDataML/blob/a29d15cefa9aa4cd6746fe5dc2f15e58dfde4938/A_Different_Traditional_Approach_for_Automatic_Comparative_Machine_Learning_in_Multimodality_Covid-19_Severity_Recognition.pdf">PDF</a>
 
 </div>
 
@@ -68,10 +70,13 @@
 
 ---
 
-<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="140">
-
 © 2024-2026 **Reza** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
+
+
+
+
+
 
 <!--
 - **Saraei, M.**, et al. (2020). *Biomedical Engineering in Healthcare Engineering* [Persian (Farsi): رویکرد مهندسی پزشکی در مهندسی بیمارستان]. Tehran, Iran: Miaad-e-Andisheh. ISBN: 978-622-231442-2, p. 254. 🔗 [PDF](https://www.researchgate.net/publication/348137289_Biomedical_Engineering_in_Healthcare_Engineering_Persian_Farsi)  
@@ -112,4 +117,6 @@ MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks)
     </td>
   </tr>
 </table>
+
+<img align="left" src="https://raw.githubusercontent.com/mrsaraei/mrsaraei/0b597040149cf332b9ae058b6bf004b61d74d1cd/figure/brain_intro.gif" alt="Neuroscience" width="140">
 -->
