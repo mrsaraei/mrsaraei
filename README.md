@@ -40,10 +40,6 @@
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-## Activities
-
-**[Peer-Reviewer]:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
-
 ## Presentations
 
 <div style="text-align: justify;">
@@ -62,6 +58,10 @@
 - **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodal COVID-19 Severity Recognition<*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a> | <a href="https://github.com/mrsaraei/CovDataML/blob/a29d15cefa9aa4cd6746fe5dc2f15e58dfde4938/A_Different_Traditional_Approach_for_Automatic_Comparative_Machine_Learning_in_Multimodality_Covid-19_Severity_Recognition.pdf">PDF</a>
 
 </div>
+
+## Activities
+
+**[Peer-Reviewer]:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
 
 ## Awards
 
