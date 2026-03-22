@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png">
+      <a href="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png" target="_blank">
         <img src="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png" width="250"/>
       </a>
       <br/>INS2026
