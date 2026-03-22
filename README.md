@@ -41,7 +41,6 @@
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
 ## Presentations
-
 <div style="text-align: justify;">
 
 - **Saraei, M.**, & Telkes, I. (2026). *EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA.  
@@ -50,7 +49,6 @@
 </div>
 
 ## Publications
-
 <div style="text-align: justify;">
   
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
@@ -59,12 +57,22 @@
 
 </div>
 
-## Activities
+## Projects
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png">
+        <img src="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png" width="250"/>
+      </a>
+      <br/>INS2026
+    </td>
+  </tr>
+</table>
 
+## Activities
 **[Peer-Reviewer]:** [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present  
 
 ## Awards
-
 **[Research Assistantship]:** Supported by the Telkes Lab, University of Arizona ($71,158) | 2025 - Present  
 **[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 
