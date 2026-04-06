@@ -43,7 +43,8 @@
 ## Presentations
 <div style="text-align: justify;">
 
-- **Saraei, M.**, & Telkes, I. (2026). *EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA.  
+- **Saraei, M.**, & Telkes, I. (2026). *Preliminary EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*<img width="468" height="68" alt="image" src="https://github.com/user-attachments/assets/905b8a6c-458d-4b37-bd77-203ccc3ad040" />
+*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA.  
 - **Saraei, M.**, Pousseu, L., DiMarzio, M., Pilitsis, J. G., & Telkes, I. (2026). *Altered Alpha–Theta Network Connectivity During Spinal Cord Stimulation in Chronic Pain*. 17th World Congress of the International Neuromodulation Society (INS), Lisbon, Portugal.
 
 </div>
