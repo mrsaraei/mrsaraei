@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in multimodal biomedical data analysis leveraging efficient machine/deep learning with hands-on experience in experimental trials.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering, specializing in multimodal biomedical data analysis leveraging efficient machine/deep learning with hands-on experience in experimental trials.</p>
 
 ## Education
 
@@ -26,8 +26,10 @@
 [2] Project [NINDS: R00NS119672]: Postoperative SCS for Discovering Neuromarkers of Chronic Pain (2025–2026)
 <p align="justify">My role involved conducting end-to-end MATLAB pipelines for neurophysiological signal processing and machine learning to quantify oscillatory pain neuromarkers and cortical dynamics during Long- and Short-Term spinal cord stimulation (SCS). Developed EEG acquisition and analysis frameworks to extract spectral and connectivity metrics, and analyzed motor–sensory and brain–spine interactions to identify connectivity patterns linked to SCS efficacy.</p>
 
+**Graduate Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026
+
 **Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
-<p align="justify">[VSI Lab, ECE]: My role involved designing and implementing deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
+<p align="justify">My role involved designing and implementing deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
 
 **Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024  
 <p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
