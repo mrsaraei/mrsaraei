@@ -19,19 +19,24 @@
 ## Technical Expertise
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
-<p align="justify">Led end-to-end neurophysiological signal-processing and machine-learning pipelines in MATLAB to quantify oscillatory biomarkers of chronic pain and waveform-specific cortical dynamics during spinal cord stimulation (SCS); designed and executed multimodal EEG/fNIRS acquisition and custom analysis frameworks to extract spectral, coherence, and functional-connectivity metrics; and conducted group-level investigations of motor–sensory and brain–spine interactions to identify connectivity patterns associated with SCS efficacy.</p>
+
+[1] Project [Co-Op: Medtronic & UZ Brussels]: STARGATE (2026–2028)
+<p align="justify">My role is in multimodal biomedical data analysis, where I focus on data strategy and analytical execution to characterize physiological signals in chronic pain. I perform integrated analyses of multimodal biosignals, including EEG, ECG (HRV), and ECAPs, across varying clinical conditions and body positions. My work focuses on developing robust analytical frameworks that translate complex neural and cardiac signals into actionable clinical insights.</p>
+
+[2] Project [NIH-NINDS: R00NS119672]: Long- and Short-Term Post-Op SCS for Discovering Neuromarkers of Chronic Pain (2025–2026)
+<p align="justify">My role involved conducting end-to-end MATLAB pipelines for neurophysiological signal processing and machine learning to quantify oscillatory pain biomarkers and cortical dynamics during spinal cord stimulation (SCS). Developed EEG acquisition and analysis frameworks to extract spectral and connectivity metrics, and analyzed motor–sensory and brain–spine interactions to identify connectivity patterns linked to SCS efficacy.</p>
 
 **Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
-<p align="justify">Designed and implemented deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
+<p align="justify">[VSI Lab, ECE]: My role involved designing and implementing deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
 
 **Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024  
-<p align="justify">Implemented machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
+<p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
 
 **Department Assistant:** Dean's Office, BME Department, University of Arizona, Tucson, USA | Summer 2025  
-<p align="justify">Managed alumni records, supported student orientation events, and guided program resources, research opportunities, and departmental activities.</p>
+<p align="justify">My role involved managing alumni records, supporting student orientation events, and guiding program resources, research opportunities, and departmental activities.</p>
 
 **Project Assistant:** Iran COVID-19 Emergency Response Project, World Health Organization | 2020 – 2021  
-<p align="justify">Managed medical equipment across hospitals and analyzed electronic health records to inform data-driven decisions and optimize patient care during the pandemic. </p>
+<p align="justify">My role involved managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic.</p>
 
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
