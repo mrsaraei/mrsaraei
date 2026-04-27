@@ -12,9 +12,9 @@
 
 ## Education
 
-**Ph.D., Biomedical Engineering**, *The University of Arizona*, Tucson, AZ, USA | 2024 – Present  
-**M.Sc., Biomedical Engineering**, *Seraj University*, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
-**B.Sc., Biomedical Engineering**, *Islamic Azad University*, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
+**Ph.D., Biomedical Engineering**, The University of Arizona, Tucson, AZ, USA | 2024 – Present  
+**M.Sc., Biomedical Engineering**, Seraj University, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
+**B.Sc., Biomedical Engineering**, Islamic Azad University, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 
 ## Technical Expertise
 
