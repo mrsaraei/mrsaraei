@@ -23,7 +23,7 @@
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
 [1] Project [Co-Op: Medtronic & UZ Brussels]: STARGATE (2026–2028)
-<p align="justify">My role is in multimodal biomedical data analysis, where I focus on data strategy and analytical execution to characterize physiological signals in chronic pain. I perform integrated analyses of multimodal biosignals, including EEG, ECG (HRV), and ECAPs, across varying clinical conditions and body positions. My work focuses on developing robust analytical frameworks that translate complex neural and cardiac signals into actionable clinical insights.</p>
+<p align="justify">My role is in multimodal data analysis, where I focus on data strategy and analytical execution to characterize physiological signals in chronic pain. I perform integrated analyses of multimodal biosignals, including EEG, ECG, and ECAPs, across varying clinical conditions and body positions. My work focuses on developing robust analytical frameworks that translate complex neural and cardiac signals into actionable clinical insights.</p>
 
 [2] Project [NINDS: R00NS119672]: Post-Op SCS for Discovering Neuromarkers of Chronic Pain (2025–2026)
 <p align="justify">My role involved developing end-to-end MATLAB pipelines for neurophysiological signal processing and machine learning to quantify oscillatory pain neuromarkers and cortical dynamics during Long- and Short-Term spinal cord stimulation (SCS). Developed EEG acquisition and analysis frameworks to extract spectral and connectivity metrics, and analyzed motor–sensory and brain–spine interactions to identify connectivity patterns linked to SCS efficacy.</p>
@@ -56,24 +56,12 @@
 ## Publications
 <div style="text-align: justify;">
 
-- **Saraei, M.**, Swickley, T., Tevelev, S., Gopal, J., Khazen, O., DiMarzio, M., & Telkes, I. *Long-Term Spinal Cord Stimulation Modulates Cortical EEG Dynamics: An Observational Study*. *Neuromodulation: Technology at the Neural Interface*.
+- **Saraei, M.**, Swickley, T., Tevelev, S., Gopal, J., Khazen, O., DiMarzio, M., & Telkes, I, (2026). *Long-Term Spinal Cord Stimulation Modulates Cortical EEG Dynamics: An Observational Study*. Neuromodulation: Technology at the Neural Interface.
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
 - **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Front. Health Inform., 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> 
 - **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodal COVID-19 Severity Recognition<*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a>
 
 </div>
-
-## Projects
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png" target="_blank">
-        <img src="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png" width="250"/>
-      </a>
-      <br/>INS2026
-    </td>
-  </tr>
-</table>
 
 ## Activities
 **Peer-Reviewer:** 
@@ -94,6 +82,19 @@
 
 
 <!--
+
+## Projects
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png" target="_blank">
+        <img src="https://github.com/mrsaraei/mrsaraei/blob/70185841038bb19ef94690ae7058946d19bdd0f0/figure/ins2026.png" width="250"/>
+      </a>
+      <br/>INS2026
+    </td>
+  </tr>
+</table>
+
 - **Saraei, M.**, et al. (2020). *Biomedical Engineering in Healthcare Engineering* [Persian (Farsi): رویکرد مهندسی پزشکی در مهندسی بیمارستان]. Tehran, Iran: Miaad-e-Andisheh. ISBN: 978-622-231442-2, p. 254. 🔗 [PDF](https://www.researchgate.net/publication/348137289_Biomedical_Engineering_in_Healthcare_Engineering_Persian_Farsi)  
 - **Saraei, M.**, et al. (2018). *Hospital Equipping and Development Standards* [Persian (Farsi): استاندارد تجهیز و توسعه بیمارستان]. Tabriz, Iran: Tabriz University of Medical Science (Pezhvak Alborz). ISBN: 978-622-6021-01-2, p. 227. 🔗 [PDF](https://www.researchgate.net/publication/392562783_Hospital_Equipping_and_Development_Standards_Persian_Farsi)
 - **Saraei, M.**, et al. (2016). *Fundamentals of Computers and Networks in Biomedical Engineering* [Persian (Farsi): اصول و مبانی رایانه و شبکه در مهندسی پزشکی]. Tehran, Iran: Miaad-e-Andisheh. ISBN: ‫‬‭‭978-600-8540-08-3‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬. p. 304.
