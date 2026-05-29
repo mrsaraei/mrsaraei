@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/mrsaraei/mrsaraei/blob/24f5137ef9a3fa24565dc31dc1ef681f0f226221/figure/GitHub.png" alt="pain">  -->
+<img src="https://github.com/mrsaraei/mrsaraei/blob/234b151f8230e42494a84d76c6d09285962f09a7/figure/banner.jpeg" alt="">
 
 <div align="left">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering, specializing in multimodal biomedical data analysis leveraging efficient machine/deep learning with hands-on experience in experimental trials.</p>
+<p align="justify"></p>
 
 ## Education
 
