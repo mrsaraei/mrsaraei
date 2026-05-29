@@ -18,7 +18,7 @@
 
 ## Technical Expertise
 
-**Graduate Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026
+**Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
