@@ -65,9 +65,9 @@
 
 ## Activities
 **Peer-Reviewer:** 
-- [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present    
-- [Medical Image Understanding and Analysis (MIUA)](https://www.ucd.ie/medicine/miua2026/), Dublin, Ireland | 2026
+- [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present
 - [CaPTion @ MICCAI](https://caption-workshop.github.io/), Strasboug, France | 2026
+- [MIUA](https://www.ucd.ie/medicine/miua2026/), Dublin, Ireland | 2026
 
 ## Awards
 **[Research Assistantship]:** Supported by the Telkes Lab, University of Arizona ($71,158) | 2025 - Present  
