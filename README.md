@@ -28,8 +28,8 @@ Complementing my technical expertise, I possess professional working proficiency
 
 **Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026  
 
-[1] Project [PL-RED]: NucliVis: Nuclei and Cytoplasmic Quantification in Hematoxylin–DAB-Stained Tissue  
-<p align="justify">My role is to develop an efficient, automated end-to-end tool for quantifying nuclei and cytoplasm in hematoxylin- and 3,3′-diaminobenzidine (DAB)-stained whole-slide images across multiple tissue types (liver, kidney, colon, skin, and tonsil). The workflow includes tissue segmentation, stain normalization and deconvolution, nuclei segmentation, cytoplasm estimation, quantitative analysis, and visualization.</p>
+[1] Project [PL-RED]: NucliVis: Nuclei and Cytoplasmic Quantification in Hematoxylin–DAB-Stained Tissue
+<p align="justify">My role is to develop an automated end-to-end tool for quantifying nuclei and cytoplasm in hematoxylin- and 3,3′-diaminobenzidine (DAB)-stained whole-slide images across multiple tissue types (liver, kidney, colon, skin, and tonsil) to reduce manual touchpoints, turnaround time, and operational costs while ensuring robust results. The workflow includes tissue segmentation, stain normalization and deconvolution, nuclei segmentation, cytoplasm estimation, quantitative analysis, and visualization.</p>
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
