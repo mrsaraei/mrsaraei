@@ -8,7 +8,15 @@
 
 </div>
 
-<p align="justify"></p>
+<p align="justify">I am a biomedical engineering Ph.D. student at the University of Arizona specializing in scientific machine learning, biomarker discovery, and biomedical data analysis. My primary focus lies in translating multimodal data into actionable clinical insights. 
+  
+**Core Expertise and Achievements:**
+
+- As an intern at Roche, I've developed an end-to-end automated tool using machine learning and tissue segmentation to quantify cellular structures in diverse, hematoxylin-DAB-stained whole-slide images.
+- As a graduate research assistant, I've analyzed EEG signals in spinal cord stimulation for chronic pain biomarker discovery in collaboration with Medtronic and NINDS.
+- As a supervisor clinical engineer with drawing on nearly a decade of experience, I've led clinical engineering teams in medical device management and collaborated with the World Health Organization to optimize data-driven patient care and healthcare operations during the COVID-19 pandemic.  
+
+Complementing my technical expertise, I possess professional working proficiency in English, Turkish, Azerbaijani, and Persian, enabling seamless collaboration within global, cross-functional teams.</p>
 
 ## Education
 
