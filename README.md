@@ -18,7 +18,7 @@
 
 ## Technical Expertise
 
-**Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026
+**Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026  
 Project [PL-RED]: NucliVis: Nuclei and Cytoplasmic Quantification in Hematoxylin–DAB-Stained Tissue  
 <p align="justify">My role is to develop an efficient, automated end-to-end tool for quantifying nuclei and cytoplasm in hematoxylin- and 3,3′-diaminobenzidine (DAB)-stained whole-slide images across multiple tissue types (liver, kidney, colon, skin, and tonsil). The workflow includes tissue segmentation, stain normalization and deconvolution, nuclei segmentation, cytoplasm estimation, quantitative analysis, and visualization.</p>
 
