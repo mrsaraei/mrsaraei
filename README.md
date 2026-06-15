@@ -19,13 +19,15 @@
 ## Technical Expertise
 
 **Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026
+Project [PL-RED]: NucliVis: Nuclei and Cytoplasmic Quantification in Hematoxylin–DAB-Stained Tissue  
+<p align="justify">My role is to develop an efficient, automated end-to-end tool for quantifying nuclei and cytoplasm in hematoxylin- and 3,3′-diaminobenzidine (DAB)-stained whole-slide images across multiple tissue types (liver, kidney, colon, skin, and tonsil). The workflow includes tissue segmentation, stain normalization and deconvolution, nuclei segmentation, cytoplasm estimation, quantitative analysis, and visualization.</p>
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
 [1] Project [Co-Op: Medtronic & UZ Brussels]: STARGATE (2026 – Present)
 <p align="justify">My role is in multimodal data analysis, where I focus on data strategy and analytical execution to characterize physiological signals in chronic pain. I perform integrated analyses of multimodal biosignals, including EEG, ECG, and ECAPs, across varying clinical conditions and body positions. My work focuses on developing robust analytical frameworks that translate complex neural and cardiac signals into actionable clinical insights.</p>
 
-[2] Project [NINDS: R00NS119672]: Post-Op SCS for Discovering Neuromarkers of Chronic Pain (2025 – 2026)
+[2] Project [NINDS: R00NS119672]: Post-Op SCS for Discovering Biomarkers of Chronic Pain (2025 – 2026)
 <p align="justify">My role involved developing end-to-end MATLAB pipelines for neurophysiological signal processing and machine learning to quantify oscillatory pain neuromarkers and cortical dynamics during Long- and Short-Term spinal cord stimulation (SCS). Developed EEG acquisition and analysis frameworks to extract spectral and connectivity metrics, and analyzed motor–sensory and brain–spine interactions to identify connectivity patterns linked to SCS efficacy.</p>
 
 **Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
