@@ -14,7 +14,7 @@
 
 - As an intern at Roche, I've developed an end-to-end automated tool using machine learning and tissue segmentation to quantify cellular structures in diverse, hematoxylin-DAB-stained whole-slide images.
 - As a graduate research assistant, I've analyzed EEG signals in spinal cord stimulation for chronic pain biomarker discovery in collaboration with Medtronic and NINDS.
-- As a supervisor clinical engineer with drawing on nearly a decade of experience, I've led clinical engineering teams in medical device management and collaborated with the World Health Organization to optimize data-driven patient care and healthcare operations during the COVID-19 pandemic.  
+- As a supervisor clinical engineer with nearly a decade of experience, I've led clinical engineering teams in medical device management and collaborated with the World Health Organization to optimize data-driven patient care and healthcare operations during the COVID-19 pandemic.  
 
 Complementing my technical expertise, I possess professional working proficiency in English, Turkish, Azerbaijani, and Persian, enabling seamless collaboration within global, cross-functional teams.</p>
 
@@ -28,8 +28,8 @@ Complementing my technical expertise, I possess professional working proficiency
 
 **Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026  
 
-[1] Project [PL-RED]: NucliVis: Nuclei and Cytoplasmic Quantification in Hematoxylin–DAB-Stained Tissue
-<p align="justify">My role is to develop an automated end-to-end tool for quantifying nuclei and cytoplasm in hematoxylin- and 3,3′-diaminobenzidine (DAB)-stained whole-slide images across multiple tissue types (liver, kidney, colon, skin, and tonsil) to reduce manual touchpoints, turnaround time, and operational costs while ensuring robust results. The workflow includes tissue segmentation, stain normalization and deconvolution, nuclei segmentation, cytoplasm estimation, quantitative analysis, and visualization.</p>
+[1] Project [PL-RED]: NucliVis: Nuclei and Cytoplasmic Quantification in HTX–DAB-Stained Tissue  
+<p align="justify">My role is to develop an automated, end-to-end whole-slide image analysis tool for HTX- and DAB-stained tissues (liver, kidney, colon, skin, and tonsil). The high-throughput pipeline supports R&D and Manufacturing Operations by reducing manual touchpoints, turnaround time, and costs. It integrates tissue segmentation, optical density-based stain deconvolution, nuclei segmentation, cytoplasm estimation, and advanced colorimetric metrics (hue angle, stain uniformity, white balance, and HTX-DAB overlap) to deliver robust quantitative analysis and visualization.</p>
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
