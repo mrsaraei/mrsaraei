@@ -12,7 +12,7 @@
   
 **Core Expertise and Achievements:**
 
-- As an intern at Roche, I developed an automated whole-slide image analysis tool using machine learning, tissue segmentation, and stain deconvolution to quantify cellular structures and assess stain quality in HTX-DAB–stained tissues, supporting R&D and QC operations.
+- As an intern at Roche, I've developed an automated whole-slide image analysis tool using machine learning, tissue segmentation, and stain deconvolution to quantify cellular structures and assess stain quality in HTX-DAB–stained tissues, supporting R&D and QC operations.
 - As a graduate research assistant, I've analyzed EEG signals in spinal cord stimulation for chronic pain biomarker discovery in collaboration with Medtronic and NINDS.
 - As a supervisor clinical engineer with nearly a decade of experience, I've led clinical engineering teams in medical device management and collaborated with the World Health Organization to optimize data-driven patient care and healthcare operations during the COVID-19 pandemic.  
 
