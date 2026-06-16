@@ -11,10 +11,11 @@
 <p align="justify">I am a biomedical engineering Ph.D. student at the University of Arizona specializing in scientific machine learning, biomarker discovery, and biomedical data analysis. My primary focus lies in translating multimodal data into actionable clinical insights. 
   
 **Core Expertise and Achievements:**
+- <p align="justify">As an intern at Roche, I've developed an automated whole-slide image analysis tool using machine learning, tissue segmentation, and stain deconvolution to quantify cellular structures and assess stain quality in HTX-DAB–stained tissues, supporting R&D and QC operations.</p>
 
-- As an intern at Roche, I've developed an automated whole-slide image analysis tool using machine learning, tissue segmentation, and stain deconvolution to quantify cellular structures and assess stain quality in HTX-DAB–stained tissues, supporting R&D and QC operations.
-- As a graduate research assistant, I've analyzed EEG signals in spinal cord stimulation for chronic pain biomarker discovery in collaboration with Medtronic and NINDS.
-- As a supervisor clinical engineer with nearly a decade of experience, I've led clinical engineering teams in medical device management and collaborated with the World Health Organization to optimize data-driven patient care and healthcare operations during the COVID-19 pandemic.  
+- <p align="justify">As a graduate research assistant, I've analyzed EEG signals in spinal cord stimulation for chronic pain biomarker discovery in collaboration with Medtronic and NINDS.</p>
+
+- <p align="justify">As a supervisor clinical engineer with nearly a decade of experience, I've led clinical engineering teams in medical device management and collaborated with the World Health Organization to optimize data-driven patient care and healthcare operations during the COVID-19 pandemic.</p>
 
 Complementing my technical expertise, I possess professional working proficiency in English, Turkish, Azerbaijani, and Persian, enabling seamless collaboration within global, cross-functional teams.</p>
 
