@@ -27,8 +27,8 @@
 
 **Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026  
 
-[1] Project [PL-RED]: NucliVis: Nuclei and Cytoplasmic Quantification in HTX–DAB-Stained Tissue  
-<p align="justify">My role is to develop an automated, end-to-end whole-slide image analysis tool for HTX- and DAB-stained tissues (liver, kidney, colon, skin, and tonsil). The high-throughput pipeline supports R&D and Manufacturing Operations by reducing manual touchpoints, turnaround time, and costs. It integrates tissue segmentation, optical density-based stain deconvolution, nuclei segmentation, cytoplasm estimation, and advanced colorimetric metrics (hue angle, stain uniformity, white balance, and HTX-DAB overlap) to deliver robust quantitative analysis and visualization.</p>
+[1] Project [PL-RED]: QuHTX: Nuclei and Non-Nuclei Quantification in HTX–DAB-Stained Tissue  
+<p align="justify">My role is to develop an automated, end-to-end whole-slide image analysis tool for HTX- and DAB-stained tissues (liver, kidney, colon, skin, and tonsil). The high-throughput pipeline supports R&D and Manufacturing Operations by reducing manual touchpoints, turnaround time, and costs. It integrates tissue segmentation, optical density-based stain deconvolution, nuclei segmentation, non-nuclei estimation, and advanced colorimetric metrics (hue angle, stain uniformity, white balance, and HTX-DAB overlap) to deliver robust quantitative analysis and visualization.</p>
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
