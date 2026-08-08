@@ -27,8 +27,11 @@
 
 **Summer Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026  
 
-[1] Project [PL-RED]: QuHTX: Nuclei and Non-Nuclei Quantification in HTX–DAB-Stained Tissue  
-<p align="justify">My role is to develop an automated, end-to-end whole-slide image analysis tool for HTX- and DAB-stained tissues (liver, kidney, colon, skin, and tonsil). The high-throughput pipeline supports R&D and Manufacturing Operations by reducing manual touchpoints, turnaround time, and costs. It integrates tissue segmentation, optical density-based stain deconvolution, nuclei segmentation, non-nuclei estimation, and advanced colorimetric metrics (hue angle, stain uniformity, white balance, and HTX-DAB overlap) to deliver robust quantitative analysis and visualization.</p>
+[1] Project [PL-RED]: Dialable LOTUS Hematoxylin: Development of an Automated Nuclear & Non-Nuclear Quantification Tool
+To support the Roche agile team’s development of a new, customizable Hematoxylin counterstain reagent for the LOTUS platform, I've delivered a digital tool to reduce pathologist variability and assess reagent stability. This automated solution is engineered to optimize laboratory efficiency by reducing manual touchpoints, accelerating turnaround times, and lowering operational costs. My role is to design and implement the core computational pipeline. I've developed a methodology for tissue segmentation, stain unmixing, and the extraction of critical nuclear and non-nuclear hematoxylin features (such as intensity, contrast, and optical density) to drive automated scoring that aligns with pathologist-standard benchmarks.</p>
+
+[2] Project [PL-RED]: Automated Beads Segmentation, ROI Extraction, and BCS Synchronization for IHC Staining
+My role is to develop an automated toolkit to evaluate IHC (HTX/DAB) stain uniformity by engineering a computer vision pipeline that detects reference beads on slides and generates three non-overlapping ROIs. To reduce touchpoints, build an integration pipeline to seamlessly upload extracted ROIs directly to the Boston Cell Standards (BCS) platform.
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
