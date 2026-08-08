@@ -69,7 +69,6 @@ My role is to develop an automated toolkit to evaluate IHC (HTX/DAB) stain unifo
 ## Publications
 <div style="text-align: justify;">
 
-- **Saraei, M.**, Swickley, T., Tevelev, S., Gopal, J., Khazen, O., DiMarzio, M., & Telkes, I, (2026). *Long-Term Spinal Cord Stimulation Modulates Cortical EEG Dynamics: An Observational Study*. Neuromodulation: Technology at the Neural Interface.
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
 - **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Front. Health Inform., 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> 
 - **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodal COVID-19 Severity Recognition<*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a>
@@ -96,6 +95,8 @@ My role is to develop an automated toolkit to evaluate IHC (HTX/DAB) stain unifo
 
 
 <!--
+
+- **Saraei, M.**, Swickley, T., Tevelev, S., Gopal, J., Khazen, O., DiMarzio, M., & Telkes, I, (2026). *Long-Term Spinal Cord Stimulation Modulates Cortical EEG Dynamics: An Observational Study*. Neuromodulation: Technology at the Neural Interface.
 
 ## Projects
 <table>
