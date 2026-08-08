@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">I am a biomedical engineering Ph.D. student at the University of Arizona specializing in componential biomedicine, biomarker discovery, and cancer informatics. My primary focus lies in translating multimodal data into actionable clinical insights.</p>
+<p align="justify">I am a biomedical engineering Ph.D. student at the University of Arizona specializing in computational biomedicine, biomarker discovery, and cancer informatics. My primary focus lies in translating multimodal data into actionable clinical insights.</p>
   
 **Core Expertise and Achievements:**
 - <p align="justify">As an intern at Roche, I've developed automated whole slide image analysis tools using machine learning and computer vision for tissue segmentation, stain deconvolution, cellular quantification, ROIs extraction, and stain uniformity assessment, supporting next-generation hematoxylin staining products on the LOTUS platform.</p>  
