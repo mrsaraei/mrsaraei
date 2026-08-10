@@ -8,14 +8,7 @@
 
 </div>
 
-<p align="justify">I am a biomedical engineering Ph.D. student at the University of Arizona specializing in computational biomedicine, biomarker discovery, and cancer informatics. My primary focus lies in translating multimodal data into actionable clinical insights.</p>
-  
-**Core Expertise and Achievements:**
-- <p align="justify">As an intern at Roche, I've developed automated whole slide image analysis tools using machine learning and computer vision for tissue segmentation, stain deconvolution, cellular quantification, ROIs extraction, and stain uniformity assessment, supporting next-generation hematoxylin staining products on the LOTUS platform.</p>  
-- <p align="justify">As a graduate research assistant, I've quantified electroencephalography signals in spinal cord stimulation for chronic pain biomarker discovery in collaboration with Medtronic.</p>  
-- <p align="justify">As a supervisor clinical engineer with nearly a decade of experience, I've led clinical engineering teams in medical device management and collaborated with the World Health Organization to optimize data-driven patient care and healthcare operations during the COVID-19 pandemic.</p>  
-
-<p align="justify">Complementing my technical expertise, I possess professional working proficiency in English, Turkish, Azerbaijani, and Persian, enabling seamless collaboration within global, cross-functional teams.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in computational biomedicine, biomarker discovery, and cancer informatics. Focused on translating multimodal data into actionable clinical insights. Experienced in automated whole slide image analysis, machine/deep learning, and computer vision for computational pathology (Roche), as well as neurophysiological signal processing for chronic pain biomarker discovery (Telkes Lab and Medtronic). Proven track record of leading clinical engineering teams and collaborating with the World Health Organization during the COVID-19 pandemic; professional working proficiency in English, Turkish, Azerbaijani, and Persian.</p>
 
 ## Education
 
