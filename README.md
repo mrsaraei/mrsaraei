@@ -61,7 +61,7 @@ My role is to develop an automated toolkit to evaluate IHC (HTX/DAB) stain unifo
 ## Presentations
 <div style="text-align: justify;">
 
-- **Saraei, M.**, & Telkes, I. (2026). *Preliminary EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA.  
+- **Saraei, M.**, & Telkes, I. (2026). *Preliminary EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA. 🔗 <a href="https://neuromodec.org/2026-nyc-neuromodulation-conference/abstracts-online.html#C72">Link</a>
 - **Saraei, M.**, Pousseu, L., DiMarzio, M., Pilitsis, J. G., & Telkes, I. (2026). *Altered Alpha–Theta Network Connectivity During Spinal Cord Stimulation in Chronic Pain*. 17th World Congress of the International Neuromodulation Society (INS), Lisbon, Portugal.
 
 </div>
