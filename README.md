@@ -26,12 +26,12 @@
 [2] Project [NINDS: R00NS119672]: Post-Op SCS for Discovering Biomarkers of Chronic Pain (2025 – 2026)
 <p align="justify">My role involved developing end-to-end MATLAB pipelines for neurophysiological signal processing and machine learning to quantify oscillatory pain neuromarkers and cortical dynamics during Long- and Short-Term spinal cord stimulation (SCS). Developed EEG acquisition and analysis frameworks to extract spectral and connectivity metrics, and analyzed motor–sensory and brain–spine interactions to identify connectivity patterns linked to SCS efficacy.</p>
 
-**Computational Pathology Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical System), Tucson, USA | Summer 2026  
+**Computational Pathology Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical Systems), Tucson, USA | Summer 2026  
 
-[1] Project [PL-RED]: Dialable LOTUS Hematoxylin: Development of an Automated Nuclear & Non-Nuclear Quantification Tool
+[1] Project [PL-RED]: Dialable LOTUS Hematoxylin: Development of an Automated Nuclear & Non-Nuclear Quantification Tool  
 To support the Roche agile team’s development of a customizable Hematoxylin counterstain reagent for the LOTUS platform, I engineered the core computational pipeline for automated tissue segmentation, stain unmixing, and the extraction of nuclear and non-nuclear features to drive pathologist-aligned scoring and reduce diagnostic variability. Building upon this automated quantification tool designed to optimize laboratory efficiency and lower operational costs, I further integrated CPU-bound performance enhancements—including parallel computing, partial patch processing, and coarse-to-fine analysis—to ensure efficient, high-throughput segmentation across standard laboratory workstations without requiring dedicated GPU infrastructure.</p>
 
-[2] Project [PL-RED]: Automated Beads Segmentation, ROI Extraction, and BCS Synchronization for IHC Staining
+[2] Project [PL-RED]: Automated Bead Segmentation, ROI Extraction, and BCS Synchronization for IHC Staining
 My role is to develop an automated toolkit to evaluate IHC (HTX/DAB) stain uniformity by engineering a computer vision pipeline that detects reference beads on slides and generates three non-overlapping ROIs. To reduce touchpoints, build an integration pipeline to seamlessly upload extracted ROIs directly to the Boston Cell Standards (BCS) platform.
 
 **Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
