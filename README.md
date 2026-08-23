@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in computational biomedicine, biomarker discovery, and cancer informatics. Focused on translating multimodal data into actionable clinical insights. Experienced in automated whole slide image analysis, machine/deep learning, and computer vision for computational pathology (Roche), as well as neurophysiological signal processing for chronic pain biomarker discovery (Telkes Lab and Medtronic). Proven track record of leading clinical engineering teams and collaborating with the World Health Organization during the COVID-19 pandemic; professional working proficiency in English, Turkish, Azerbaijani, and Persian.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in computational biomedicine, biomarker discovery, and cancer informatics. Focused on translating multimodal data into actionable clinical insights. Experienced in automated whole slide image analysis, machine/deep learning, and computer vision for computational pathology (Roche), as well as neurophysiological signal processing for chronic pain neural biomarker discovery (Telkes Lab and Medtronic). Proven track record of leading clinical engineering teams and collaborating with the World Health Organization during the COVID-19 pandemic; professional working proficiency in English, Turkish, Azerbaijani, and Persian.</p>
 
 ## Education
 
@@ -20,11 +20,11 @@
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
-[1] Project [Co-Op: Medtronic & UZ Brussels]: STARGATE (2026 – Present)
-<p align="justify">My role is in multimodal data analysis, where I focus on data strategy and analytical execution to characterize physiological signals in chronic pain. I perform integrated analyses of multimodal biosignals, including EEG, ECG, and ECAPs, across varying clinical conditions and body positions. My work focuses on developing robust analytical frameworks that translate complex neural and cardiac signals into actionable clinical insights.</p>
+[1] Dissertation: Neural Biomarkers and Predictive Modeling for Personalized Spinal Cord Stimulation in Chronic Pain (2025–Present)  
+<p align="justify">My research focuses on developing end-to-end computational pipelines to identify and validate neural biomarkers of chronic pain and spinal cord stimulation (SCS) response using preoperative, intraoperative, and postoperative EEG data. I develop MATLAB-based frameworks for EEG preprocessing and analysis, including spectral features, functional connectivity, and phase–amplitude coupling (PAC), to characterize changes in cortical dynamics across different stages of SCS treatment. I investigate motor–sensory and brain–spine interactions and their relationships with clinical outcomes to identify robust neural biomarkers of SCS response. These biomarkers will provide the foundation for machine-learning models to predict treatment response and, ultimately, support personalized SCS parameter optimization and clinical decision-making.</p>
 
-[2] Project [NINDS: R00NS119672]: Post-Op SCS for Discovering Biomarkers of Chronic Pain (2025 – 2026)
-<p align="justify">My role involved developing end-to-end MATLAB pipelines for neurophysiological signal processing and machine learning to quantify oscillatory pain neuromarkers and cortical dynamics during Long- and Short-Term spinal cord stimulation (SCS). Developed EEG acquisition and analysis frameworks to extract spectral and connectivity metrics, and analyzed motor–sensory and brain–spine interactions to identify connectivity patterns linked to SCS efficacy.</p>
+[2] Project [Co-Op: Medtronic & UZ Brussels]: STARGATE (2026 – Present)  
+<p align="justify">My role is in multimodal data analysis, where I focus on data strategy and analytical execution to characterize physiological signals in chronic pain. I perform integrated analyses of multimodal biosignals, including EEG, ECG, and ECAPs, across varying clinical conditions and body positions. My work focuses on developing robust analytical frameworks that translate complex neural and cardiac signals into actionable clinical insights.</p>
 
 **Computational Pathology Intern:** Pathology Lab Research & Early Development, Roche, Tucson, USA | Summer 2026  
 
