@@ -26,7 +26,7 @@
 [2] Project [NINDS: R00NS119672]: Post-Op SCS for Discovering Biomarkers of Chronic Pain (2025 – 2026)
 <p align="justify">My role involved developing end-to-end MATLAB pipelines for neurophysiological signal processing and machine learning to quantify oscillatory pain neuromarkers and cortical dynamics during Long- and Short-Term spinal cord stimulation (SCS). Developed EEG acquisition and analysis frameworks to extract spectral and connectivity metrics, and analyzed motor–sensory and brain–spine interactions to identify connectivity patterns linked to SCS efficacy.</p>
 
-**Computational Pathology Intern:** Pathology Lab Research & Early Development, Roche (Ventana Medical Systems), Tucson, USA | Summer 2026  
+**Computational Pathology Intern:** Pathology Lab Research & Early Development, Roche, Tucson, USA | Summer 2026  
 
 Project [PL-RED]: HemQ: Automated Cellular Quantification Tool for Dialable LOTUS Hematoxylin 
 <p align="justify">To support the Roche agile team’s development of a customizable Hematoxylin counterstain reagent for the LOTUS platform, I engineered the core computational pipeline for automated tissue segmentation, stain unmixing, and the extraction of nuclear and non-nuclear features to drive pathologist-aligned scoring and reduce diagnostic variability. Building upon this automated quantification tool designed to optimize laboratory efficiency and lower operational costs, I further integrated CPU-bound performance enhancements—including parallel computing, partial patch processing, and coarse-to-fine analysis—to ensure efficient, high-throughput segmentation across standard laboratory workstations without requiring dedicated GPU infrastructure.</p>
