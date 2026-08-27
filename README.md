@@ -20,11 +20,8 @@
 
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
-[1] Dissertation: Decoding the Spine-Brain Continuum: A Multimodal ECAP- and EEG-Based Predictive Model for Personalized SCS in Chronic Pain (2025–Present)  
+Dissertation: Decoding the Spine-Brain Continuum: A Multimodal ECAP- and EEG-Based Predictive Model for Personalized SCS in Chronic Pain (2025–Present)  
 <p align="justify">While spinal cord stimulation (SCS) is a promising intervention for chronic pain, clinical outcomes remain constrained by an incomplete understanding of its mechanism of action and a lack of patient-specific parameter optimization. To bridge this gap, this project establishes a novel neurophysiological and computational framework that combines spinal physiology (via ECAPs) and supraspinal physiology (via EEG) to model the full spine-brain continuum. This approach incorporates the electrical properties of stimulation, device characteristics, neural structures, parameter-dependent SCS effects, and neural interface interactions between the electrode and the spine to rigorously characterize how SCS alters neural activity through spectral features, functional connectivity, and phase–amplitude coupling. Machine learning models will leverage these validated biomarkers and physiological mechanisms to predict therapeutic responses and optimize stimulation parameters, ultimately yielding a Clinical Decision-Making toolbox for personalized SCS care and laying the groundwork for next-generation adaptive, closed-loop systems.</p>
-
-[2] Project [Co-Op: Medtronic & UZ Brussels]: STARGATE (2026 – Present)  
-<p align="justify">My role is in multimodal data analysis, where I focus on data strategy and analytical execution to characterize physiological signals in chronic pain. I perform integrated analyses of multimodal biosignals, including EEG, ECG, and ECAPs, across varying clinical conditions and body positions. My work focuses on developing robust analytical frameworks that translate complex neural and cardiac signals into actionable clinical insights.</p>
 
 **Computational Pathology Intern:** Pathology Lab Research & Early Development, Roche, Tucson, USA | Summer 2026  
 
