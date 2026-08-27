@@ -48,6 +48,7 @@ Project [PL-RED]: HemQ: Automated Cellular Quantification Tool for Dialable LOTU
 ## Presentations
 <div style="text-align: justify;">
 
+- Sakthivel, S., **Saraei, M.**, Sadek, H., & Telkes, I. (2026). *Examining Electrocardiogram Morphology and Heart Rate Variability During Spinal Cord Stimulation for Chronic Pain*. Stanford Cardiovascular Institute Research Symposium, California, USA.
 - **Saraei, M.**, & Telkes, I. (2026). *Preliminary EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA. 🔗 <a href="https://neuromodec.org/2026-nyc-neuromodulation-conference/abstracts-online.html#C72">Link</a>
 - **Saraei, M.**, Pousseu, L., DiMarzio, M., Pilitsis, J. G., & Telkes, I. (2026). *Altered Alpha–Theta Network Connectivity During Spinal Cord Stimulation in Chronic Pain*. 17th World Congress of the International Neuromodulation Society (INS), Lisbon, Portugal.
 
