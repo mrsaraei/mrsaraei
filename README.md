@@ -42,7 +42,7 @@ Project [PL-RED]: HemQ: Automated Cellular Quantification Tool for Dialable LOTU
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-## Presentations
+## Presentations (Poster/Oral)
 <div style="text-align: justify;">
 
 - Sakthivel, S., **Saraei, M.**, Sadek, H., & Telkes, I. (2026). *Examining Electrocardiogram Morphology and Heart Rate Variability During Spinal Cord Stimulation for Chronic Pain*. Stanford Cardiovascular Institute Research Symposium, California, USA.
@@ -51,7 +51,7 @@ Project [PL-RED]: HemQ: Automated Cellular Quantification Tool for Dialable LOTU
 
 </div>
 
-## Publications
+## Publications (Journal)
 <div style="text-align: justify;">
 
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
