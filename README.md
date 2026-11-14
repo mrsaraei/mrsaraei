@@ -1,9 +1,7 @@
 <div align="center">
-
 [![Professional Profile](https://img.shields.io/badge/Professional%20Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/mrsaraei/)
 [![Research Profile](https://img.shields.io/badge/Research%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 [![GitHub Profile](https://img.shields.io/badge/Code%20%26%20Projects-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsaraei)
-
 </div>
 
 <p align="justify">Ph.D. student in Biomedical Engineering, passionate about computational biomedicine, scientific machine learning, and biomarker discovery. Experienced in designing foundation-guided, physics-informed latent diffusion architectures, high-throughput IHC cellular quantification (Roche), anatomy-aware self-supervised frameworks (VSI Lab), and neural biomarker predictive workflows (Telkes Lab). Demonstrated track record of leading clinical engineering initiatives and collaborating with the WHO; proficient in English, Turkish, Azerbaijani, and Persian.</p>
@@ -14,7 +12,7 @@
 
 ## Technical Expertise
 
-**MorphoStain: Multiplex Stain Decomposition in Alzheimer's Neuropathology []**   
+**MorphoStain: Multiplex Stain Decomposition in Alzheimer's Neuropathology [<a href="https://github.com/mrsaraei/MorphoStain.git">Repo</a>]**   
 *Lead Researcher, The University of Arizona, Tucson, AZ, USA | Fall 2026*   
 <p align="justify">To resolve multiplex IHC stain unmixing and dual-DAB Amyloid-β/Tau disentanglement in Alzheimer’s neuropathology, I developed a physics-guided teacher–student generative framework. Coupling a Phikon-conditioned Beer–Lambert Latent Diffusion Teacher with Monte Carlo sampling achieved calibrated uncertainty (ECE = 0.0125), while symmetric morphological routing distilled the 169.67M teacher (>1,400×) into a real-time 0.12M-parameter FastStudentUNet (140.1 FPS, 40.56 dB PSNR) with strong zero-shot HER2 IHC generalization (38.45 dB) and illumination drift resilience (+11.64 dB over SOTA).</p>
 
@@ -30,7 +28,7 @@
 *Graduate Research Assistant: Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present*   
 <p align="justify">My role architected explainable machine learning and signal processing workflows to uncover objective neural biomarkers of spinal cord stimulation response, incorporating graph neural networks for spectral connectivity analysis and phase-amplitude coupling.</p>
 
-**Medical Device Lifecycle & Clinical Data Management**  
+**Medical Device Lifecycle Management and Clinical Data Analysis [<a href="https://github.com/mrsaraei/CovDataML.git">Repo</a>]**  
 *Supervisor, Clinical Engineer: Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024*  
 <p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
 
@@ -45,11 +43,9 @@
 
 ## Publications
 <div style="text-align: justify;">
-
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
 - **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Front. Health Inform., 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> 
 - **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodal COVID-19 Severity Recognition<*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a>
-
 </div>
 
 ## Activities
