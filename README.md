@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering, passionate about computational biomedicine, scientific machine learning, and biomarker discovery. Experienced in designing foundation-guided, physics-informed latent diffusion architectures, high-throughput IHC cellular quantification (Roche), self-supervised representation learning (VSI Lab), and neural biomarker predictive models (Telkes Lab). Demonstrated track record of leading clinical engineering initiatives and collaborating with the WHO; proficient in English, Turkish, Azerbaijani, and Persian.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering, passionate about computational biomedicine, scientific machine learning, and biomarker discovery. Experienced in designing foundation-guided, physics-informed latent diffusion architectures, high-throughput IHC cellular quantification (Roche), anatomy-aware self-supervised frameworks (VSI Lab), and neural biomarker predictive workflows (Telkes Lab). Demonstrated track record of leading clinical engineering initiatives and collaborating with the WHO; proficient in English, Turkish, Azerbaijani, and Persian.</p>
 
 ## Education
 
@@ -26,21 +26,18 @@
 
 **ViT-2SPN: Dual-Stream Self-Supervised Pretraining Tool for Retinal OCT Classification**  
 *Graduate Research Assistant: VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025*  
-<p align="justify">My role designed and developed ViT-2SPN, an anatomy-aware self-supervised framework for retinal OCT classification. By integrating ophthalmic foundation models, asymmetric knowledge distillation, dual-stream cross-attention, and axial-aware positional encoding with a triple-objective loss (global contrastive, local patch alignment, and frequency reconstruction)</p>
+<p align="justify">My role designed and developed ViT-2SPN, an anatomy-aware self-supervised framework for retinal OCT classification. By integrating ophthalmic foundation models, asymmetric knowledge distillation, dual-stream cross-attention, and axial-aware positional encoding with a triple-objective loss (global contrastive, local patch alignment, and frequency reconstruction).</p>
 
 **Neural Biomarker Predictive Workflow for Spinal Cord Stimulation**  
 *Graduate Research Assistant: Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present*   
 <p align="justify">My role architected explainable machine learning and signal processing workflows to uncover objective neural biomarkers of spinal cord stimulation response, incorporating graph neural networks for spectral connectivity analysis and phase-amplitude coupling.</p>
 
-**Medical Device Lifecycle & Clinical Data Management**
+**Medical Device Lifecycle & Clinical Data Management**  
 *Supervisor, Clinical Engineer: Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024*  
 <p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
 
 **Department Assistant:** Dean's Office, BME Department, University of Arizona, Tucson, USA | Summer 2025  
 <p align="justify">My role involved managing alumni records, supporting student orientation events, and guiding program resources, research opportunities, and departmental activities.</p>
-
-**Project Assistant:** Iran COVID-19 Emergency Response Project, World Health Organization | 2020 – 2021  
-<p align="justify">My role involved managing medical equipment across hospitals and analyzing electronic health records to inform data-driven decisions and optimize patient care during the pandemic.</p>
 
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
