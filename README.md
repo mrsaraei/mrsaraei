@@ -12,7 +12,7 @@
 
 **Ph.D., Biomedical Engineering**, The University of Arizona, Tucson, AZ, USA | 2024 – Present  
 
-## Technical Expertise
+## Selected Technical Expertise
 
 **MorphoStain: Multiplex Stain Decomposition in Alzheimer's Neuropathology [<a href="https://github.com/mrsaraei/MorphoStain.git">Repo</a>]**   
 *Lead Researcher, The University of Arizona, Tucson, AZ, USA | Fall 2026*   
@@ -39,7 +39,7 @@
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-## Publications
+## Selected Publications
 <div style="text-align: justify;">
 
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
@@ -48,23 +48,19 @@
 
 </div>
 
-## Activities
+## Selected Activities
 **Peer-Reviewer:** 
 - [IEEE Access](https://ieeeaccess.ieee.org/), New York, NY, USA | 2025 – Present
 - [CaPTion @ MICCAI](https://caption-workshop.github.io/), Strasboug, France | 2026
 - [MIUA](https://www.ucd.ie/medicine/miua2026/), Dublin, Ireland | 2026
 
-## Awards
+## Selected Awards
 **[Research Assistantship]:** Supported by the Telkes Lab, University of Arizona ($71,158) | 2025 - Present  
 **[Herbold Fellowship]:** Awarded by the College of Engineering, University of Arizona ($58,470) | 2024 - 2025  
 
 ---
 © 2024-2026 **Reza** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
-
-## Technical Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsaraei&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaraei)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
