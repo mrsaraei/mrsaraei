@@ -26,7 +26,7 @@
 *Graduate Research Assistant: VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025*  
 <p align="justify">My role designed and developed ViT-2SPN, an anatomy-aware self-supervised framework for retinal OCT classification. By integrating ophthalmic foundation models, asymmetric knowledge distillation, dual-stream cross-attention, and axial-aware positional encoding with a triple-objective loss (global contrastive, local patch alignment, and frequency reconstruction).</p>
 
-**Neural Biomarker Predictive Workflow for Spinal Cord Stimulation**  
+**Machine Learning-Based Neural Biomarker Predictive Workflow for Spinal Cord Stimulation**  
 *Graduate Research Assistant: Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present*   
 <p align="justify">My role architected explainable machine learning and signal processing workflows to uncover objective neural biomarkers of spinal cord stimulation response, incorporating graph neural networks for spectral connectivity analysis and phase-amplitude coupling.</p>
 
