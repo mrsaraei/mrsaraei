@@ -6,7 +6,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering, passionate about computational biomedicine, scientific machine learning, and biomarker discovery. Experienced in designing foundation-guided, physics-informed latent diffusion architectures, high-throughput IHC cellular quantification (Roche), anatomy-aware self-supervised frameworks (VSI Lab), and neural biomarker predictive workflows (Telkes Lab). Demonstrated track record of leading clinical engineering initiatives and collaborating with the WHO; proficient in English, Turkish, Azerbaijani, and Persian.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering, passionate about computational biomedicine, scientific machine learning, and biomarker discovery. Experienced in designing foundation-guided, physics-informed latent diffusion architectures; high-throughput IHC cellular quantification (Roche); anatomy-aware self-supervised frameworks (VSI Lab); and machine learning-based neural biomarker predictive workflows (Telkes Lab). Demonstrated track record of leading clinical engineering initiatives and collaborating with the WHO; proficient in English, Turkish, Azerbaijani, and Persian.</p>
 
 ## Education
 
