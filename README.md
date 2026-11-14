@@ -1,7 +1,9 @@
 <div align="center">
+
 [![Professional Profile](https://img.shields.io/badge/Professional%20Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/mrsaraei/)
 [![Research Profile](https://img.shields.io/badge/Research%20Profile-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IwY5S7kAAAAJ&hl=en)
 [![GitHub Profile](https://img.shields.io/badge/Code%20%26%20Projects-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsaraei)
+
 </div>
 
 <p align="justify">Ph.D. student in Biomedical Engineering, passionate about computational biomedicine, scientific machine learning, and biomarker discovery. Experienced in designing foundation-guided, physics-informed latent diffusion architectures, high-throughput IHC cellular quantification (Roche), anatomy-aware self-supervised frameworks (VSI Lab), and neural biomarker predictive workflows (Telkes Lab). Demonstrated track record of leading clinical engineering initiatives and collaborating with the WHO; proficient in English, Turkish, Azerbaijani, and Persian.</p>
@@ -43,9 +45,11 @@
 
 ## Publications
 <div style="text-align: justify;">
+
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
 - **Saraei, M.**, & Liu, S. (2023). *Attention-Based Deep Learning Approaches in Brain Tumor Image Analysis: A Mini Review*. Front. Health Inform., 12, 164. 🔗 <a href="https://www.scopus.com/record/display.uri?eid=2-s2.0-85176209321&origin=inward&txGid=8840490b34d1154f722caf67f5223016">DOI</a> 
 - **Saraei, M.**, Rahmani, S., Rajebi, S., & Danishvar, S. (2023). *A Different Traditional Approach for Automatic Comparative Machine Learning in Multimodal COVID-19 Severity Recognition<*. Int. J. Innov. Eng., 3(1), 1–12. 🔗 <a href="https://doi.org/10.59615/ijie.3.1.1">DOI</a>
+
 </div>
 
 ## Activities
