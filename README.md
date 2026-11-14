@@ -16,8 +16,9 @@
 
 ## Technical Expertise
 
-
-**Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
+**MorphoStain: Multiplex Stain Decomposition in Alzheimer's Neuropathology**   
+*Lead Researcher, The University of Arizona, Tucson, AZ, USA | Fall 2026*   
+<p align="justify">To resolve multiplex IHC stain unmixing and dual-DAB Amyloid-β/Tau disentanglement in Alzheimer’s neuropathology, I developed a physics-guided teacher–student generative framework. Coupling a Phikon-conditioned Beer–Lambert Latent Diffusion Teacher with Monte Carlo sampling achieved calibrated uncertainty (ECE = 0.0125), while symmetric morphological routing distilled the 169.67M teacher (>1,400×) into a real-time 0.12M-parameter FastStudentUNet (140.1 FPS, 40.56 dB PSNR) with strong zero-shot HER2 IHC generalization (38.45 dB) and illumination drift resilience (+11.64 dB over SOTA).</p>
 
 **HemQ: Automated Cellular Quantification Tool for Dialable LOTUS Hematoxylin**  
 *Computational Pathology Intern: Pathology Lab Research & Early Development, Roche, Tucson, USA | Summer 2026*    
@@ -25,7 +26,9 @@
 
 **ViT-2SPN: Dual-Stream Self-Supervised Pretraining Tool for Retinal OCT Classification**  
 *Graduate Research Assistant: VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025*  
-<p align="justify">My role developed ViT-2SPN, an anatomy-aware self-supervised framework for retinal OCT classification. By integrating ophthalmic foundation models, asymmetric knowledge distillation, dual-stream cross-attention, and axial-aware positional encoding with a triple-objective loss (global contrastive, local patch alignment, and frequency reconstruction)</p>
+<p align="justify">My role designed and developed ViT-2SPN, an anatomy-aware self-supervised framework for retinal OCT classification. By integrating ophthalmic foundation models, asymmetric knowledge distillation, dual-stream cross-attention, and axial-aware positional encoding with a triple-objective loss (global contrastive, local patch alignment, and frequency reconstruction)</p>
+
+**Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present
 
 **Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024  
 <p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
