@@ -34,14 +34,10 @@
 *Supervisor, Clinical Engineer: Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024*  
 <p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
 
-**Department Assistant:** Dean's Office, BME Department, University of Arizona, Tucson, USA | Summer 2025  
-<p align="justify">My role involved managing alumni records, supporting student orientation events, and guiding program resources, research opportunities, and departmental activities.</p>
-
 **Undergraduate Teaching Assistant:** East Azerbaijan, Tabriz, Iran  
 - [BME 090] Introduction to Clinical Engineering, Tabriz University – Dr. Sebelan Danishvar | 2016 – 2017  
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
-
 
 ## Publications
 <div style="text-align: justify;">
@@ -72,6 +68,10 @@
 
 <!--
 <img src="https://github.com/mrsaraei/mrsaraei/blob/e05966da9d4a34fb18c7cd3f62e041ca81317740/figure/cfcb9561-c924-4494-84b5-121c720a3598.jpeg" alt="">
+
+**Department Assistant:** Dean's Office, BME Department, University of Arizona, Tucson, USA | Summer 2025  
+<p align="justify">My role involved managing alumni records, supporting student orientation events, and guiding program resources, research opportunities, and departmental activities.</p>
+
 
 Dissertation [Co-Op: Medtronic & UZ Brussels]: Decoding the Spine-Brain Continuum: A Multimodal ECAP- and EEG-Based Predictive Model for Personalized SCS in Chronic Pain (2025–Present)  
 <p align="justify">While spinal cord stimulation (SCS) is a promising intervention for chronic pain, clinical outcomes remain constrained by an incomplete understanding of its mechanism of action and a lack of patient-specific parameter optimization. To bridge this gap, this project establishes a novel neurophysiological and computational framework that combines spinal physiology (via ECAPs) and supraspinal physiology (via EEG) to model the full spine-brain continuum. This approach incorporates the electrical properties of stimulation, device characteristics, neural structures, parameter-dependent SCS effects, and neural interface interactions between the electrode and the spine to rigorously characterize how SCS alters neural activity through spectral features, functional connectivity, and phase–amplitude coupling. Machine learning models will leverage these validated biomarkers and physiological mechanisms to predict therapeutic responses and optimize stimulation parameters, ultimately yielding a Clinical Decision-Making toolbox for personalized SCS care and laying the groundwork for next-generation adaptive, closed-loop systems.</p>
