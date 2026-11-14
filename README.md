@@ -8,7 +8,7 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in computational biomedicine, biomarker discovery, and cancer informatics. Focused on translating multimodal data into actionable clinical insights. Experienced in automated whole-slide image analysis, machine/deep learning, and computer vision for computational pathology (Roche), as well as neurophysiological signal processing for chronic pain neural biomarker discovery (Telkes Lab and Medtronic). Proven track record of leading clinical engineering teams and collaborating with the World Health Organization during the COVID-19 pandemic; professional working proficiency in English, Turkish, Azerbaijani, and Persian.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering, passionate about computational biomedicine, scientific machine learning, and biomarker discovery. Experienced in designing foundation-guided, physics-informed latent diffusion architectures, high-throughput IHC cellular quantification (Roche), self-supervised representation learning (VSI Lab), and neural biomarker predictive models (Telkes Lab). Demonstrated track record of leading clinical engineering initiatives and collaborating with the WHO; proficient in English, Turkish, Azerbaijani, and Persian.</p>
 
 ## Education
 
@@ -16,15 +16,16 @@
 
 ## Technical Expertise
 
+
 **Graduate Research Assistant:** Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present  
 
-**Computational Pathology Intern:** Pathology Lab Research & Early Development, Roche, Tucson, USA | Summer 2026  
-
-Project [PL-RED]: HemQ: Automated Cellular Quantification Tool for Dialable LOTUS Hematoxylin 
+**HemQ: Automated Cellular Quantification Tool for Dialable LOTUS Hematoxylin**  
+*Computational Pathology Intern: Pathology Lab Research & Early Development, Roche, Tucson, USA | Summer 2026*    
 <p align="justify">To support the Roche agile team’s development of a customizable Hematoxylin counterstain reagent for the LOTUS platform, I engineered the core computational pipeline for automated tissue segmentation, stain unmixing, and the extraction of nuclear and non-nuclear features to drive pathologist-aligned scoring and reduce diagnostic variability. Building upon this automated quantification tool designed to optimize laboratory efficiency and lower operational costs, I further integrated CPU-bound performance enhancements—including parallel computing, partial patch processing, and coarse-to-fine analysis—to ensure efficient, high-throughput segmentation across standard laboratory workstations without requiring dedicated GPU infrastructure.</p>
 
-**Graduate Research Assistant:** VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025  
-<p align="justify">My role involved designing and implementing deep learning pipelines for medical object detection and multimodal sensor fusion, incorporating triple adaptive mechanisms and a self-supervised pretraining framework that leverages contrastive learning, adaptive layer weighting, and token-level attention initialized in Python (TensorFlow & Keras) workflows.</p>
+**ViT-2SPN: Dual-Stream Self-Supervised Pretraining Tool for Retinal OCT Classification**  
+*Graduate Research Assistant: VSI Lab, ECE Department, University of Arizona, Tucson, USA | 2024 – 2025*  
+<p align="justify">My role developed ViT-2SPN, an anatomy-aware self-supervised framework for retinal OCT classification. By integrating ophthalmic foundation models, asymmetric knowledge distillation, dual-stream cross-attention, and axial-aware positional encoding with a triple-objective loss (global contrastive, local patch alignment, and frequency reconstruction)</p>
 
 **Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024  
 <p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
@@ -40,16 +41,8 @@ Project [PL-RED]: HemQ: Automated Cellular Quantification Tool for Dialable LOTU
 - [BME 020] Equipment of Hospitals & Medical Centers, Islamic Azad University of Tabriz – Dr. Hashemiaghdam | 2013 – 2014  
 - [BME 006-8] Computer Programming & Algorithm Calculus, Islamic Azad University of Tabriz – Dr. Rajabioun | 2012 – 2013  
 
-## Presentations (Poster/Oral)
-<div style="text-align: justify;">
 
-- Sakthivel, S., **Saraei, M.**, Sadek, H., & Telkes, I. (2026). *Examining Electrocardiogram Morphology and Heart Rate Variability During Spinal Cord Stimulation for Chronic Pain*. Stanford Cardiovascular Institute Research Symposium, California, USA.
-- **Saraei, M.**, & Telkes, I. (2026). *Preliminary EEG Connectivity Signatures of Long-Term Spinal Cord Stimulation in Chronic Pain*. NYC Neuromodulation Conference (Neuromodec), New York, NY, USA. 🔗 <a href="https://neuromodec.org/2026-nyc-neuromodulation-conference/abstracts-online.html#C72">Link</a>
-- **Saraei, M.**, Pousseu, L., DiMarzio, M., Pilitsis, J. G., & Telkes, I. (2026). *Altered Alpha–Theta Network Connectivity During Spinal Cord Stimulation in Chronic Pain*. 17th World Congress of the International Neuromodulation Society (INS), Lisbon, Portugal.
-
-</div>
-
-## Publications (Journal)
+## Publications
 <div style="text-align: justify;">
 
 - **Saraei, M.**, Lee, E.J., & Lalinia, M. (2025). *Deep Learning-Based Medical Object Detection: A Survey*. IEEE Access (EMBS), 13, 53019–53038. 🔗 <a href="https://doi.org/10.1109/ACCESS.2025.3553087">DOI</a>  
@@ -71,7 +64,6 @@ Project [PL-RED]: HemQ: Automated Cellular Quantification Tool for Dialable LOTU
 ---
 © 2024-2026 **Reza** · All rights reserved!  
 📧 [mrsaraei@arizona.edu](mailto:mrsaraei@arizona.edu) &nbsp;|&nbsp; [mrsaraei@yahoo.com](mailto:mrsaraei@yahoo.com)
-
 
 
 
