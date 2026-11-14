@@ -1,5 +1,3 @@
-<img src="https://github.com/mrsaraei/mrsaraei/blob/e05966da9d4a34fb18c7cd3f62e041ca81317740/figure/cfcb9561-c924-4494-84b5-121c720a3598.jpeg" alt="">
-
 <div align="center">
 
 [![Professional Profile](https://img.shields.io/badge/Professional%20Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/mrsaraei/)
@@ -73,6 +71,7 @@
 
 
 <!--
+<img src="https://github.com/mrsaraei/mrsaraei/blob/e05966da9d4a34fb18c7cd3f62e041ca81317740/figure/cfcb9561-c924-4494-84b5-121c720a3598.jpeg" alt="">
 
 Dissertation [Co-Op: Medtronic & UZ Brussels]: Decoding the Spine-Brain Continuum: A Multimodal ECAP- and EEG-Based Predictive Model for Personalized SCS in Chronic Pain (2025–Present)  
 <p align="justify">While spinal cord stimulation (SCS) is a promising intervention for chronic pain, clinical outcomes remain constrained by an incomplete understanding of its mechanism of action and a lack of patient-specific parameter optimization. To bridge this gap, this project establishes a novel neurophysiological and computational framework that combines spinal physiology (via ECAPs) and supraspinal physiology (via EEG) to model the full spine-brain continuum. This approach incorporates the electrical properties of stimulation, device characteristics, neural structures, parameter-dependent SCS effects, and neural interface interactions between the electrode and the spine to rigorously characterize how SCS alters neural activity through spectral features, functional connectivity, and phase–amplitude coupling. Machine learning models will leverage these validated biomarkers and physiological mechanisms to predict therapeutic responses and optimize stimulation parameters, ultimately yielding a Clinical Decision-Making toolbox for personalized SCS care and laying the groundwork for next-generation adaptive, closed-loop systems.</p>
