@@ -16,7 +16,7 @@
 
 ## Technical Expertise
 
-**MorphoStain: Multiplex Stain Decomposition in Alzheimer's Neuropathology**   
+**MorphoStain: Multiplex Stain Decomposition in Alzheimer's Neuropathology []**   
 *Lead Researcher, The University of Arizona, Tucson, AZ, USA | Fall 2026*   
 <p align="justify">To resolve multiplex IHC stain unmixing and dual-DAB Amyloid-β/Tau disentanglement in Alzheimer’s neuropathology, I developed a physics-guided teacher–student generative framework. Coupling a Phikon-conditioned Beer–Lambert Latent Diffusion Teacher with Monte Carlo sampling achieved calibrated uncertainty (ECE = 0.0125), while symmetric morphological routing distilled the 169.67M teacher (>1,400×) into a real-time 0.12M-parameter FastStudentUNet (140.1 FPS, 40.56 dB PSNR) with strong zero-shot HER2 IHC generalization (38.45 dB) and illumination drift resilience (+11.64 dB over SOTA).</p>
 
@@ -32,7 +32,8 @@
 *Graduate Research Assistant: Telkes Lab, BME & Neurosurgery Department, University of Arizona, Tucson, USA | 2025 – Present*   
 <p align="justify">My role architected explainable machine learning and signal processing workflows to uncover objective neural biomarkers of spinal cord stimulation response, incorporating graph neural networks for spectral connectivity analysis and phase-amplitude coupling.</p>
 
-**Supervisor, Clinical Engineer:** Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024  
+**Medical Device Lifecycle & Clinical Data Management**
+*Supervisor, Clinical Engineer: Tabriz University of Medical Sciences, East Azerbaijan, Tabriz, Iran | 2014 – 2024*  
 <p align="justify">My role involved implementing machine learning frameworks incorporating feature extraction and ensemble methods for multimodal clinical data analysis, while leading clinical engineering teams in overseeing capital and disposable medical device management, operational training, preventive maintenance, statistical analysis, clinical readiness, and collaboration with the WHO on COVID-19 response to ensure safe, efficient, and effective healthcare operations.</p>
 
 **Department Assistant:** Dean's Office, BME Department, University of Arizona, Tucson, USA | Summer 2025  
