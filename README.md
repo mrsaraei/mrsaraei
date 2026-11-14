@@ -8,13 +8,11 @@
 
 </div>
 
-<p align="justify">Ph.D. student in Biomedical Engineering specializing in computational biomedicine, biomarker discovery, and cancer informatics. Focused on translating multimodal data into actionable clinical insights. Experienced in automated whole slide image analysis, machine/deep learning, and computer vision for computational pathology (Roche), as well as neurophysiological signal processing for chronic pain neural biomarker discovery (Telkes Lab and Medtronic). Proven track record of leading clinical engineering teams and collaborating with the World Health Organization during the COVID-19 pandemic; professional working proficiency in English, Turkish, Azerbaijani, and Persian.</p>
+<p align="justify">Ph.D. student in Biomedical Engineering specializing in computational biomedicine, biomarker discovery, and cancer informatics. Focused on translating multimodal data into actionable clinical insights. Experienced in automated whole-slide image analysis, machine/deep learning, and computer vision for computational pathology (Roche), as well as neurophysiological signal processing for chronic pain neural biomarker discovery (Telkes Lab and Medtronic). Proven track record of leading clinical engineering teams and collaborating with the World Health Organization during the COVID-19 pandemic; professional working proficiency in English, Turkish, Azerbaijani, and Persian.</p>
 
 ## Education
 
 **Ph.D., Biomedical Engineering**, The University of Arizona, Tucson, AZ, USA | 2024 – Present  
-**M.Sc., Biomedical Engineering**, Seraj University, Tabriz, East Azerbaijan, Iran | 2020 – 2022  
-**B.Sc., Biomedical Engineering**, Islamic Azad University, Tabriz, East Azerbaijan, Iran | 2010 – 2014  
 
 ## Technical Expertise
 
